@@ -1,4 +1,4 @@
-<h2 align='center'> <i>Hello, Folks! <img src="https://github.com/yatinj30/yatinj30/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> </h2> 
+<h2 align='center'> <i>Hello, Folks! 👋 I am glad to see that you've visited my profile</i> </h2> 
 </br>
 
 
@@ -56,6 +56,3 @@
 
 ### Support
 <p><a href="https://www.buymeacoffee.com/yatinj.sutariya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yatinj.sutariya" /></a></p><br><br>
-
-
-
