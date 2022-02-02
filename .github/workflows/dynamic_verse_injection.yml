@@ -1,0 +1,31 @@
+name: Dynamic VERSE injection
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  get-verse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get random verse
+        uses: actions/setup-node@v1
+        with:
+          node-version: 14.6.0
+
+      - run: node .
+
+      - name: Add to git repo
+        run: |
+          git config pull.rebase false
+          git pull
+          git add .
+          git config --global user.name "yatinj30"
+          git config --global user.email "yatinjpatel30@gmail.com"
+          git commit -m "[Automated] README shlok updated!"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
