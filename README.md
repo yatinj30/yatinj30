@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः | न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ||६-१६||" </br>
-Translate: "6.16 Meditation is not for him who eats too much, not for him who eats not at all; not for him who is overmuch addicted to sleep, not for him who is always awake." </br>
+"अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव | मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||" </br>
+Translate: "12.10 And if thou are not strong enough to practise concentration, then devote thyself to My service, do all thine acts for My sake, and thou shalt still attain the goal." </br>
 
 # Prefs
 <table>
