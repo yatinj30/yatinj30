@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः | त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ||४-९||" </br>
-Translate: "4.9 He who realises the divine truth concerning My birth and life is not born again; and when he leaves his body, he becomes one with Me." </br>
+"अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते | यष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||" </br>
+Translate: "17.11 Sacrifice is Pure when it is offered by one who does not covet the fruit thereof, when it is done according to the commands of scripture, and with implicit faith that the sacrifice is a duty." </br>
 
 # Prefs
 <table>
