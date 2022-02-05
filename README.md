@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"जितात्मनः प्रशान्तस्य परमात्मा समाहितः | शीतोष्णसुखदुःखेषु तथा मानापमानयोः ||६-७||" </br>
-Translate: "6.7 The Self of him who is self-controlled, and has attained peace is equally unmoved by heat or cold, pleasure or pain, honour or dishonour." </br>
+"अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते | इति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||" </br>
+Translate: "10.8 I am the source of all; from Me everything flows. Therefore the wise worship Me with unchanging devotion." </br>
 
 # Prefs
 <table>
