@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा | असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ||१०-१३||" </br>
-Translate: "10.13 So have said the seers and the divine sage Narada; as well as Asita, Devala and Vyasa; and Thou Thyself also sayest it." </br>
+"अदेशकाले यद्दानमपात्रेभ्यश्च दीयते | असत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||" </br>
+Translate: "17.22 And that which is given at an unsuitable place or time or to one who is unworthy, or with disrespect or contempt - such a gift is the result of Ignorance." </br>
 
 # Prefs
 <table>
