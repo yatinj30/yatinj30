@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वेदाविनाशिनं नित्यं य एनमजमव्ययम् | कथं स पुरुषः पार्थ कं घातयति हन्ति कम् ||२-२१||" </br>
-Translate: "2.21 He who knows the Spirit as Indestructible, Immortal, Unborn, Always-the-Same, how should he kill or cause to be killed?" </br>
+"मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि | अथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ||१८-५८||" </br>
+Translate: "18.58 Fix but thy mind on Me, and by My grace thou shalt overcome the obstacles in thy path. But if, misled by pride, thou wilt not listen, then indeed thou shalt be lost." </br>
 
 # Prefs
 <table>
