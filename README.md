@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः | मुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||" </br>
-Translate: "10.37 I am Shri Krishna among the Vishnu-clan and Arjuna among the Pandavas; of the saints I am Vyasa, and I am Shukracharya among the sages." </br>
+"यच्चापि सर्वभूतानां बीजं तदहमर्जुन | न तदस्ति विना यत्स्यान्मया भूतं चराचरम् ||१०-३९||" </br>
+Translate: "10.39 I am the Seed of all being, O Arjuna! No creature moving or unmoving can live without Me." </br>
 
 # Prefs
 <table>
