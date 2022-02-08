@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति | स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ||२-७२||" </br>
-Translate: "2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to which if a man once attain, it shall never be taken from him. Even at the time of leaving the body, he will remain firmly enthroned there, and will become one with the Eternal."" </br>
+"पञ्चैतानि महाबाहो कारणानि निबोध मे | साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||१८-१३||" </br>
+Translate: "18.13 I will tell thee now, O Mighty Man, the five causes which, according to the final decision of philosophy, must concur before an action can be accomplished." </br>
 
 # Prefs
 <table>
