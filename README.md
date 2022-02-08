@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् | अधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||" </br>
-Translate: "8.4 Matter consists of the forms that perish; Divinity is the Supreme Self; and He who inspires the spirit of sacrifice in man, O noblest of thy race, is I Myself, Who now stand in human form before thee." </br>
+"एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति | स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ||२-७२||" </br>
+Translate: "2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to which if a man once attain, it shall never be taken from him. Even at the time of leaving the body, he will remain firmly enthroned there, and will become one with the Eternal."" </br>
 
 # Prefs
 <table>
