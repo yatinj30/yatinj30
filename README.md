@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्षयन्तः शरीरस्थं भूतग्राममचेतसः | मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||" </br>
-Translate: "17.6 They are ignorant. They torment the organs of the body; and they harass Me also, Who lives within. Know that they are devoted to evil." </br>
+"सञ्जय उवाच | एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||" </br>
+Translate: "1.24 Sanjaya said: "Having listened to the request of Arjuna, Lord Shri Krishna drew up His bright chariot exactly in the midst between the two armies," </br>
 
 # Prefs
 <table>
