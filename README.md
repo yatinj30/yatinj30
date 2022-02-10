@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः | अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ||१-८||" </br>
-Translate: "1.8 You come first; then Bheeshma, Karna, Kripa, great soldiers; Ashwaththama, Vikarna and the son of Somadhatta;" </br>
+"अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||" </br>
+Translate: "1.4 In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;" </br>
 
 # Prefs
 <table>
