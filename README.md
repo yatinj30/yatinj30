@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः | प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ||५-२७||" </br>
-Translate: "5.27 Excluding external objects, his gaze fixed between the eyebrows, the inward and outward breathings passing equally through his nostrils;" </br>
+"रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते | तथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||" </br>
+Translate: "14.15 When Passion prevails, the soul is reborn among those who love activity; when Ignorance rules, it enters the wombs of the ignorant." </br>
 
 # Prefs
 <table>
