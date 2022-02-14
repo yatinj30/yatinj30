@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि | तथा शरीराणि विहाय जीर्णा- न्यन्यानि संयाति नवानि देही ||२-२२||" </br>
-Translate: "2.22 As a man discards his threadbare robes and puts on new, so the Spirit throws off Its worn-out bodies and takes fresh ones." </br>
+"रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् | वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||" </br>
+Translate: "10.23 Among Forces of Vitality I am the life, I am Mammon to the heathen and the godless; I am the Energy in fire, earth, wind, sky, heaven, sun, moon and planets; and among mountains am the Mount Meru." </br>
 
 # Prefs
 <table>
