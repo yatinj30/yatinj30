@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत | स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||१८-७३||" </br>
-Translate: "18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By Thy Grace, O Changeless One, the light has dawned. My doubts are gone, and I stand before Thee ready to do Thy will."" </br>
+"इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः | सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||" </br>
+Translate: "14.2 Dwelling in Wisdom and realising My Divinity, they are not born again when the universe is re-created at the beginning of every cycle, nor are they affected when it is dissolved." </br>
 
 # Prefs
 <table>
