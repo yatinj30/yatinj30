@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् | मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||१८-२५||" </br>
-Translate: "18.25 An action undertaken through delusion, and with no regard to the spiritual issues involved, or the real capacity of the doer, or to the injury which may follow, such an act may be assumed to be the product of Ignorance." </br>
+"तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः | इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-६८||" </br>
+Translate: "2.68 Therefore, O Might-in-Arms, he who keeps his senses detached from their objects - take it that his reason is purified." </br>
 
 # Prefs
 <table>
