@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् | प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ||९-१८||" </br>
-Translate: "9.18 I am the Goal, the Sustainer, the Lord, the Witness, the Home, the Shelter, the Lover and the Origin; I am Life and Death; I am the Fountain and the Seed Imperishable." </br>
+"द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते | सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||" </br>
+Translate: "1.18 And O King! Drupada, the sons of Droupadi and Soubhadra, the great soldier, blew their conches." </br>
 
 # Prefs
 <table>
