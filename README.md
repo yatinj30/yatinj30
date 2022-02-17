@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् | तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ||२-२६||" </br>
-Translate: "2.26 Even if thou thinkest of It as constantly being born, constantly dying, even then, O Mighty Man, thou still hast no cause to grieve." </br>
+"अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि | ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ||२-३३||" </br>
+Translate: "2.33 Refuse to fight in this righteous cause, and thou wilt be a traitor, lost to fame, incurring only sin." </br>
 
 # Prefs
 <table>
