@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तानहं द्विषतः क्रुरान्संसारेषु नराधमान् | क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||" </br>
-Translate: "16.19 Those who thus hate Me, who are cruel, the dregs of mankind, I condemn them to a continuous, miserable and godless rebirth." </br>
+"श्रीभगवानुवाच | प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् | आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ||२-५५||" </br>
+Translate: "2.55 Lord Shri Krishna replied: When a man has given up the desires of his heart and is satisfied with the Self alone, be sure that he has reached the highest state." </br>
 
 # Prefs
 <table>
