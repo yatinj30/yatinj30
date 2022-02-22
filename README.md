@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् | अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||" </br>
-Translate: "12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved." </br>
+"अर्जुन उवाच | नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत | स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||१८-७३||" </br>
+Translate: "18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By Thy Grace, O Changeless One, the light has dawned. My doubts are gone, and I stand before Thee ready to do Thy will."" </br>
 
 # Prefs
 <table>
