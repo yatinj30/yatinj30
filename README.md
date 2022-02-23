@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मय्येव मन आधत्स्व मयि बुद्धिं निवेशय | निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||" </br>
-Translate: "12.8 Then let thy mind cling only to Me, let thy intellect abide in Me; and without doubt thou shalt live hereafter in Me alone." </br>
+"सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ | ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||२-३८||" </br>
+Translate: "2.38 Look upon pleasure and pain, victory and defeat, with an equal eye. Make ready for the combat, and thou shalt commit no sin." </br>
 
 # Prefs
 <table>
