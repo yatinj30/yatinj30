@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अमी च त्वां धृतराष्ट्रस्य पुत्राः सर्वे सहैवावनिपालसङ्घैः | भीष्मो द्रोणः सूतपुत्रस्तथासौ सहास्मदीयैरपि योधमुख्यैः ||११-२६||" </br>
-Translate: "11.26 All these sons of Dhritarashtra, with the hosts of princes, Bheeshma, Drona and Karna, as well as the other warrior chiefs belonging to our side;" </br>
+"अव्यक्ताद् व्यक्तयः सर्वाः प्रभवन्त्यहरागमे | रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ||८-१८||" </br>
+Translate: "8.18 At the dawning of that day all objects in manifestation stream forth from the Unmanifest, and when evening falls they are dissolved into It again." </br>
 
 # Prefs
 <table>
