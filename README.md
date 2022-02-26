@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः | उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ||६-१२||" </br>
-Translate: "6.12 Seated thus, his mind concentrated, its functions controlled and his senses governed, let him practise meditation for the purification of his lower nature." </br>
+"अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः | अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||२-१८||" </br>
+Translate: "2.18 The material bodies which this Eternal, Indestructible, Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!" </br>
 
 # Prefs
 <table>
