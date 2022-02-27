@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||" </br>
-Translate: "1.17 And the Maharaja of Benares, the great archer, Shikhandi, the great soldier, Dhrishtayumna, Virata and Satyaki, the invincible," </br>
+"ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् | ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ||१३-५||" </br>
+Translate: "13.5 Seers have sung of It in various ways, in many hymns and sacred Vedic songs, weighty in thought and convincing in argument." </br>
 
 # Prefs
 <table>
