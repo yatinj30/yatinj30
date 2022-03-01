@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः | यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||" </br>
-Translate: "16.17 Self-conceited, stubborn, rich, proud and insolent, they make a display of their patronage, disregarding the rules of decency." </br>
+"यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः | भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ||९-२५||" </br>
+Translate: "9.25 The votaries of the lesser Powers go to them; the devotees of spirits go to them; they who worship the Powers of Darkness, to such Powers shall they go; and so, too, those who worship Me shall come to Me." </br>
 
 # Prefs
 <table>
