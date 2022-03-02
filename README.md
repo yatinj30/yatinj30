@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् | यतते च ततो भूयः संसिद्धौ कुरुनन्दन ||६-४३||" </br>
-Translate: "6.43 Then the experience acquired in his former life will revive, and with its help he will strive for perfection more eagerly than before." </br>
+"यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः | प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||" </br>
+Translate: "17.4 The Pure worship the true God; the Passionate, the powers of wealth and magic; the Ignorant, the spirits of the dead and of the lower orders of nature." </br>
 
 # Prefs
 <table>
