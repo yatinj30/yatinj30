@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः | प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||" </br>
-Translate: "17.4 The Pure worship the true God; the Passionate, the powers of wealth and magic; the Ignorant, the spirits of the dead and of the lower orders of nature." </br>
+"तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः | कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ||६-४६||" </br>
+Translate: "6.46 The wise man is superior to the ascetic and to the scholar and to the man of action; therefore be thou a wise man, O Arjuna!" </br>
 
 # Prefs
 <table>
