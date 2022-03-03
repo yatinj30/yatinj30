@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् | यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||" </br>
-Translate: "8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me." </br>
+"आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः | रस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ||१७-८||" </br>
+Translate: "17.8 The foods that prolong life and increase purity, vigour, health, cheerfulness and happiness are those that are delicious, soothing, substantial and agreeable. These are loved by the Pure." </br>
 
 # Prefs
 <table>
