@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् | एतज्ज्ञानमिति प्रोक्तमज्ञानं यदतोऽन्यथा ||१३-१२||" </br>
-Translate: "13.12 Constant yearning for the knowledge of Self, and pondering over the lessons of the great Truth - this is Wisdom, all else ignorance." </br>
+"ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः | तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ||५-१६||" </br>
+Translate: "5.16 Surely wisdom is like the sun, revealing the supreme truth to those whose ignorance is dispelled by the wisdom of the Self." </br>
 
 # Prefs
 <table>
