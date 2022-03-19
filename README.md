@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च | शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||१८-५१||" </br>
-Translate: "18.51 Guided always by pure reason, bravely restraining himself, renouncing the objects of sense and giving up attachment and hatred;" </br>
+"तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः | दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||" </br>
+Translate: "17.25 Those who desire deliverance begin their acts of sacrifice, austerity or gift with the word Tat' (meaning That'), without thought of reward." </br>
 
 # Prefs
 <table>
