@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः | यज्ञायाचरतः कर्म समग्रं प्रविलीयते ||४-२३||" </br>
-Translate: "4.23 He who is without attachment, free, his mind centered in wisdom, his actions, being done as a sacrifice, leave no trace behind." </br>
+"विषया विनिवर्तन्ते निराहारस्य देहिनः | रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||२-५९||" </br>
+Translate: "2.59 The objects of sense turn from him who is abstemious. Even the relish for them is lost in him who has seen the Truth." </br>
 
 # Prefs
 <table>
