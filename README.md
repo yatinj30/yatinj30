@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च | अहमेवाक्षयः कालो धाताहं विश्वतोमुखः ||१०-३३||" </br>
-Translate: "10.33 Of letters I am A; I am the copulative in compound words; I am Time inexhaustible; and I am the all-pervading Preserver." </br>
+"त्वमक्षरं परमं वेदितव्यं त्वमस्य विश्वस्य परं निधानम् | त्वमव्ययः शाश्वतधर्मगोप्ता सनातनस्त्वं पुरुषो मतो मे ||११-१८||" </br>
+Translate: "11.18 Imperishable art Thou, the Sole One worthy to be known, the priceless Treasure-house of the universe, the immortal Guardian of the Life Eternal, the Spirit Everlasting." </br>
 
 # Prefs
 <table>
