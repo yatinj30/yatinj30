@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनञ्च | वेदैश्च सर्वैरहमेव वेद्यो वेदान्तकृद्वेदविदेव चाहम् ||१५-१५||" </br>
-Translate: "15.15 I am enthroned in the hearts of all; memory, wisdom and discrimination owe their origins to Me. I am He Who is to be realised in the scriptures; I inspire their wisdom and I know their truth." </br>
+"यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति | तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||२-५२||" </br>
+Translate: "2.52 When thy reason has crossed the entanglements of illusion, then shalt thou become indifferent both to the philosophies thou hast heard and to those thou mayest yet hear." </br>
 
 # Prefs
 <table>
