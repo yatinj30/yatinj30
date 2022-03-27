@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते | एकया यात्यनावृत्तिमन्ययावर्तते पुनः ||८-२६||" </br>
-Translate: "8.26 These bright and dark paths out of the world have always existed. Whoso takes the former, returns not; he who chooses the latter, returns.*" </br>
+"ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||४-११||" </br>
+Translate: "4.11 Howsoever men try to worship Me, so do I welcome them. By whatever path they travel, it leads to Me at last." </br>
 
 # Prefs
 <table>
