@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यावानर्थ उदपाने सर्वतः सम्प्लुतोदके | तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ||२-४६||" </br>
-Translate: "2.46 As a man can drink water from any side of a full tank, so the skilled theologian can wrest from any scripture that which will serve his purpose." </br>
+"वायुर्यमोऽग्निर्वरुणः शशाङ्कः प्रजापतिस्त्वं प्रपितामहश्च | नमो नमस्तेऽस्तु सहस्रकृत्वः पुनश्च भूयोऽपि नमो नमस्ते ||११-३९||" </br>
+Translate: "11.39 Thou art the Wind, Thou art Death, Thou art the Fire, the Water, the Moon, the Father and the Grandfather. Honour and glory to Thee a thousand and a thousand times! Again and again, salutation be to Thee, O my Lord!" </br>
 
 # Prefs
 <table>
