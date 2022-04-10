@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन | मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ||८-१६||" </br>
-Translate: "8.16 The worlds, with the whole realm of creation, come and go; but, O Arjuna, whoso comes to Me, for him there is nor rebirth." </br>
+"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
+Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
 
 # Prefs
 <table>
