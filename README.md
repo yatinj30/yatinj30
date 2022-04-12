@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः | ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ||४-३९||" </br>
-Translate: "4.39 He who is full of faith attains wisdom, and he too who can control his senses, having attained that wisdom, he shall ere long attain Supreme Peace." </br>
+"अनेकचित्तविभ्रान्ता मोहजालसमावृताः | प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||" </br>
+Translate: "16.16 Perplexed by discordant thoughts, entangled in the snares of desire, infatuated by passion, they sink into the horrors of hell." </br>
 
 # Prefs
 <table>
