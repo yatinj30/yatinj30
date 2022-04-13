@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः | विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ||५-२८||" </br>
-Translate: "5.28 Governing sense, mind and intellect, intent on liberation, free from desire, fear and anger, the sage is forever free." </br>
+"गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् | प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ||९-१८||" </br>
+Translate: "9.18 I am the Goal, the Sustainer, the Lord, the Witness, the Home, the Shelter, the Lover and the Origin; I am Life and Death; I am the Fountain and the Seed Imperishable." </br>
 
 # Prefs
 <table>
