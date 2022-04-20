@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् | अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||२-२||" </br>
-Translate: "2.2 "The Lord said: My beloved friend! Why yield, just on the eve of battle, to this weakness which does no credit to those who call themselves Aryans, and only brings them infamy and bars against them the gates of heaven?" </br>
+"ज्ञानं कर्म च कर्ताच त्रिधैव गुणभेदतः | प्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि ||१८-१९||" </br>
+Translate: "18.19 The knowledge, the act and the doer differ according to the Qualities. Listen to this too:" </br>
 
 # Prefs
 <table>
