@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"विषया विनिवर्तन्ते निराहारस्य देहिनः | रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||२-५९||" </br>
-Translate: "2.59 The objects of sense turn from him who is abstemious. Even the relish for them is lost in him who has seen the Truth." </br>
+"समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् | विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ||१३-२८||" </br>
+Translate: "13.28 He who can see the Supreme Lord in all beings, the Imperishable amidst the perishable, he it is who really sees." </br>
 
 # Prefs
 <table>
