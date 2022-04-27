@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"विविक्तसेवी लघ्वाशी यतवाक्कायमानसः | ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||१८-५२||" </br>
-Translate: "18.52 Enjoying solitude, abstemiousness, his body, mind and speech under perfect control, absorbed in meditation, he becomes free - always filled with the spirit of renunciation." </br>
+"स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः | स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||१८-४५||" </br>
+Translate: "5.10 He who dedicates his actions to the Spirit, without any personal attachment to them, he is no more tainted by sin than the water lily is wetted by water." </br>
 
 # Prefs
 <table>
