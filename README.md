@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आचार्याः पितरः पुत्रास्तथैव च पितामहाः | मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||" </br>
-Translate: "1.34 Teachers, fathers and grandfathers, sons and grandsons, uncles, father-in-law, brothers-in-law and other relatives." </br>
+"यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||" </br>
+Translate: "18.31 The intellect which does not understand what is right and what is wrong, and what should be done and what not, is under the sway of Passion." </br>
 
 # Prefs
 <table>
