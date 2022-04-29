@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||" </br>
-Translate: "18.71 Yea, he who listens to it with faith and without doubt, even he, freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds." </br>
+"आचार्याः पितरः पुत्रास्तथैव च पितामहाः | मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ||१-३४||" </br>
+Translate: "1.34 Teachers, fathers and grandfathers, sons and grandsons, uncles, father-in-law, brothers-in-law and other relatives." </br>
 
 # Prefs
 <table>
