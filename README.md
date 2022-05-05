@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति | नायं लोकोऽस्ति न परो न सुखं संशयात्मनः ||४-४०||" </br>
-Translate: "4.40 But the ignorant man, and he who has no faith, and the sceptic are lost. Neither in this world nor elsewhere is there any happiness in store for him who always doubts." </br>
+"स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा | कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोपि तत् ||१८-६०||" </br>
+Translate: "18.60 O Arjuna! Thy duty binds thee. From thine own nature has it arisen, and that which in thy delusion thou desire not to do, that very thing thou shalt do. Thou art helpless." </br>
 
 # Prefs
 <table>
