@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समं कायशिरोग्रीवं धारयन्नचलं स्थिरः | सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ||६-१३||" </br>
-Translate: "6.13 Let him hold body, head and neck erect, motionless and steady; let him look fixedly at the tip of his nose, turning neither to the right nor to the left." </br>
+"वेदाहं समतीतानि वर्तमानानि चार्जुन | भविष्याणि च भूतानि मां तु वेद न कश्चन ||७-२६||" </br>
+Translate: "7.26 I know, O Arjuna, all beings in the past, the present and the future; but they do not know Me." </br>
 
 # Prefs
 <table>
