@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् | कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||" </br>
-Translate: "10.9 With minds concentrated on Me, with lives absorbed in Me, and enlightening each other, they ever feel content and happy." </br>
+"तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते | प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ||७-१७||" </br>
+Translate: "7.17 Of all of these, he who has gained wisdom, who meditates on Me without ceasing, devoting himself only to Me, he is the best; for by the wise man I am exceedingly beloved and the wise man, too, is beloved by Me." </br>
 
 # Prefs
 <table>
