@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः | वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||२-५६||" </br>
-Translate: "2.56 The sage, whose mind is unruffled in suffering, whose desire is not roused by enjoyment, who is without attachment, anger or fear - take him to be one who stands at that lofty level." </br>
+"अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः | मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||" </br>
+Translate: "16.18 Puffed up by power and inordinate conceit, swayed by lust and wrath, these wicked people hate Me Who am within them, as I am within all." </br>
 
 # Prefs
 <table>
