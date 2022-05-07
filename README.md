@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ | पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||३-४१||" </br>
-Translate: "3.41 Therefore, O Arjuna, first control thy senses and then slay desire, for it is full of sin, and is the destroyer of knowledge and of wisdom." </br>
+"दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः | वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||२-५६||" </br>
+Translate: "2.56 The sage, whose mind is unruffled in suffering, whose desire is not roused by enjoyment, who is without attachment, anger or fear - take him to be one who stands at that lofty level." </br>
 
 # Prefs
 <table>
