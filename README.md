@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् | यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||" </br>
-Translate: "15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds." </br>
+"व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे | तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ||३-२||" </br>
+Translate: "3.2 Thy language perplexes me and confuses my reason. Therefore please tell me the only way by which I may, without doubt, secure my spiritual welfare." </br>
 
 # Prefs
 <table>
