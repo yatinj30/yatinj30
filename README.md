@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः | विषादी दीर्घसूत्री च कर्ता तामस उच्यते ||१८-२८||" </br>
-Translate: "18.28 While he whose purpose is infirm, who is low-minded, stubborn, dishonest, malicious, indolent, despondent, procrastinating - he may be assumed to be in Darkness." </br>
+"चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः | कामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||" </br>
+Translate: "16.11 Poring anxiously over evil resolutions, which only end in death; seeking only the gratification of desire as the highest goal; seeing nothing beyond;" </br>
 
 # Prefs
 <table>
