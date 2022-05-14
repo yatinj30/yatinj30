@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः | कामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||" </br>
-Translate: "16.11 Poring anxiously over evil resolutions, which only end in death; seeking only the gratification of desire as the highest goal; seeing nothing beyond;" </br>
+"स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः | भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||" </br>
+Translate: "4.3 It is the same ancient Path that I have now revealed to thee, since thou are My devotee and My friend. It is the supreme Secret." </br>
 
 # Prefs
 <table>
