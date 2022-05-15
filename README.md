@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् | तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ||६-३४||" </br>
-Translate: "6.34 My Lord! Verily, the mind is fickle and turbulent, obstinate and strong, yea extremely difficult as the wind to control." </br>
+"यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् | सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||२-३२||" </br>
+Translate: "2.32 Blessed are the soldiers who find their opportunity. This opportunity has opened for thee the gates of heaven." </br>
 
 # Prefs
 <table>
