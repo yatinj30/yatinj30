@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् | सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||२-३२||" </br>
-Translate: "2.32 Blessed are the soldiers who find their opportunity. This opportunity has opened for thee the gates of heaven." </br>
+"स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः | भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||" </br>
+Translate: "4.3 It is the same ancient Path that I have now revealed to thee, since thou are My devotee and My friend. It is the supreme Secret." </br>
 
 # Prefs
 <table>
