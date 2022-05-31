@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च | कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ||१८-६||" </br>
-Translate: "18.6 But they should be done with detachment and without thought of recompense. This is my final judgment." </br>
+"अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः | विषादी दीर्घसूत्री च कर्ता तामस उच्यते ||१८-२८||" </br>
+Translate: "18.28 While he whose purpose is infirm, who is low-minded, stubborn, dishonest, malicious, indolent, despondent, procrastinating - he may be assumed to be in Darkness." </br>
 
 # Prefs
 <table>
