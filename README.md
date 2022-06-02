@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"जितात्मनः प्रशान्तस्य परमात्मा समाहितः | शीतोष्णसुखदुःखेषु तथा मानापमानयोः ||६-७||" </br>
-Translate: "6.7 The Self of him who is self-controlled, and has attained peace is equally unmoved by heat or cold, pleasure or pain, honour or dishonour." </br>
+"अर्जुन उवाच | दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन | इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||" </br>
+Translate: "11.51 Arjuna said: Seeing Thee in Thy gentle human form, my Lord, I am myself again, calm once more." </br>
 
 # Prefs
 <table>
