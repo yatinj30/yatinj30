@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः | इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-६८||" </br>
-Translate: "2.68 Therefore, O Might-in-Arms, he who keeps his senses detached from their objects - take it that his reason is purified." </br>
+"नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति | गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ||१४-१९||" </br>
+Translate: "14.19 As soon as man understands that it is only the Qualities which act and nothing else, and perceives That which is beyond, he attains My divine nature." </br>
 
 # Prefs
 <table>
