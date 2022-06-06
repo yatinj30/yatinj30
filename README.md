@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः | प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ||५-२७||" </br>
-Translate: "5.27 Excluding external objects, his gaze fixed between the eyebrows, the inward and outward breathings passing equally through his nostrils;" </br>
+"श्रीभगवानुवाच | इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते | एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ||१३-२||" </br>
+Translate: "13.2 Lord Shri Krishna replied: O Arjuna! The body of man is the playground of the Self; and That which knows the activities of Matter, sages call the Self." </br>
 
 # Prefs
 <table>
