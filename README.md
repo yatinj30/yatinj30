@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः | सर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ||१२-११||" </br>
-Translate: "12.11 And if thou art too weak even for this, then seek refuge in union with Me, and with perfect self-control renounce the fruit of thy action." </br>
+"यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् | स सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||" </br>
+Translate: "15.19 He who with unclouded vision sees Me as the Lord-God, knows all there is to be known, and always shall worship Me with his whole heart." </br>
 
 # Prefs
 <table>
