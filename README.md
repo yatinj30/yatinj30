@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन | ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप ||११-५४||" </br>
-Translate: "11.54 Only by tireless devotion can I be seen and known; only thus can a man become one with Me, O Arjuna!" </br>
+"नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः | अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ||५-१५||" </br>
+Translate: "5.15 The Lord does not accept responsibility for any man's sin or merit. Men are deluded because in them wisdom is submerged in ignorance." </br>
 
 # Prefs
 <table>
