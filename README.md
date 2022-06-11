@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अदेशकाले यद्दानमपात्रेभ्यश्च दीयते | असत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||" </br>
-Translate: "17.22 And that which is given at an unsuitable place or time or to one who is unworthy, or with disrespect or contempt - such a gift is the result of Ignorance." </br>
+"निश्चयं शृणु मे तत्र त्यागे भरतसत्तम | त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||१८-४||" </br>
+Translate: "18.4 O best of Indians! Listen to my judgment as regards this problem. It has a threefold aspect." </br>
 
 # Prefs
 <table>
