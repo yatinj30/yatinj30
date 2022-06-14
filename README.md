@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् | प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||१४-८||" </br>
-Translate: "14.8 But Ignorance, the product of darkness, stupefies the senses in all embodied beings, binding them by chains of folly, indolence and lethargy." </br>
+"अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत | अव्यक्तनिधनान्येव तत्र का परिदेवना ||२-२८||" </br>
+Translate: "2.28 The end and the beginning of beings are unknown. We see only the intervening formations. Then what cause is there for grief?" </br>
 
 # Prefs
 <table>
