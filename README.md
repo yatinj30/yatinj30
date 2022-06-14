@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मां च योऽव्यभिचारेण भक्तियोगेन सेवते | स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||" </br>
-Translate: "14.26 And he who serves Me and only Me, with unfaltering devotion, shall overcome the Qualities, and become One with the Eternal." </br>
+"तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् | प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||१४-८||" </br>
+Translate: "14.8 But Ignorance, the product of darkness, stupefies the senses in all embodied beings, binding them by chains of folly, indolence and lethargy." </br>
 
 # Prefs
 <table>
