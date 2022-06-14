@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामाः | द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्- गच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||" </br>
-Translate: "15.5 The wise attain Eternity when, freed from pride and delusion, they have conquered their love for the things of sense; when, renouncing desire and fixing their gaze on the Self, they have ceased to be tossed to and fro by the opposing sensations, like pleasure and pain." </br>
+"मां च योऽव्यभिचारेण भक्तियोगेन सेवते | स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||" </br>
+Translate: "14.26 And he who serves Me and only Me, with unfaltering devotion, shall overcome the Qualities, and become One with the Eternal." </br>
 
 # Prefs
 <table>
