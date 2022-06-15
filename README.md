@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत | अव्यक्तनिधनान्येव तत्र का परिदेवना ||२-२८||" </br>
-Translate: "2.28 The end and the beginning of beings are unknown. We see only the intervening formations. Then what cause is there for grief?" </br>
+"दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् | स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ||१८-८||" </br>
+Translate: "18.8 To avoid an action through fear of physical suffering, because it is likely to be painful, is to act from passion, and the benefit of renunciation will not follow." </br>
 
 # Prefs
 <table>
