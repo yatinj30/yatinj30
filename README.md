@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"द्यावापृथिव्योरिदमन्तरं हि व्याप्तं त्वयैकेन दिशश्च सर्वाः | दृष्ट्वाद्भुतं रूपमुग्रं तवेदं लोकत्रयं प्रव्यथितं महात्मन् ||११-२०||" </br>
-Translate: "11.20 Alone thou fillest all the quarters of the sky, earth and heaven, and the regions between. O Almighty Lord! Seeing Thy marvellous and awe-inspiring Form, the spheres tremble with fear." </br>
+"गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः | यज्ञायाचरतः कर्म समग्रं प्रविलीयते ||४-२३||" </br>
+Translate: "4.23 He who is without attachment, free, his mind centered in wisdom, his actions, being done as a sacrifice, leave no trace behind." </br>
 
 # Prefs
 <table>
