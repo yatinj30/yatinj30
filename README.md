@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा | अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||" </br>
-Translate: "9.33 What need then to mention the holy Ministers of God, the devotees and the saintly rulers? Do thou, therefore, born in this changing and miserable world, do thou too worship Me." </br>
+"असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् | अपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||" </br>
+Translate: "16.8 They say the universe is an accident with no purpose and no God. Life is created by sexual union, a product of lust and nothing else." </br>
 
 # Prefs
 <table>
