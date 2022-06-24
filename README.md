@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् | अधियज्ञोऽहमेवात्र देहे देहभृतां वर ||८-४||" </br>
-Translate: "8.4 Matter consists of the forms that perish; Divinity is the Supreme Self; and He who inspires the spirit of sacrifice in man, O noblest of thy race, is I Myself, Who now stand in human form before thee." </br>
+"एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु | बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ||२-३९||" </br>
+Translate: "2.39 I have told thee the philosophy of Knowledge. Now listen and I will explain the philosophy of Action, by means of which, O Arjuna, thou shalt break through the bondage of all action." </br>
 
 # Prefs
 <table>
