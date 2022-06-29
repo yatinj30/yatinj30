@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः | ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||१८-५५||" </br>
-Translate: "18.55 By such devotion, he sees Me, who I am and what I am; and thus realising the Truth, he enters My Kingdom." </br>
+"यदक्षरं वेदविदो वदन्ति विशन्ति यद्यतयो वीतरागाः | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण प्रवक्ष्ये ||८-११||" </br>
+Translate: "8.11 Now I will speak briefly of the imperishable goal, proclaimed by those versed in the scriptures, which the mystic attains when free from passion, and for which he is content to undergo the vow of continence." </br>
 
 # Prefs
 <table>
