@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सीदन्ति मम गात्राणि मुखं च परिशुष्यति | वेपथुश्च शरीरे मे रोमहर्षश्च जायते ||१-२९||" </br>
-Translate: "1.29 My limbs fail me and my throat is parched, my body trembles and my hair stands on end." </br>
+"यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति | शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||" </br>
+Translate: "12.17 He who is beyond joy and hate, who neither laments nor desires, to whom good and evil fortunes are the same, such a one is My beloved." </br>
 
 # Prefs
 <table>
