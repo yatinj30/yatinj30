@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् | ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||" </br>
-Translate: "17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity." </br>
+"मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो | योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् ||११-४||" </br>
+Translate: "11.4 If Thou thinkest that it can be made possible for me to see it, show me, O Lord of Lords, Thine own Eternal Self." </br>
 
 # Prefs
 <table>
