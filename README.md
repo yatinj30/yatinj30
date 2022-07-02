@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते | तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ||२-२५||" </br>
-Translate: "2.25 It is named the Unmanifest, the Unthinkable, the immutable. Wherefore, knowing the Spirit as such, thou hast no cause to grieve." </br>
+"अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||" </br>
+Translate: "1.41 When irreligion spreads, the women of the house begin to stray; when they lose their purity, adulteration of the stock follows." </br>
 
 # Prefs
 <table>
