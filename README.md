@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन | बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||२-४१||" </br>
-Translate: "2.41 By its means, the straying intellect becomes steadied in the contemplation of one object only; whereas the minds of the irresolute stray into bypaths innumerable." </br>
+"यदादित्यगतं तेजो जगद्भासयतेऽखिलम् | यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ||१५-१२||" </br>
+Translate: "15.12 Remember that the Light which, proceeding from the sun, illumines the whole world, and the Light which is in the moon, and That which is in the fire also, all are born of Me." </br>
 
 # Prefs
 <table>
