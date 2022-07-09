@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तेषामहं समुद्धर्ता मृत्युसंसारसागरात् | भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||" </br>
-Translate: "12.7 O Arjuna! I rescue them from the ocean of life and death, for their minds are fixed on Me." </br>
+"चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः | कामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||" </br>
+Translate: "16.11 Poring anxiously over evil resolutions, which only end in death; seeking only the gratification of desire as the highest goal; seeing nothing beyond;" </br>
 
 # Prefs
 <table>
