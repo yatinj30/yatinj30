@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"जरामरणमोक्षाय मामाश्रित्य यतन्ति ये | ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ||७-२९||" </br>
-Translate: "7.29 Those who make Me their refuge, who strive for liberation from decay and Death, they realise the Supreme Spirit, which is their own real Self, and in which all action finds its consummation." </br>
+"रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् | तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||१४-७||" </br>
+Translate: "14.7 Passion, engendered by thirst for pleasure and attachment, binds the soul through its fondness for activity." </br>
 
 # Prefs
 <table>
