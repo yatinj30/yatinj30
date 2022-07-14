@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा | अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||" </br>
-Translate: "9.33 What need then to mention the holy Ministers of God, the devotees and the saintly rulers? Do thou, therefore, born in this changing and miserable world, do thou too worship Me." </br>
+"वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः | याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||" </br>
+Translate: "10.16 Please tell me all about Thy glorious manifestations, by means of which Thou pervadest the world." </br>
 
 # Prefs
 <table>
