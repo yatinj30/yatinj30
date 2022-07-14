@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | भूय एव महाबाहो शृणु मे परमं वचः | यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||" </br>
-Translate: "10.1 "Lord Shri Krishna said: Now, O Prince! Listen to My supreme advice, which I give thee for the sake of thy welfare, for thou art My beloved." </br>
+"किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा | अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ||९-३३||" </br>
+Translate: "9.33 What need then to mention the holy Ministers of God, the devotees and the saintly rulers? Do thou, therefore, born in this changing and miserable world, do thou too worship Me." </br>
 
 # Prefs
 <table>
