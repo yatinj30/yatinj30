@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः | यज्ञदानतपःकर्म न त्याज्यमिति चापरे ||१८-३||" </br>
-Translate: "18.3 Some philosophers say that all action is evil and should be abandoned. Others that acts of sacrifice, benevolence and austerity should not be given up." </br>
+"ये हि संस्पर्शजा भोगा दुःखयोनय एव ते | आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ||५-२२||" </br>
+Translate: "5.22 The joys that spring from external associations bring pain; they have their beginning and their endings. The wise man does not rejoice in them." </br>
 
 # Prefs
 <table>
