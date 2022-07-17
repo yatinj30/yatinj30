@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निश्चयं शृणु मे तत्र त्यागे भरतसत्तम | त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||१८-४||" </br>
-Translate: "18.4 O best of Indians! Listen to my judgment as regards this problem. It has a threefold aspect." </br>
+"प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये | बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||१८-३०||" </br>
+Translate: "18.30 That intellect which understands the creation and dissolution of life, what actions should be done and what not, which discriminates between fear and fearlessness, bondage and deliverance, that is Pure." </br>
 
 # Prefs
 <table>
