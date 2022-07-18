@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दैवमेवापरे यज्ञं योगिनः पर्युपासते | ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ||४-२५||" </br>
-Translate: "4.25 Some sages sacrifice to the Powers; others offer themselves on the alter of the Eternal." </br>
+"त्वमादिदेवः पुरुषः पुराणस्- त्वमस्य विश्वस्य परं निधानम् | वेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप ||११-३८||" </br>
+Translate: "11.38 Thou art the Primal God, the Ancient, the Supreme Abode of this universe, the Knower, the Knowledge and the Final Home. Thou fillest everything. Thy form is infinite." </br>
 
 # Prefs
 <table>
