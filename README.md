@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः | कामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||" </br>
-Translate: "16.11 Poring anxiously over evil resolutions, which only end in death; seeking only the gratification of desire as the highest goal; seeing nothing beyond;" </br>
+"धृतराष्ट्र उवाच | धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः | मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||१-१||" </br>
+Translate: "1.1 The King Dhritarashtra asked: "O Sanjaya! What happened on the sacred battlefield of Kurukshetra, when my people gathered against the Pandavas?"" </br>
 
 # Prefs
 <table>
