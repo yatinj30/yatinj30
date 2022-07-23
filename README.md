@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः | तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||१४-२४||" </br>
-Translate: "14.24 Who accepts pain and pleasure as it comes, is centred in his Self, to whom a piece of clay or stone or gold are the same, who neither likes nor dislikes, who is steadfast, indifferent alike to praise or censure;" </br>
+"हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् | तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ||२-३७||" </br>
+Translate: "2.37 If killed, thou shalt attain Heaven; if victorious, enjoy the kingdom of earth. Therefore arise, O Son of Kunti, and fight!" </br>
 
 # Prefs
 <table>
