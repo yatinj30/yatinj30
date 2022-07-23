@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते | ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ||१३-१८||" </br>
-Translate: "13.18 It is the Light of lights, beyond the reach of darkness; the Wisdom, the only thing that is worth knowing or that wisdom can teach; the Presence in the hearts of all." </br>
+"कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा | कच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ||१८-७२||" </br>
+Translate: "18.72 O Arjuna! Hast thou listened attentively to My words? Has thy ignorance and thy delusion gone?" </br>
 
 # Prefs
 <table>
