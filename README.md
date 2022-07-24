@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा | कच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ||१८-७२||" </br>
-Translate: "18.72 O Arjuna! Hast thou listened attentively to My words? Has thy ignorance and thy delusion gone?" </br>
+"यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् | यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ||९-२७||" </br>
+Translate: "9.27 Whatever thou doest, whatever thou dost eat, whatever thou dost sacrifice and give, whatever austerities thou practisest, do all as an offering to Me." </br>
 
 # Prefs
 <table>
