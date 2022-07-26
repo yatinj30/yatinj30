@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् | सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||२-३२||" </br>
-Translate: "2.32 Blessed are the soldiers who find their opportunity. This opportunity has opened for thee the gates of heaven." </br>
+"अर्जुन उवाच | स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव | स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ||२-५४||" </br>
+Translate: "2.54 Arjuna asked: My Lord! How can we recognise the saint who has attained Pure Intellect, who has reached this state of Bliss, and whose mind is steady? how does he talk, how does he live, and how does he act?" </br>
 
 # Prefs
 <table>
