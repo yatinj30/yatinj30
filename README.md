@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रयाणकाले मनसाऽचलेन भक्त्या युक्तो योगबलेन चैव | भ्रुवोर्मध्ये प्राणमावेश्य सम्यक् स तं परं पुरुषमुपैति दिव्यम् ||८-१०||" </br>
-Translate: "8.10 He who leaves the body with mind unmoved and filled with devotion, by the power of his meditation gathering between his eyebrows his whole vital energy, attains the Supreme." </br>
+"पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् | वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||१८-२१||" </br>
+Translate: "18.21 The knowledge which thinks of the manifold existence in all beings as separate - that comes from Passion." </br>
 
 # Prefs
 <table>
