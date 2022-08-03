@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् | स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ||१८-४७||" </br>
-Translate: "18.47 It is better to do one's own duty, however defective it may be, than to follow the duty of another, however well one may perform it. He who does his duty as his own nature reveals it, never sins." </br>
+"त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः | कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ||४-२०||" </br>
+Translate: "4.20 Having surrendered all claim to the results of his actions, always contented and independent, in reality he does nothing, even though he is apparently acting." </br>
 
 # Prefs
 <table>
