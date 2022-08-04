@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः | कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ||४-२०||" </br>
-Translate: "4.20 Having surrendered all claim to the results of his actions, always contented and independent, in reality he does nothing, even though he is apparently acting." </br>
+"रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् | वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||" </br>
+Translate: "10.23 Among Forces of Vitality I am the life, I am Mammon to the heathen and the godless; I am the Energy in fire, earth, wind, sky, heaven, sun, moon and planets; and among mountains am the Mount Meru." </br>
 
 # Prefs
 <table>
