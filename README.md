@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः | मनसैवेन्द्रियग्रामं विनियम्य समन्ततः ||६-२४||" </br>
-Translate: "6.24 Renouncing every desire which imagination can conceive, controlling the senses at every point by the power of mind;" </br>
+"अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते | तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ||१३-२६||" </br>
+Translate: "13.26 Others again, having no direct knowledge but only hearing from others, nevertheless worship, and they, too, if true to the teachings, cross the sea of death." </br>
 
 # Prefs
 <table>
