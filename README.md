@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न तद्भासयते सूर्यो न शशाङ्को न पावकः | यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ||१५-६||" </br>
-Translate: "15.6 Neither sun, moon, nor fire shines there. Those who go thither never come back. For, O Arjuna, that is my Celestial Home!" </br>
+"सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः | मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ||१८-५६||" </br>
+Translate: "18.56 Relying on Me in all his action and doing them for My sake, he attains, by My Grace, Eternal and Unchangeable Life." </br>
 
 # Prefs
 <table>
