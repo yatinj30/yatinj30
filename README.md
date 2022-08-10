@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया | उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ||४-३४||" </br>
-Translate: "4.34 This shalt thou learn by prostrating thyself at the Master's feet, by questioning Him and by serving Him. The wise who have realised the Truth will teach thee wisdom." </br>
+"इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||१८-६३||" </br>
+Translate: "18.63 Thus have I revealed to thee the Truth, the Mystery of mysteries. Having thought it over, thou art free to act as thou wilt." </br>
 
 # Prefs
 <table>
