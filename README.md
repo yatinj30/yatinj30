@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||" </br>
-Translate: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go." </br>
+"नाहं प्रकाशः सर्वस्य योगमायासमावृतः | मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||७-२५||" </br>
+Translate: "7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable." </br>
 
 # Prefs
 <table>
