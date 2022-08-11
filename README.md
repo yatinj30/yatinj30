@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||१८-६३||" </br>
-Translate: "18.63 Thus have I revealed to thee the Truth, the Mystery of mysteries. Having thought it over, thou art free to act as thou wilt." </br>
+"यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||" </br>
+Translate: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go." </br>
 
 # Prefs
 <table>
