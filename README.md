@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् | यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ||१०-२५||" </br>
-Translate: "10.25 Of the great seers I am Bhrigu, of words I am Om, of offerings I am the silent prayer, among things immovable I am the Himalayas." </br>
+"त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् | मोहितं नाभिजानाति मामेभ्यः परमव्ययम् ||७-१३||" </br>
+Translate: "7.13 The inhabitants of the world, misled by those natures which the Qualities have engendered, know not that I am higher than them all, and that I do not change." </br>
 
 # Prefs
 <table>
