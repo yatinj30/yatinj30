@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन | सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ||१८-९||" </br>
-Translate: "18.9 He who performs an obligatory action, because he believes it to be a duty which ought to be done, without any personal desire to do the act or to receive any return - such renunciation is Pure." </br>
+"ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् | यः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||" </br>
+Translate: "8.13 Repeating Om, the Symbol of Eternity, holding Me always in remembrance, he who thus leaves his body and goes forth reaches the Spirit Supreme." </br>
 
 # Prefs
 <table>
