@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मादसक्तः सततं कार्यं कर्म समाचर | असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||३-१९||" </br>
-Translate: "3.19 Therefore do thy duty perfectly, without care for the results, for he who does his duty disinterestedly attains the Supreme." </br>
+"अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च | नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ||२-२४||" </br>
+Translate: "2.24 It is impenetrable; It can be neither drowned nor scorched nor dried. It is Eternal, All-pervading, Unchanging, Immovable and Most Ancient." </br>
 
 # Prefs
 <table>
