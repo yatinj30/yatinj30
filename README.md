@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु | प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||१८-२९||" </br>
-Translate: "18.29 Reason and conviction are threefold, according to the Quality which is dominant. I will explain them fully and severally, O Arjuna!" </br>
+"सञ्जय उवाच | एतच्छ्रुत्वा वचनं केशवस्य कृताञ्जलिर्वेपमानः किरीटी | नमस्कृत्वा भूय एवाह कृष्णं सगद्गदं भीतभीतः प्रणम्य ||११-३५||" </br>
+Translate: "11.35 Sanjaya continued: "Having heard these words from the Lord Shri Krishna, the Prince Arjuna, with folded hands trembling, prostrated himself and with choking voice, bowing down again and again, and overwhelmed with awe, once more addressed the Lord." </br>
 
 # Prefs
 <table>
