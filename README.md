@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते | तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ||२-६७||" </br>
-Translate: "2.67 As a ship at sea is tossed by the tempest, so the reason is carried away by the mind when preyed upon by straying senses." </br>
+"यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते | एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति ||५-५||" </br>
+Translate: "5.5 The level which is reached by wisdom is attained through right action as well. He who perceives that the two are one, knows the truth." </br>
 
 # Prefs
 <table>
