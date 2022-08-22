@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् | ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ||१३-५||" </br>
-Translate: "13.5 Seers have sung of It in various ways, in many hymns and sacred Vedic songs, weighty in thought and convincing in argument." </br>
+"कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः | यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||२-७||" </br>
+Translate: "2.7 My heart is oppressed with pity; and my mind confused as to what my duty is. Therefore, my Lord, tell me what is best for my spiritual welfare, for I am Thy disciple. Please direct me, I pray." </br>
 
 # Prefs
 <table>
