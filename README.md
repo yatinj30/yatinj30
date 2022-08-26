@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् | उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ||६-२७||" </br>
-Translate: "6.27 Supreme Bliss is the lot of the sage, whose mind attains Peace, whose passions subside, who is without sin, and who becomes one with the Absolute." </br>
+"अर्जुन उवाच | पश्यामि देवांस्तव देव देहे सर्वांस्तथा भूतविशेषसङ्घान् | ब्रह्माणमीशं कमलासनस्थ- मृषींश्च सर्वानुरगांश्च दिव्यान् ||११-१५||" </br>
+Translate: "11.15 Arjuna said: O almighty God! I see in Thee the powers of Nature, the various creatures of the world, the Progenitor on his lotus throne, the Sages and the shining angels." </br>
 
 # Prefs
 <table>
