@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पञ्चैतानि महाबाहो कारणानि निबोध मे | साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ||१८-१३||" </br>
-Translate: "18.13 I will tell thee now, O Mighty Man, the five causes which, according to the final decision of philosophy, must concur before an action can be accomplished." </br>
+"काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः | क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||" </br>
+Translate: "4.12 Those who look for success, worship the Powers; and in this world their actions bear immediate fruit." </br>
 
 # Prefs
 <table>
