@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः | क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||" </br>
-Translate: "4.12 Those who look for success, worship the Powers; and in this world their actions bear immediate fruit." </br>
+"सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे | आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ||४-२७||" </br>
+Translate: "4.27 Other again sacrifice their activities and their vitality in the Spiritual fire of self-abnegation, kindled by wisdom." </br>
 
 # Prefs
 <table>
