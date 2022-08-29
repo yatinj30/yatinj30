@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे | आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ||४-२७||" </br>
-Translate: "4.27 Other again sacrifice their activities and their vitality in the Spiritual fire of self-abnegation, kindled by wisdom." </br>
+"अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप | अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ||९-३||" </br>
+Translate: "9.3 They who have no faith in this teaching cannot find Me, but remain lost in the purlieus of this perishable world." </br>
 
 # Prefs
 <table>
