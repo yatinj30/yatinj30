@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
-Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
+"यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः | ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ||४-१९||" </br>
+Translate: "4.19 The wise call him a sage, for whatever he undertakes is free from the motive of desire, and his deeds are purified by the fire of Wisdom." </br>
 
 # Prefs
 <table>
