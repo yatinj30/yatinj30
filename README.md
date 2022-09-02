@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः | ज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ||४-१९||" </br>
-Translate: "4.19 The wise call him a sage, for whatever he undertakes is free from the motive of desire, and his deeds are purified by the fire of Wisdom." </br>
+"नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप | एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||" </br>
+Translate: "10.40 O Arjuna! The aspects of My divine life are endless. I have mentioned but a few by way of illustration." </br>
 
 # Prefs
 <table>
