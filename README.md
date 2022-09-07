@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् | सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||२-३२||" </br>
-Translate: "2.32 Blessed are the soldiers who find their opportunity. This opportunity has opened for thee the gates of heaven." </br>
+"यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् | स सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||" </br>
+Translate: "15.19 He who with unclouded vision sees Me as the Lord-God, knows all there is to be known, and always shall worship Me with his whole heart." </br>
 
 # Prefs
 <table>
