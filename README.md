@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता | भवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||" </br>
-Translate: "16.3 Valour, forgiveness, fortitude, purity, freedom from hate and vanity; these are his who possesses the Godly Qualities, O Arjuna!" </br>
+"न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन | नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ||३-२२||" </br>
+Translate: "3.22 There is nothing in this universe, O Arjuna, that I am compelled to do, nor anything for Me to attain; yet I am persistently active." </br>
 
 # Prefs
 <table>
