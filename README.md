@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वेदेषु यज्ञेषु तपःसु चैव दानेषु यत्पुण्यफलं प्रदिष्टम् | अत्येति तत्सर्वमिदं विदित्वा योगी परं स्थानमुपैति चाद्यम् ||८-२८||" </br>
-Translate: "8.28 The sage who knows this passes beyond all merit that comes from the study of the scriptures, from sacrifice, from austerities and charity, and reaches the Supreme Primeval Abode."" </br>
+"यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः | तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ||३-९||" </br>
+Translate: "3.9 In this world people are fettered by action, unless it is performed as a sacrifice. Therefore, O Arjuna, let thy acts be done without attachment, as sacrifice only." </br>
 
 # Prefs
 <table>
