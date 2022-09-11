@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् | मम देहे गुडाकेश यच्चान्यद् द्रष्टुमिच्छसि ||११-७||" </br>
-Translate: "11.7 Here in Me living as one, O Arjuna, behold the whole universe, movable and immovable, and anything else that thou wouldst see!" </br>
+"विषया विनिवर्तन्ते निराहारस्य देहिनः | रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ||२-५९||" </br>
+Translate: "2.59 The objects of sense turn from him who is abstemious. Even the relish for them is lost in him who has seen the Truth." </br>
 
 # Prefs
 <table>
