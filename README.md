@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"रजस्तमश्चाभिभूय सत्त्वं भवति भारत | रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||१४-१०||" </br>
-Translate: "14.10 O Prince! Purity prevails when Passion and Ignorance are overcome; Passion, when Purity and Ignorance are overcome; and Ignorance when it overcomes Purity and Passion." </br>
+"अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् | स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||" </br>
+Translate: "17.15 Speech that hurts no one, that is true, is pleasant to listen to and beneficial, and the constant study of the scriptures - this is austerity in speech." </br>
 
 # Prefs
 <table>
