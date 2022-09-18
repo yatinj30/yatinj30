@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना | न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||२-६६||" </br>
-Translate: "2.66 Right discrimination is not for him who cannot concentrate. Without concentration, there cannot be meditation; he who cannot meditate must not expect peace; and without peace, how can anyone expect happiness?" </br>
+"चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः | बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||१८-५७||" </br>
+Translate: "18.57 Surrender then thy actions unto Me, live in Me, concentrate thine intellect on Me, and think always of Me." </br>
 
 # Prefs
 <table>
