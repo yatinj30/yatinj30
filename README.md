@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः | बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||१८-५७||" </br>
-Translate: "18.57 Surrender then thy actions unto Me, live in Me, concentrate thine intellect on Me, and think always of Me." </br>
+"न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् | अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ||२-८||" </br>
+Translate: "2.8 For should I attain the monarchy of the visible world, or over the invisible world, it would not drive away the anguish which is now paralysing my senses."" </br>
 
 # Prefs
 <table>
