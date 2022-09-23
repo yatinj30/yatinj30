@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः | मोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||१६-१०||" </br>
-Translate: "16.10 Giving themselves up to insatiable passions, hypocritical, self-sufficient and arrogant, cherishing false conception founded on delusion, they work only to carry out their own unholy purposes." </br>
+"अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् | दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||" </br>
+Translate: "16.2 harmlessness, truth, absence of wrath, renunciation, contentment, straightforwardness, compassion towards all, uncovetousness, courtesy, modesty, constancy," </br>
 
 # Prefs
 <table>
