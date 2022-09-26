@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता | योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||" </br>
-Translate: "6.19 The wise man who has conquered his mind and is absorbed in the Self is as a lamp which does not flicker, since it stands sheltered from every wind." </br>
+"यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् | कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ||१-२२||" </br>
+Translate: "1.22 So that I may observe those who must fight on my side, those who must fight against me;" </br>
 
 # Prefs
 <table>
