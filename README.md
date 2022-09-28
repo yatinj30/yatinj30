@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् | कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||" </br>
-Translate: "10.9 With minds concentrated on Me, with lives absorbed in Me, and enlightening each other, they ever feel content and happy." </br>
+"यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः | वेदवादरताः पार्थ नान्यदस्तीति वादिनः ||२-४२||" </br>
+Translate: "2.42 Only the ignorant speak in figurative language. It is they who extol the letter of the scriptures, saying, There is nothing deeper than this.'" </br>
 
 # Prefs
 <table>
