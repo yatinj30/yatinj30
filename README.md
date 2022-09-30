@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना | न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||२-६६||" </br>
-Translate: "2.66 Right discrimination is not for him who cannot concentrate. Without concentration, there cannot be meditation; he who cannot meditate must not expect peace; and without peace, how can anyone expect happiness?" </br>
+"बलं बलवतां चाहं कामरागविवर्जितम् | धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ||७-११||" </br>
+Translate: "7.11 I am the Strength of the strong, of them who are free from attachment and desire; and, O Arjuna, I am the Desire for righteousness." </br>
 
 # Prefs
 <table>
