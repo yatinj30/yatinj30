@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः | इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-५८||" </br>
-Translate: "2.58 He who can withdraw his senses from the attraction of their objects, as the tortoise draws his limbs within its shell - take it that such a one has attained Perfection." </br>
+"रागद्वेषविमुक्तैस्तु विषयानिन्द्रियैश्चरन् | (or वियुक्तैस्तु) आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ||२-६४||" </br>
+Translate: "2.64 But the self-controlled soul, who moves amongst sense objects, free from either attachment or repulsion, he wins eternal Peace." </br>
 
 # Prefs
 <table>
