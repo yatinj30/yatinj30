@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत | क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ||१३-३||" </br>
-Translate: "13.3 I am the Omniscient self that abides in the playground of Matter; knowledge of Matter and of the all-knowing Self is wisdom." </br>
+"रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः | हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ||१८-२७||" </br>
+Translate: "18.27 In him who is impulsive, greedy, looking for reward, violent, impure, torn between joy and sorrow,it may be assumed that in him Passion is predominant." </br>
 
 # Prefs
 <table>
