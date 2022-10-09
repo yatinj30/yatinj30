@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च | एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव ||१३-१||" </br>
-Translate: "13.1 "Arjuna asked: My Lord! Who is God and what is Nature; what is Matter and what is the Self; what is that they call Wisdom, and what is it that is worth knowing? I wish to have this explained." </br>
+"क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत | क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम ||१३-३||" </br>
+Translate: "13.3 I am the Omniscient self that abides in the playground of Matter; knowledge of Matter and of the all-knowing Self is wisdom." </br>
 
 # Prefs
 <table>
