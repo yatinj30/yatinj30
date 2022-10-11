@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः | तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ||९-२३||" </br>
-Translate: "9.23 Even those who worship the lesser Powers, if they do so with faith, they thereby worship Me, though not in the right way." </br>
+"सञ्जय उवाच | एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप | न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||२-९||" </br>
+Translate: "2.9 Sanjaya continued: "Arjuna, the conqueror of all enemies, then told the Lord of All-Hearts that he would no fight, and became silent, O King!" </br>
 
 # Prefs
 <table>
