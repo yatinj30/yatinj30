@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना | करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||१८-१८||" </br>
-Translate: "18.18 Knowledge, the knower and the object of knowledge, these are the three incentives to action; and the act, the actor and the instrument are the threefold constituents." </br>
+"प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु | तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ||३-२९||" </br>
+Translate: "3.29 Those who do not understand the Qualities are interested in the act. Still, the wise man who knows the truth should not disturb the mind of him who does not." </br>
 
 # Prefs
 <table>
