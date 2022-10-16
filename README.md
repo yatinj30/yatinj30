@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः | न चैव न भविष्यामः सर्वे वयमतः परम् ||२-१२||" </br>
-Translate: "2.12 There was never a time when I was not, nor thou, nor these princes were not; there will never be a time when we shall cease to be." </br>
+"अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् | परं भावमजानन्तो मम भूतमहेश्वरम् ||९-११||" </br>
+Translate: "9.11 Fools disregard Me, seeing Me clad in human form. They know not that in My higher nature I am the Lord-God of all." </br>
 
 # Prefs
 <table>
