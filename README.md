@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् | यः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||" </br>
-Translate: "8.13 Repeating Om, the Symbol of Eternity, holding Me always in remembrance, he who thus leaves his body and goes forth reaches the Spirit Supreme." </br>
+"त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः | यज्ञदानतपःकर्म न त्याज्यमिति चापरे ||१८-३||" </br>
+Translate: "18.3 Some philosophers say that all action is evil and should be abandoned. Others that acts of sacrifice, benevolence and austerity should not be given up." </br>
 
 # Prefs
 <table>
