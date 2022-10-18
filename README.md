@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन | न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ||३-१८||" </br>
-Translate: "3.18 He has nothing to gain by the performance or non-performance of action. His welfare depends not on any contribution that an earthly creature can make." </br>
+"उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् | ऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||१०-२७||" </br>
+Translate: "10.27 Know that among horses I am Pegasus, the heaven-born; among the lordly elephants I am the White one, and I am the Ruler among men." </br>
 
 # Prefs
 <table>
