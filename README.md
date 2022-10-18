@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनादिमध्यान्तमनन्तवीर्य- मनन्तबाहुं शशिसूर्यनेत्रम् | पश्यामि त्वां दीप्तहुताशवक्त्रं स्वतेजसा विश्वमिदं तपन्तम् ||११-१९||" </br>
-Translate: "11.19 Without beginning, without middle and without end, infinite in power, Thine arms all-embracing, the sun and moon Thine eyes, Thy face beaming with the fire of sacrifice, flooding the whole universe with light." </br>
+"एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना | जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||३-४३||" </br>
+Translate: "3.43 Thus, O Mighty-in-Arms, knowing Him to be beyond the intellect and, by His help, subduing thy personal egotism, kill thine enemy, Desire, extremely difficult though it be."" </br>
 
 # Prefs
 <table>
