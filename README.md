@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् | असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||" </br>
-Translate: "17.28 Whatsoever is done without faith, whether it be sacrifice, austerity or gift or anything else, as called Asat' (meaning Unreal') for it is the negation of Sat,' O Arjuna! Such an act has no significance, here or hereafter."" </br>
+"कर्षयन्तः शरीरस्थं भूतग्राममचेतसः | मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||" </br>
+Translate: "17.6 They are ignorant. They torment the organs of the body; and they harass Me also, Who lives within. Know that they are devoted to evil." </br>
 
 # Prefs
 <table>
