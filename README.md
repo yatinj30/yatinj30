@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् | ऐरावतं गजेन्द्राणां नराणां च नराधिपम् ||१०-२७||" </br>
-Translate: "10.27 Know that among horses I am Pegasus, the heaven-born; among the lordly elephants I am the White one, and I am the Ruler among men." </br>
+"शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः | नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ||६-११||" </br>
+Translate: "6.11 Having chosen a holy place, let him sit in a firm posture on a seat, neither too high nor too low, and covered with a grass mat, a deer skin and a cloth." </br>
 
 # Prefs
 <table>
