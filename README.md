@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् | कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||३-५||" </br>
-Translate: "3.5 He cannot even for a moment remain really inactive, for the Qualities of Nature will compel him to act whether he will or no." </br>
+"अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् | यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||" </br>
+Translate: "8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me." </br>
 
 # Prefs
 <table>
