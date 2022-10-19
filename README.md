@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् | यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||" </br>
-Translate: "8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me." </br>
+"यत्तदग्रे विषमिव परिणामेऽमृतोपमम् | तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||१८-३७||" </br>
+Translate: "18.37 Which at first seems like poison but afterwards acts like nectar - that pleasure is Pure, for it is born of Wisdom." </br>
 
 # Prefs
 <table>
