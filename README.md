@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ततः पदं तत्परिमार्गितव्यं यस्मिन्गता न निवर्तन्ति भूयः | तमेव चाद्यं पुरुषं प्रपद्ये | यतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||" </br>
-Translate: "15.4 Beyond lies the Path, from which, when found, there is no return. This is the Primal God from whence this ancient creation has sprung." </br>
+"गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके | हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान् ||२-५||" </br>
+Translate: "2.5 Rather would I content myself with a beggar's crust that kill these teachers of mine, these precious noble souls! To slay these masters who are my benefactors would be to stain the sweetness of life's pleasures with their blood." </br>
 
 # Prefs
 <table>
