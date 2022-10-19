@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा | भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ||१३-३५||" </br>
-Translate: "13.35 Those who with the eyes of wisdom thus see the difference between Matter and Spirit, and know how to liberate Life from the Law of Nature, they attain the Supreme."" </br>
+"यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् | क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ||१३-२७||" </br>
+Translate: "13.27 Wherever life is seen in things movable or immovable, it is the joint product of Matter and Spirit." </br>
 
 # Prefs
 <table>
