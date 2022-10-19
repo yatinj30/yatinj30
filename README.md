@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते | ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||" </br>
-Translate: "14.11 When the light of knowledge gleams forth from all the gates of the body, then be sure that Purity prevails." </br>
+"न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् | कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||३-५||" </br>
+Translate: "3.5 He cannot even for a moment remain really inactive, for the Qualities of Nature will compel him to act whether he will or no." </br>
 
 # Prefs
 <table>
