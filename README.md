@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि | इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ||५-९||" </br>
-Translate: "5.9 Though he talks, though he gives and receives, though he opens his eyes and shuts them, he still knows that his senses are merely disporting themselves among the objects of perception." </br>
+"बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः | सुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||" </br>
+Translate: "10.4 Intelligence, wisdom, non-illusion, forgiveness, truth, self-control, calmness, pleasure, pain, birth, death, fear and fearlessness;" </br>
 
 # Prefs
 <table>
