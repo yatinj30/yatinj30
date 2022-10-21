@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप | न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||२-९||" </br>
-Translate: "2.9 Sanjaya continued: "Arjuna, the conqueror of all enemies, then told the Lord of All-Hearts that he would no fight, and became silent, O King!" </br>
+"सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् | असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ||१३-१५||" </br>
+Translate: "13.15 Beyond the senses, It yet shines through every sense perception. Bound to nothing, It yet sustains everything. Unaffected by the Qualities, It still enjoys them all." </br>
 
 # Prefs
 <table>
