@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नियतं सङ्गरहितमरागद्वेषतः कृतम् | अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ||१८-२३||" </br>
-Translate: "18.23 An obligatory action done by one who is disinterested, who neither likes nor dislikes it, and gives no thought to the consequences that follow, such an action is Pure." </br>
+"ते तं भुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्ये मर्त्यलोकं विशन्ति | एवं त्रयीधर्ममनुप्रपन्ना गतागतं कामकामा लभन्ते ||९-२१||" </br>
+Translate: "9.21 Yet although they enjoy the spacious glories of Paradise, nevertheless, when their merit is exhausted, they are born again into this world of mortals. They have followed the letter of the scriptures, yet because they have sought but to fulfill their own desires, they must depart and return again and again." </br>
 
 # Prefs
 <table>
