@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः | परं भावमजानन्तो ममाव्ययमनुत्तमम् ||७-२४||" </br>
-Translate: "7.24 The ignorant think of Me, who am the Unmanifested Spirit, as if I were really in human form. They do not understand that My Superior Nature is changeless and most excellent." </br>
+"अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः | सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||" </br>
+Translate: "12.16 He who expects nothing, who is pure, watchful, indifferent, unruffled, and who renounces all initiative, such a one is My beloved." </br>
 
 # Prefs
 <table>
