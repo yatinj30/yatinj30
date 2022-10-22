@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना | अन्ये साङ्ख्येन योगेन कर्मयोगेन चापरे ||१३-२५||" </br>
-Translate: "13.25 Some realise the Supreme by meditating, by its aid, on the Self within, others by pure reason, others by right action." </br>
+"चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन | आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ||७-१६||" </br>
+Translate: "7.16 O Arjuna! The righteous who worship Me are grouped by stages: first, they who suffer, next they who desire knowledge, then they who thirst after truth, and lastly they who attain wisdom." </br>
 
 # Prefs
 <table>
