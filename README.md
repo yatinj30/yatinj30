@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि | प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||३-३३||" </br>
-Translate: "3.33 Even the wise man acts in character with his nature; indeed, all creatures act according to their natures. What is the use of compulsion then?" </br>
+"सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः | अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||३-१०||" </br>
+Translate: "3.10 In the beginning, when God created all beings by the sacrifice of Himself, He said unto them: Through sacrifice you can procreate, and it shall satisfy all your desires." </br>
 
 # Prefs
 <table>
