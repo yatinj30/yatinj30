@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यत्तदग्रे विषमिव परिणामेऽमृतोपमम् | तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||१८-३७||" </br>
-Translate: "18.37 Which at first seems like poison but afterwards acts like nectar - that pleasure is Pure, for it is born of Wisdom." </br>
+"सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि | प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||३-३३||" </br>
+Translate: "3.33 Even the wise man acts in character with his nature; indeed, all creatures act according to their natures. What is the use of compulsion then?" </br>
 
 # Prefs
 <table>
