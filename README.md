@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः | भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||" </br>
-Translate: "10.5 Harmlessness, equanimity, contentment, austerity, beneficence, fame and failure, all these, the characteristics of beings, spring from Me only." </br>
+"श्रीभगवानुवाच | अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः | दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||१६-१||" </br>
+Translate: "16.1 "Lord Shri Krishna continued: Fearlessness, clean living, unceasing concentration on wisdom, readiness to give, self-control, a spirit of sacrifice, regular study of the scriptures, austerities, candour," </br>
 
 # Prefs
 <table>
