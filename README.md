@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
-Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
+"समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः | ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||" </br>
+Translate: "9.29 I am the same to all beings. I favour none, and I hate none. But those who worship Me devotedly, they live in Me, and I in them." </br>
 
 # Prefs
 <table>
