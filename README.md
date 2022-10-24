@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः | असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ||७-१||" </br>
-Translate: "7.1 "Lord Shri Krishna said: Listen, O Arjuna! And I will tell thee how thou shalt know Me in my Full perfection, practising meditation with thy mind devoted to Me, and having Me for thy refuge." </br>
+"अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः | भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ||१०-५||" </br>
+Translate: "10.5 Harmlessness, equanimity, contentment, austerity, beneficence, fame and failure, all these, the characteristics of beings, spring from Me only." </br>
 
 # Prefs
 <table>
