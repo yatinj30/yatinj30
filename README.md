@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः | न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ||५-१४||" </br>
-Translate: "5.14 The Lord of this universe has not ordained activity, or any incentive thereto, or any relation between an act and its consequences. All this is the work of Nature." </br>
+"तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ | पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||३-४१||" </br>
+Translate: "3.41 Therefore, O Arjuna, first control thy senses and then slay desire, for it is full of sin, and is the destroyer of knowledge and of wisdom." </br>
 
 # Prefs
 <table>
