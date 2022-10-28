@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् | अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||२-२||" </br>
-Translate: "2.2 "The Lord said: My beloved friend! Why yield, just on the eve of battle, to this weakness which does no credit to those who call themselves Aryans, and only brings them infamy and bars against them the gates of heaven?" </br>
+"यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन | कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ||३-७||" </br>
+Translate: "3.7 But, O Arjuna! All honour to him whose mind controls his senses, for he is thereby beginning to practise Karma-Yoga, the Path of Right Action, keeping himself always unattached." </br>
 
 # Prefs
 <table>
