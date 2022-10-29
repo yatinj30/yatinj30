@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् | सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् ||११-११||" </br>
-Translate: "11.11 Crowned with heavenly garlands, clothed in shining garments, anointed with divine unctions, He showed Himself as the Resplendent One, Marvellous, Boundless, Omnipresent." </br>
+"अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा भयेन च प्रव्यथितं मनो मे | तदेव मे दर्शय देव रूपं प्रसीद देवेश जगन्निवास ||११-४५||" </br>
+Translate: "11.45 I rejoice that I have seen what never man saw before; yet, O Lord! I am overwhelmed with fear. Please take again the Form I know. Be merciful, O Lord! thou Who are the Home of the whole universe." </br>
 
 # Prefs
 <table>
