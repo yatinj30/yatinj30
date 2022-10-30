@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः | अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ||३-२७||" </br>
-Translate: "3.27 Action is the product of the Qualities inherent in Nature. It is only the ignorant man who, misled by personal egotism, says: I am the doer.'" </br>
+"तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः | छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ||४-४२||" </br>
+Translate: "4.42 Therefore, cleaving asunder with the sword of wisdom the doubts of the heart, which thine own ignorance has engendered, follow the Path of Wisdom and arise!"" </br>
 
 # Prefs
 <table>
