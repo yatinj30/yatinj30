@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः | एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ||५-४||" </br>
-Translate: "5.4 Only the unenlightened speak of wisdom and right action as separate, not the wise. If any man knows one, he enjoys the fruit of both." </br>
+"असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु | नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ||१३-१०||" </br>
+Translate: "13.10 Indifference, non-attachment to sex, progeny or home, equanimity in good fortune and in bad;" </br>
 
 # Prefs
 <table>
