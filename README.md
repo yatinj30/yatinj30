@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः | ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||" </br>
-Translate: "17.23 Om Tat Sat' is the triple designation of the Eternal Spirit, by which of old the Vedic Scriptures, the ceremonials and the sacrifices were ordained." </br>
+"निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||" </br>
+Translate: "1.36 My Lord! What happiness can come from the death of these sons of Dhritarashtra? We shall sin if we kill these desperate men." </br>
 
 # Prefs
 <table>
