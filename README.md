@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ | ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||" </br>
-Translate: "16.24 Therefore whenever there is doubt whether thou shouldst do a thing or not, let the scriptures guide thy conduct. In the light of the scriptures shouldst thou labour the whole of thy life."" </br>
+"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
+Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
 
 # Prefs
 <table>
