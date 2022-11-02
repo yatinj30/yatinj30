@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः | भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||" </br>
-Translate: "4.3 It is the same ancient Path that I have now revealed to thee, since thou are My devotee and My friend. It is the supreme Secret." </br>
+"रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् | वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||" </br>
+Translate: "10.23 Among Forces of Vitality I am the life, I am Mammon to the heathen and the godless; I am the Energy in fire, earth, wind, sky, heaven, sun, moon and planets; and among mountains am the Mount Meru." </br>
 
 # Prefs
 <table>
