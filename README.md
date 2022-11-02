@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन | बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||२-४१||" </br>
-Translate: "2.41 By its means, the straying intellect becomes steadied in the contemplation of one object only; whereas the minds of the irresolute stray into bypaths innumerable." </br>
+"स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः | भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||" </br>
+Translate: "4.3 It is the same ancient Path that I have now revealed to thee, since thou are My devotee and My friend. It is the supreme Secret." </br>
 
 # Prefs
 <table>
