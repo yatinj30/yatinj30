@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः | भविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||" </br>
-Translate: "18.69 Nor is there among men any who can perform a service dearer to Me than this, or any man on earth more beloved by Me than he." </br>
+"आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते | योगारूढस्य तस्यैव शमः कारणमुच्यते ||६-३||" </br>
+Translate: "6.3 For the sage who seeks the heights of spiritual meditation, practice is the only method, and when he has attained them, he must maintain himself there by continual self-control." </br>
 
 # Prefs
 <table>
