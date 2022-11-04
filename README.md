@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया | त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||" </br>
-Translate: "11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty." </br>
+"यथा प्रदीप्तं ज्वलनं पतङ्गा विशन्ति नाशाय समृद्धवेगाः | तथैव नाशाय विशन्ति लोकास्- तवापि वक्त्राणि समृद्धवेगाः ||११-२९||" </br>
+Translate: "11.29 As moths fly impetuously to the flame only to be killed, so these men rush into Thy mouths to court their own destruction." </br>
 
 # Prefs
 <table>
