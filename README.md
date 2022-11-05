@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् | नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ||४-३१||" </br>
-Translate: "4.31 Tasting the nectar of immortality, as the reward of sacrifice, they reach the Eternal. This world is not for those who refuse to sacrifice; much less the other world." </br>
+"सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः | निबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||१४-५||" </br>
+Translate: "14.5 Purity, Passion and Ignorance are the Qualities which the Law of nature bringeth forth. They fetter the free Spirit in all beings." </br>
 
 # Prefs
 <table>
