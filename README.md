@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः | ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ||१७-२३||" </br>
-Translate: "17.23 Om Tat Sat' is the triple designation of the Eternal Spirit, by which of old the Vedic Scriptures, the ceremonials and the sacrifices were ordained." </br>
+"अहमात्मा गुडाकेश सर्वभूताशयस्थितः | अहमादिश्च मध्यं च भूतानामन्त एव च ||१०-२०||" </br>
+Translate: "10.20 O Arjuna! I am the Self, seated in the hearts of all beings; I am the beginning and the life, and I am the end of them all." </br>
 
 # Prefs
 <table>
