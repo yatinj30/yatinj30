@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय | बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||२-४९||" </br>
-Translate: "2.49 Physical action is far inferior to an intellect concentrated on the Divine. Have recourse then to Pure Intelligence. It is only the petty-minded who work for reward." </br>
+"ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप | कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||१८-४१||" </br>
+Translate: "18.41 O Arjuna! The duties of spiritual teachers, the soldiers, the traders and the servants have all been fixed according to the dominant Quality in their nature." </br>
 
 # Prefs
 <table>
