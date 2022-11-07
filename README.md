@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः | सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||१८-४०||" </br>
-Translate: "18.40 There is nothing anywhere on earth or in the higher worlds which is free from the three Qualities - for they are born of Nature." </br>
+"यत्रोपरमते चित्तं निरुद्धं योगसेवया | यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ||६-२०||" </br>
+Translate: "6.20 There, where the whole nature is seen in the light of the Self, where the man abides within his Self and is satisfied there, its functions restrained by its union with the Divine, the mind finds rest." </br>
 
 # Prefs
 <table>
