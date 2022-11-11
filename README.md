@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः | क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||" </br>
-Translate: "4.12 Those who look for success, worship the Powers; and in this world their actions bear immediate fruit." </br>
+"शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः | गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||" </br>
+Translate: "15.8 When the Supreme Lord enters a body or leaves it, He gathers these senses together and travels on with them, as the wind gathers perfume while passing through the flowers." </br>
 
 # Prefs
 <table>
