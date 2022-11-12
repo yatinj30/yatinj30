@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः | गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||" </br>
-Translate: "15.8 When the Supreme Lord enters a body or leaves it, He gathers these senses together and travels on with them, as the wind gathers perfume while passing through the flowers." </br>
+"न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् | कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ||३-५||" </br>
+Translate: "3.5 He cannot even for a moment remain really inactive, for the Qualities of Nature will compel him to act whether he will or no." </br>
 
 # Prefs
 <table>
