@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्षयन्तः शरीरस्थं भूतग्राममचेतसः | मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||" </br>
-Translate: "17.6 They are ignorant. They torment the organs of the body; and they harass Me also, Who lives within. Know that they are devoted to evil." </br>
+"अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे | प्राणापानगती रुद्ध्वा प्राणायामपरायणाः ||४-२९||" </br>
+Translate: "4.29 There are some who practise control of the Vital Energy and govern the subtle forces of Prana and Apana, thereby sacrificing their Prana unto Apana, or their Apana unto Prana." </br>
 
 # Prefs
 <table>
