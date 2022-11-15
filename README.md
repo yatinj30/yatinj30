@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता | मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||" </br>
-Translate: "16.5 Godly qualities lead to liberation; godless to bondage. Do not be anxious, Prince! Thou hast the Godly qualities." </br>
+"अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् | इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||" </br>
+Translate: "17.12 Sacrifice which is performed for the sake of its results, or for self-glorification - that, O best of Aryans, is the product of Passion." </br>
 
 # Prefs
 <table>
