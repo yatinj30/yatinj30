@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय | मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||७-७||" </br>
-Translate: "7.7 O Arjuna! There is nothing higher than Me; all is strung upon Me as rows of pearls upon a thread." </br>
+"इदं ते नातपस्काय नाभक्ताय कदाचन | न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ||१८-६७||" </br>
+Translate: "18.67 Speak not this to one who has not practised austerities, or to him who does not love, or who will not listen, or who mocks." </br>
 
 # Prefs
 <table>
