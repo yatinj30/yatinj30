@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||३-२३||" </br>
-Translate: "3.23 For were I not to act without ceasing, O prince, people would be glad to do likewise." </br>
+"न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते | त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||१८-१०||" </br>
+Translate: "18.10 The wise man who has attained purity, whose doubts are solved, who is filled with the spirit of self-abnegation, does not shrink from action because it brings pain, nor does he desire it because it brings pleasure." </br>
 
 # Prefs
 <table>
