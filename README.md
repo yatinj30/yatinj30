@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे | समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ||१८-५०||" </br>
-Translate: "18.50 I will now state briefly how he, who has reached perfection, finds the Eternal Spirit, the state of Supreme Wisdom." </br>
+"श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति | शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ||४-२६||" </br>
+Translate: "4.26 Some sacrifice their physical senses in the fire of self-control; others offer up their contact with external objects in the sacrificial fire of their senses." </br>
 
 # Prefs
 <table>
