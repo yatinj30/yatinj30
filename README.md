@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वीतरागभयक्रोधा मन्मया मामुपाश्रिताः | बहवो ज्ञानतपसा पूता मद्भावमागताः ||४-१०||" </br>
-Translate: "4.10 Many have merged their existences in Mine, being freed from desire, fear and anger, filled always with Me and purified by the illuminating flame of self-abnegation." </br>
+"सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च | प्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||१४-१७||" </br>
+Translate: "14.17 Purity engenders Wisdom, Passion avarice, and Ignorance folly, infatuation and darkness." </br>
 
 # Prefs
 <table>
