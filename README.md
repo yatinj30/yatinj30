@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन | सुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||" </br>
-Translate: "6.32 O Arjuna! He is the perfect saint who, taught by the likeness within himself, sees the same Self everywhere, whether the outer form be pleasurable or painful." </br>
+"जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च | तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||२-२७||" </br>
+Translate: "2.27 For death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." </br>
 
 # Prefs
 <table>
