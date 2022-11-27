@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"असंयतात्मना योगो दुष्प्राप इति मे मतिः | वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ||६-३६||" </br>
-Translate: "6.36 It is not possible to attain Self-Realisation if a man does not know how to control himself; but for him who, striving by proper means, learns such control, it is possible." </br>
+"पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया | यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ||८-२२||" </br>
+Translate: "8.22 O Arjuna! That Highest God, in Whom all beings abide, and Who pervades the entire universe, is reached only by wholehearted devotion. [The following material (between the asterisks) is an example of what may be a "doctored' inclusion. It does not jibe with the rest of the material because it is not presented as metaphor and clearly implies that worldly phenomena are spiritually determining. Maybe it was added by an individual or individuals who were less cognizant than the originating author. Or maybe was 'craftily' inserted to function as a sort of litmus test - those who get"taken in' by it may be recognized as not having "spiritual discernment'.]" </br>
 
 # Prefs
 <table>
