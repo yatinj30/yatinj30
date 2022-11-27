@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आशापाशशतैर्बद्धाः कामक्रोधपरायणाः | ईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||१६-१२||" </br>
-Translate: "16.12 Caught in the toils of a hundred vain hopes, the slaves of passion and wrath, they accumulate hoards of unjust wealth, only to pander to their sensual desire." </br>
+"कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् | तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ||३-१५||" </br>
+Translate: "3.15 All action originates in the Supreme Spirit, which is Imperishable, and in sacrificial action the all-pervading Spirit is consciously present." </br>
 
 # Prefs
 <table>
