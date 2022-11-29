@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः | माययापहृतज्ञाना आसुरं भावमाश्रिताः ||७-१५||" </br>
-Translate: "7.15 The sinner, the ignorant, the vile, deprived of spiritual perception by the glamour of Illusion, and he who pursues a godless life - none of them shall find Me." </br>
+"सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः | सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||" </br>
+Translate: "6.31 The sage who realises the unity of life and who worships Me in all beings, lives in Me, whatever may be his lot." </br>
 
 # Prefs
 <table>
