@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः | दर्शयामास पार्थाय परमं रूपमैश्वरम् ||११-९||" </br>
-Translate: "11.9 Sanjaya continued: "Having thus spoken, O King, the Lord Shri Krishna, the Almighty Prince of Wisdom, showed to Arjuna the Supreme Form of the Great God." </br>
+"नाहं प्रकाशः सर्वस्य योगमायासमावृतः | मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||७-२५||" </br>
+Translate: "7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable." </br>
 
 # Prefs
 <table>
