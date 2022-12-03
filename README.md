@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् | हेतुनानेन कौन्तेय जगद्विपरिवर्तते ||९-१०||" </br>
-Translate: "9.10 Under my guidance, Nature produces all things movable and immovable. Thus it is, O Arjuna, that this universe revolves." </br>
+"सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च | मूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||" </br>
+Translate: "8.12 Closing the gates of the body, drawing the forces of his mind into the heart and by the power of meditation concentrating his vital energy in the brain;" </br>
 
 # Prefs
 <table>
