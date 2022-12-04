@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च | मूध्न्यार्धायात्मनः प्राणमास्थितो योगधारणाम् ||८-१२||" </br>
-Translate: "8.12 Closing the gates of the body, drawing the forces of his mind into the heart and by the power of meditation concentrating his vital energy in the brain;" </br>
+"अफलाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते | यष्टव्यमेवेति मनः समाधाय स सात्त्विकः ||१७-११||" </br>
+Translate: "17.11 Sacrifice is Pure when it is offered by one who does not covet the fruit thereof, when it is done according to the commands of scripture, and with implicit faith that the sacrifice is a duty." </br>
 
 # Prefs
 <table>
