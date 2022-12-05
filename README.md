@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन | प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ||८-२||" </br>
-Translate: "8.2 Who is it who rules the spirit sacrifice in many; and at the time of death how may those who have learned self-control come to the knowledge of Thee?" </br>
+"दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||" </br>
+Translate: "1.43 By the destruction of our lineage and the pollution of blood, ancient class traditions and family purity alike perish." </br>
 
 # Prefs
 <table>
