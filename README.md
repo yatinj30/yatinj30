@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते | सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ||६-४||" </br>
-Translate: "6.4 When a man renounces even the thought of initiating action, when he is not interested in sense objects or any results which may flow from his acts, then in truth he understands spirituality." </br>
+"अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||" </br>
+Translate: "1.11 Therefore in the rank and file, let stand firm in their posts, according to battalions; and all you generals about Bheeshma." </br>
 
 # Prefs
 <table>
