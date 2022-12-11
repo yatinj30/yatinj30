@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वेदाहं समतीतानि वर्तमानानि चार्जुन | भविष्याणि च भूतानि मां तु वेद न कश्चन ||७-२६||" </br>
-Translate: "7.26 I know, O Arjuna, all beings in the past, the present and the future; but they do not know Me." </br>
+"क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा | भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ||१३-३५||" </br>
+Translate: "13.35 Those who with the eyes of wisdom thus see the difference between Matter and Spirit, and know how to liberate Life from the Law of Nature, they attain the Supreme."" </br>
 
 # Prefs
 <table>
