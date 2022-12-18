@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
-Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
+"अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः | अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||२-१८||" </br>
+Translate: "2.18 The material bodies which this Eternal, Indestructible, Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!" </br>
 
 # Prefs
 <table>
