@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तमेव शरणं गच्छ सर्वभावेन भारत | तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ||१८-६२||" </br>
-Translate: "18.62 With all thy strength, fly unto Him and surrender thyself, and by His grace shalt thou attain Supreme Peace and reach the Eternal Home." </br>
+"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
+Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
 
 # Prefs
 <table>
