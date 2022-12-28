@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव | मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||" </br>
-Translate: "12.10 And if thou are not strong enough to practise concentration, then devote thyself to My service, do all thine acts for My sake, and thou shalt still attain the goal." </br>
+"नभःस्पृशं दीप्तमनेकवर्णं व्यात्ताननं दीप्तविशालनेत्रम् | दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा धृतिं न विन्दामि शमं च विष्णो ||११-२४||" </br>
+Translate: "11.24 When I see Thee, touching the Heavens, glowing with colour, with open mouth and wide open fiery eyes, I am terrified. O My Lord! My courage and peace of mind desert me." </br>
 
 # Prefs
 <table>
