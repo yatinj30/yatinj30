@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः | शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ||४-२१||" </br>
-Translate: "4.21 Expecting nothing, his mind and personality controlled, without greed, doing bodily actions only; though he acts, yet he remains untainted." </br>
+"वायुर्यमोऽग्निर्वरुणः शशाङ्कः प्रजापतिस्त्वं प्रपितामहश्च | नमो नमस्तेऽस्तु सहस्रकृत्वः पुनश्च भूयोऽपि नमो नमस्ते ||११-३९||" </br>
+Translate: "11.39 Thou art the Wind, Thou art Death, Thou art the Fire, the Water, the Moon, the Father and the Grandfather. Honour and glory to Thee a thousand and a thousand times! Again and again, salutation be to Thee, O my Lord!" </br>
 
 # Prefs
 <table>
