@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधश्चोर्ध्वं प्रसृतास्तस्य शाखा गुणप्रवृद्धा विषयप्रवालाः | अधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके ||१५-२||" </br>
-Translate: "15.2 Its branches shoot upwards and downwards, deriving their nourishment from the Qualities; its buds are the objects of sense; and its roots, which follow the Law causing man's regeneration and degeneration, pierce downwards into the soil." </br>
+"न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||" </br>
+Translate: "18.11 But since those still in the body cannot entirely avoid action, in their case abandonment of the fruit of action is considered as complete renunciation." </br>
 
 # Prefs
 <table>
