@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः | अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||२-१८||" </br>
-Translate: "2.18 The material bodies which this Eternal, Indestructible, Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!" </br>
+"अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||" </br>
+Translate: "18.53 Having abandoned selfishness, power, arrogance, anger and desire, possessing nothing of his own and having attained peace, he is fit to join the Eternal Spirit." </br>
 
 # Prefs
 <table>
