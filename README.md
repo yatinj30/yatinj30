@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् | तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी ||२-७०||" </br>
-Translate: "2.70 He attains Peace, into whom desires flow as rivers into the ocean, which though brimming with water remains ever the same; not he whom desire carries away." </br>
+"यदहंकारमाश्रित्य न योत्स्य इति मन्यसे | मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||१८-५९||" </br>
+Translate: "18.59 If thou in thy vanity thinkest of avoiding this fight, thy will shall not be fulfilled, for Nature herself will compel thee." </br>
 
 # Prefs
 <table>
