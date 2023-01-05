@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः | ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||" </br>
-Translate: "12.4 Subduing their senses, viewing all conditions of life with the same eye, and working for the welfare of all beings, assuredly they come to Me." </br>
+"अर्जुन उवाच | अपरं भवतो जन्म परं जन्म विवस्वतः | कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ||४-४||" </br>
+Translate: "4.4 Arjuna asked: My Lord! Viwaswana was born before Thee; how then canst Thou have revealed it to him?" </br>
 
 # Prefs
 <table>
