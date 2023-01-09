@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति | भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||१८-६८||" </br>
-Translate: "18.68 But he who teaches this great secret to My devotees, his is the highest devotion, and verily he shall come unto Me." </br>
+"ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः | प्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||" </br>
+Translate: "11.14 Thereupon Arjuna, dumb with awe, his hair on end, his head bowed, his hands clasped in salutation, addressed the Lord thus:" </br>
 
 # Prefs
 <table>
