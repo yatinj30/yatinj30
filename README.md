@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् | कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ||१३-२२||" </br>
-Translate: "13.22 God dwelling in the heart of Nature experiences the Qualities which nature brings forth; and His affinity towards the Qualities is the reason for His living in a good or evil body." </br>
+"यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः | तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ||१८-७८||" </br>
+Translate: "18.78 Wherever is the Lord Shri Krishna, the Prince of Wisdom, and wherever is Arjuna, the Great Archer, I am more than convinced that good fortune, victory, happiness and righteousness will follow"" </br>
 
 # Prefs
 <table>
