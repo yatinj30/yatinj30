@@ -9,7 +9,7 @@
 ## Activity Graph
 <p align="center">
 <a href="https://github.com/yatinj30/">
- <img src="https://activity-graph.herokuapp.com/graph?username=yatinj30&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yatinj30&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
 </br>
