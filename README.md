@@ -38,7 +38,7 @@ Translate: "5.10 He who dedicates his actions to the Spirit, without any persona
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yatinj30&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yatinj30&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="205">
 </p>
 
 
