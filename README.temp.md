@@ -51,7 +51,7 @@ Translate: "{translated}" </br>
 
 <br/><br/>
 
-### Conenct with Me 
+### Connect with Me 
 <p align="left">
 <a href="https://linkedin.com/in/yatinj-sutariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatinj-sutariya-310594184" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12459803/yatinj-sutariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yatinj-sutariya" height="30" width="40" /></a>
