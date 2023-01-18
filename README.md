@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् | स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ||१-३७||" </br>
-Translate: "1.37 We are worthy of a nobler feat than to slaughter our relatives - the sons of Dhritarashtra; for, my Lord, how can we be happy of we kill our kinsmen?" </br>
+"योगी युञ्जीत सततमात्मानं रहसि स्थितः | एकाकी यतचित्तात्मा निराशीरपरिग्रहः ||६-१०||" </br>
+Translate: "6.10 Let the student of spirituality try unceasingly to concentrate his mind; Let him live in seclusion, absolutely alone, with mind and personality controlled, free from desire and without possessions." </br>
 
 # Prefs
 <table>
