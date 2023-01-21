@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"या निशा सर्वभूतानां तस्यां जागर्ति संयमी | यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ||२-६९||" </br>
-Translate: "2.69 The saint is awake when the world sleeps, and he ignores that for which the world lives." </br>
+"कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् | परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ||१८-४४||" </br>
+Translate: "18.44 Agriculture, protection of the cow and trade are the duty of a trader, again in accordance with his nature. The duty of a servant is to serve, and that too agrees with his nature." </br>
 
 # Prefs
 <table>
