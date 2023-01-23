@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः | सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ||५-७||" </br>
-Translate: "5.7 He who is spiritual, who is pure, who has overcome his senses and his personal self, who has realised his highest Self as the Self of all, such a one, even though he acts, is not bound by his acts." </br>
+"ये चैव सात्त्विका भावा राजसास्तामसाश्च ये | मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ||७-१२||" </br>
+Translate: "7.12 Whatever be the nature of their life, whether it be pure or passionate or ignorant, they are all derived from Me. They are in Me, but I am not in them." </br>
 
 # Prefs
 <table>
