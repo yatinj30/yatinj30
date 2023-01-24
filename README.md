@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स तया श्रद्धया युक्तस्तस्याराधनमीहते | लभते च ततः कामान्मयैव विहितान्हि तान् ||७-२२||" </br>
-Translate: "7.22 If he worships one form alone with real faith, then shall his desires be fulfilled through that only; for thus have I ordained." </br>
+"विस्तरेणात्मनो योगं विभूतिं च जनार्दन | भूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ||१०-१८||" </br>
+Translate: "10.18 Tell me again, I pray, about the fullness of Thy power and Thy glory; for I feel that I am never satisfied when I listen to Thy immortal words." </br>
 
 # Prefs
 <table>
