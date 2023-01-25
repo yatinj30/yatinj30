@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः | मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||" </br>
-Translate: "12.14 Always contented, self-centred, self-controlled, resolute, with mind and reason dedicated to Me, such a devotee of Mine is My beloved." </br>
+"यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति | तस्याहं न प्रणश्यामि स च मे न प्रणश्यति ||६-३०||" </br>
+Translate: "6.30 He who sees Me in everything and everything in Me, him shall I never forsake, nor shall he lose Me." </br>
 
 # Prefs
 <table>
