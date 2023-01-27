@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् | विसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||" </br>
-Translate: "1.47 Sanjaya said: "Having spoken thus, in the midst of the armies, Arjuna sank on the seat of the chariot, casting away his bow and arrow; heartbroken with grief."" </br>
+"आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः | यज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||१७-७||" </br>
+Translate: "17.7 The food which men enjoy is also threefold, like the ways of sacrifice, austerity and almsgiving. Listen to the distinction." </br>
 
 # Prefs
 <table>
