@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते | सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ||२-६२||" </br>
-Translate: "2.62 When a man dwells on the objects of sense, he creates an attraction for them; attraction develops into desire, and desire breeds anger." </br>
+"आयुधानामहं वज्रं धेनूनामस्मि कामधुक् | प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ||१०-२८||" </br>
+Translate: "10.28 I am the Thunderbolt among weapons; of cows I am the Cow of Plenty, I am Passion in those who procreate, and I am the Cobra among serpents." </br>
 
 # Prefs
 <table>
