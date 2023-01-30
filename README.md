@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उदासीनवदासीनो गुणैर्यो न विचाल्यते | गुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||" </br>
-Translate: "14.23 He who maintains an attitude of indifference, who is not disturbed by the Qualities, who realises that it is only they who act, and remains calm;" </br>
+"हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् | तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ||२-३७||" </br>
+Translate: "2.37 If killed, thou shalt attain Heaven; if victorious, enjoy the kingdom of earth. Therefore arise, O Son of Kunti, and fight!" </br>
 
 # Prefs
 <table>
