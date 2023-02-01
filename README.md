@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः | न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ||५-१४||" </br>
-Translate: "5.14 The Lord of this universe has not ordained activity, or any incentive thereto, or any relation between an act and its consequences. All this is the work of Nature." </br>
+"श्रीभगवानुवाच | भूय एव महाबाहो शृणु मे परमं वचः | यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||" </br>
+Translate: "10.1 "Lord Shri Krishna said: Now, O Prince! Listen to My supreme advice, which I give thee for the sake of thy welfare, for thou art My beloved." </br>
 
 # Prefs
 <table>
