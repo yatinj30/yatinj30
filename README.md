@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् | अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||१८-२२||" </br>
-Translate: "18.22 But that which clings blindly to one idea as if it were all, without logic, truth or insight, that has its origin in Darkness." </br>
+"असौ मया हतः शत्रुर्हनिष्ये चापरानपि | ईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||१६-१४||" </br>
+Translate: "16.14 I have slain one enemy, I will slay the others also; I am worthy to enjoy, I am the Almighty, I am perfect, powerful and happy;" </br>
 
 # Prefs
 <table>
