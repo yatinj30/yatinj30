@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे | ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ||९-१||" </br>
-Translate: "9.1 "Lord Shri Krishna said: I will now reveal to thee, since thou doubtest not, that profound mysticism, which when followed by experience, shall liberate thee from sin." </br>
+"यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् | यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ||९-२७||" </br>
+Translate: "9.27 Whatever thou doest, whatever thou dost eat, whatever thou dost sacrifice and give, whatever austerities thou practisest, do all as an offering to Me." </br>
 
 # Prefs
 <table>
