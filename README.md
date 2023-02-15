@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा | कामरूपेण कौन्तेय दुष्पूरेणानलेन च ||३-३९||" </br>
-Translate: "3.39 It is the wise man's constant enemy; it tarnishes the face of wisdom. It is as insatiable as a flame of fire." </br>
+"श्रीभगवानुवाच | पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः | नानाविधानि दिव्यानि नानावर्णाकृतीनि च ||११-५||" </br>
+Translate: "11.5 Lord Shri Krishna replied: Behold, O Arjuna! My celestial forms, by hundred and thousands, various in kind, in colour and in shape." </br>
 
 # Prefs
 <table>
