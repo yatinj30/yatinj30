@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् | दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||" </br>
-Translate: "16.2 harmlessness, truth, absence of wrath, renunciation, contentment, straightforwardness, compassion towards all, uncovetousness, courtesy, modesty, constancy," </br>
+"एवं परम्पराप्राप्तमिमं राजर्षयो विदुः | स कालेनेह महता योगो नष्टः परन्तप ||४-२||" </br>
+Translate: "4.2 The Divine Kings knew it, for it was their tradition. Then, after a long time, at last it was forgotten." </br>
 
 # Prefs
 <table>
