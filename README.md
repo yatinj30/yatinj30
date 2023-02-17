@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा विनियतं चित्तमात्मन्येवावतिष्ठते | निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ||६-१८||" </br>
-Translate: "6.18 When the mind, completely controlled, is centered in the Self, and free from all earthly desires, then is the man truly spiritual." </br>
+"एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः | प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||" </br>
+Translate: "16.9 Thinking thus, these degraded souls, these enemies of mankind - whose intelligence is negligible and whose deeds are monstrous - come into the world only to destroy." </br>
 
 # Prefs
 <table>
