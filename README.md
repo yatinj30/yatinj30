@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् | सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ||२-३२||" </br>
-Translate: "2.32 Blessed are the soldiers who find their opportunity. This opportunity has opened for thee the gates of heaven." </br>
+"प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि | इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ||५-९||" </br>
+Translate: "5.9 Though he talks, though he gives and receives, though he opens his eyes and shuts them, he still knows that his senses are merely disporting themselves among the objects of perception." </br>
 
 # Prefs
 <table>
