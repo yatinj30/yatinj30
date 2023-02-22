@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः | प्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||" </br>
-Translate: "11.14 Thereupon Arjuna, dumb with awe, his hair on end, his head bowed, his hands clasped in salutation, addressed the Lord thus:" </br>
+"अर्जुन उवाच | ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन | तत्किं कर्मणि घोरे मां नियोजयसि केशव ||३-१||" </br>
+Translate: "3.1 "Arjuna questioned: My Lord! If Wisdom is above action, why dost Thou advise me to engage in this terrible fight?" </br>
 
 # Prefs
 <table>
