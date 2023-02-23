@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः | भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ||४-३||" </br>
-Translate: "4.3 It is the same ancient Path that I have now revealed to thee, since thou are My devotee and My friend. It is the supreme Secret." </br>
+"भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् | व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ||२-४४||" </br>
+Translate: "2.44 While their minds are absorbed with ideas of power and personal enjoyment, they cannot concentrate their discrimination on one point." </br>
 
 # Prefs
 <table>
