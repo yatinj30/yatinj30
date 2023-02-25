@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् | तदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||" </br>
-Translate: "14.14 When Purity prevails, the soul on quitting the body passes on to the pure regions where live those who know the Highest." </br>
+"कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् | केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ||१०-१७||" </br>
+Translate: "10.17 O Master! How shall I, by constant meditation, know Thee? My Lord! What are Thy various manifestations through which I am to mediate on Thee?" </br>
 
 # Prefs
 <table>
