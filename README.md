@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः | स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ||५-२४||" </br>
-Translate: "5.24 He who is happy within his Self and has found Its peace, and in whom the inner light shines, that sage attains Eternal Bliss and becomes the Spirit Itself." </br>
+"यत्रोपरमते चित्तं निरुद्धं योगसेवया | यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ||६-२०||" </br>
+Translate: "6.20 There, where the whole nature is seen in the light of the Self, where the man abides within his Self and is satisfied there, its functions restrained by its union with the Divine, the mind finds rest." </br>
 
 # Prefs
 <table>
