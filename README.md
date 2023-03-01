@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च | शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||१८-५१||" </br>
-Translate: "18.51 Guided always by pure reason, bravely restraining himself, renouncing the objects of sense and giving up attachment and hatred;" </br>
+"ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः | यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||७-२||" </br>
+Translate: "7.2 I will reveal to this knowledge unto thee, and how it may be realised; which, once accomplished, there remains nothing else worth having in this life." </br>
 
 # Prefs
 <table>
