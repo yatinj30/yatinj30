@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः | यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||७-२||" </br>
-Translate: "7.2 I will reveal to this knowledge unto thee, and how it may be realised; which, once accomplished, there remains nothing else worth having in this life." </br>
+"अर्जुन उवाच | नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत | स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ||१८-७३||" </br>
+Translate: "18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By Thy Grace, O Changeless One, the light has dawned. My doubts are gone, and I stand before Thee ready to do Thy will."" </br>
 
 # Prefs
 <table>
