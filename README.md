@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पवनः पवतामस्मि रामः शस्त्रभृतामहम् | झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||" </br>
-Translate: "10.31 I am the Wind among purifiers, the King Rama among warriors; I am the Crocodile among the fishes, and I am the Ganges among rivers." </br>
+"राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् | प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ||९-२||" </br>
+Translate: "9.2 This is the Premier Science, the Sovereign Secret, the Purest and Best; intuitional, righteous; and to him who practiseth it pleasant beyond measure." </br>
 
 # Prefs
 <table>
