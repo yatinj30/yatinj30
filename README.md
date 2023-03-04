@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समं कायशिरोग्रीवं धारयन्नचलं स्थिरः | सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ||६-१३||" </br>
-Translate: "6.13 Let him hold body, head and neck erect, motionless and steady; let him look fixedly at the tip of his nose, turning neither to the right nor to the left." </br>
+"अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् | यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ||८-५||" </br>
+Translate: "8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me." </br>
 
 # Prefs
 <table>
