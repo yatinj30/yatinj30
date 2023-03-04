@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च | इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ||१३-६||" </br>
-Translate: "13.6 The five great fundamentals (earth, fire, air, water and ether), personality, intellect, the mysterious life force, the ten organs of perception and action, the mind and the five domains of sensation;" </br>
+"अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||" </br>
+Translate: "1.7 Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you." </br>
 
 # Prefs
 <table>
