@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति | समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ||१८-५४||" </br>
-Translate: "18.54 And when he becomes one with the Eternal, and his soul knows the bliss that belongs to the Self, he feels no desire and no regret, he regards all beings equally and enjoys the blessing of supreme devotion to Me." </br>
+"दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||" </br>
+Translate: "1.43 By the destruction of our lineage and the pollution of blood, ancient class traditions and family purity alike perish." </br>
 
 # Prefs
 <table>
