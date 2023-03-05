@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते | सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ||२-६२||" </br>
-Translate: "2.62 When a man dwells on the objects of sense, he creates an attraction for them; attraction develops into desire, and desire breeds anger." </br>
+"तेषामेवानुकम्पार्थमहमज्ञानजं तमः | नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ||१०-११||" </br>
+Translate: "10.11 By My grace, I live in their hearts; and I dispel the darkness of ignorance by the shining light of wisdom." </br>
 
 # Prefs
 <table>
