@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||" </br>
-Translate: "18.11 But since those still in the body cannot entirely avoid action, in their case abandonment of the fruit of action is considered as complete renunciation." </br>
+"कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः | जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ||२-५१||" </br>
+Translate: "2.51 The sages guided by Pure Intellect renounce the fruit of action; and, freed from the chains of rebirth, they reach the highest bliss." </br>
 
 # Prefs
 <table>
