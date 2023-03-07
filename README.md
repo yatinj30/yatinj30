@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् | तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ||६-३४||" </br>
-Translate: "6.34 My Lord! Verily, the mind is fickle and turbulent, obstinate and strong, yea extremely difficult as the wind to control." </br>
+"बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च | शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||१८-५१||" </br>
+Translate: "18.51 Guided always by pure reason, bravely restraining himself, renouncing the objects of sense and giving up attachment and hatred;" </br>
 
 # Prefs
 <table>
