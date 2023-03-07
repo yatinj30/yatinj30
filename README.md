@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् | पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ||५-८||" </br>
-Translate: "5.8 Though the saint sees, hears, touches, smells, eats, moves, sleeps and breathes, yet he knows the Truth, and he knows that it is not he who acts." </br>
+"अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति | नायं लोकोऽस्ति न परो न सुखं संशयात्मनः ||४-४०||" </br>
+Translate: "4.40 But the ignorant man, and he who has no faith, and the sceptic are lost. Neither in this world nor elsewhere is there any happiness in store for him who always doubts." </br>
 
 # Prefs
 <table>
