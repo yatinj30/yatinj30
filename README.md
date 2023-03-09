@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया | त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||" </br>
-Translate: "11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty." </br>
+"रजस्तमश्चाभिभूय सत्त्वं भवति भारत | रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||१४-१०||" </br>
+Translate: "14.10 O Prince! Purity prevails when Passion and Ignorance are overcome; Passion, when Purity and Ignorance are overcome; and Ignorance when it overcomes Purity and Passion." </br>
 
 # Prefs
 <table>
