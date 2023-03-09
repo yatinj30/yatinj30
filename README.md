@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तेषामहं समुद्धर्ता मृत्युसंसारसागरात् | भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||" </br>
-Translate: "12.7 O Arjuna! I rescue them from the ocean of life and death, for their minds are fixed on Me." </br>
+"भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया | त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||" </br>
+Translate: "11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty." </br>
 
 # Prefs
 <table>
