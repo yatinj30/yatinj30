@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च | कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ||१८-६||" </br>
-Translate: "18.6 But they should be done with detachment and without thought of recompense. This is my final judgment." </br>
+"अर्जुन उवाच | सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||" </br>
+Translate: "1.21 Raising his bow, spoke this to the Lord Shri Krishna: O Infallible! Lord of the earth! Please draw up my chariot betwixt the two armies," </br>
 
 # Prefs
 <table>
