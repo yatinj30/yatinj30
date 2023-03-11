@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः | क्रियते बहुलायासं तद्राजसमुदाहृतम् ||१८-२४||" </br>
-Translate: "18.24 But even though an action involve the most strenuous endeavour, yet if the doer is seeking to gratify his desires, and is filled with personal vanity, it may be assumed to originate in Passion." </br>
+"राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् | केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ||१८-७६||" </br>
+Translate: "18.76 O King! The more I think of that marvellous and holy discourse, the more I lose myself in joy." </br>
 
 # Prefs
 <table>
