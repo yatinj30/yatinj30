@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु | प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||१८-२९||" </br>
-Translate: "18.29 Reason and conviction are threefold, according to the Quality which is dominant. I will explain them fully and severally, O Arjuna!" </br>
+"एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः | सोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||" </br>
+Translate: "10.7 He who rightly understands My manifested glory and My Creative Power, beyond doubt attains perfect peace." </br>
 
 # Prefs
 <table>
