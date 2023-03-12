@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते | तथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||" </br>
-Translate: "14.15 When Passion prevails, the soul is reborn among those who love activity; when Ignorance rules, it enters the wombs of the ignorant." </br>
+"श्रीभगवानुवाच | कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् | अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ||२-२||" </br>
+Translate: "2.2 "The Lord said: My beloved friend! Why yield, just on the eve of battle, to this weakness which does no credit to those who call themselves Aryans, and only brings them infamy and bars against them the gates of heaven?" </br>
 
 # Prefs
 <table>
