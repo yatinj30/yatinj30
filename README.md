@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||" </br>
-Translate: "18.53 Having abandoned selfishness, power, arrogance, anger and desire, possessing nothing of his own and having attained peace, he is fit to join the Eternal Spirit." </br>
+"यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते | एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति ||५-५||" </br>
+Translate: "5.5 The level which is reached by wisdom is attained through right action as well. He who perceives that the two are one, knows the truth." </br>
 
 # Prefs
 <table>
