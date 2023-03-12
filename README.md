@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते | कर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||" </br>
-Translate: "17.27 Conviction in sacrifice, in austerity and in giving is also called Sat.' So too an action done only for the Lord's sake." </br>
+"ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् | ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ||१३-५||" </br>
+Translate: "13.5 Seers have sung of It in various ways, in many hymns and sacred Vedic songs, weighty in thought and convincing in argument." </br>
 
 # Prefs
 <table>
