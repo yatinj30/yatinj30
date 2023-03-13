@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | नरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||" </br>
-Translate: "1.44 The wise say, my Lord, that they are forever lost, whose ancient traditions are lost." </br>
+"रजस्तमश्चाभिभूय सत्त्वं भवति भारत | रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||१४-१०||" </br>
+Translate: "14.10 O Prince! Purity prevails when Passion and Ignorance are overcome; Passion, when Purity and Ignorance are overcome; and Ignorance when it overcomes Purity and Passion." </br>
 
 # Prefs
 <table>
