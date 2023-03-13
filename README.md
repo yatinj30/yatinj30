@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया | यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||१६-१५||" </br>
-Translate: "16.15 I am rich, I am well-bred; who is there to compare with me? I will sacrifice, I will give, I will pay - and I will enjoy. Thus blinded by Ignorance," </br>
+"यया स्वप्नं भयं शोकं विषादं मदमेव च | न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ||१८-३५||" </br>
+Translate: "18.35 And that which clings perversely to false idealism, fear, grief, despair and vanity is the product of Ignorance." </br>
 
 # Prefs
 <table>
