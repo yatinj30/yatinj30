@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् | अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||" </br>
-Translate: "12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved." </br>
+"जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च | तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||२-२७||" </br>
+Translate: "2.27 For death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." </br>
 
 # Prefs
 <table>
