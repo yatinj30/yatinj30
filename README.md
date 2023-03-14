@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् | वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||१८-२१||" </br>
-Translate: "18.21 The knowledge which thinks of the manifold existence in all beings as separate - that comes from Passion." </br>
+"श्रीभगवानुवाच | काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः | सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||१८-२||" </br>
+Translate: "18.2 Lord Shri Krishna replied: The sages say that renunciation means forgoing an action which springs from desire; and relinquishing means the surrender of its fruit." </br>
 
 # Prefs
 <table>
