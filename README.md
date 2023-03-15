@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः | क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||" </br>
-Translate: "4.12 Those who look for success, worship the Powers; and in this world their actions bear immediate fruit." </br>
+"अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् | इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||" </br>
+Translate: "17.12 Sacrifice which is performed for the sake of its results, or for self-glorification - that, O best of Aryans, is the product of Passion." </br>
 
 # Prefs
 <table>
