@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन | एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||" </br>
-Translate: "6.33 Arjuna said: I do not see how I can attain this state of equanimity which Thou has revealed, owing to the restlessness of my mind." </br>
+"बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः | सुखं दुःखं भवोऽभावो भयं चाभयमेव च ||१०-४||" </br>
+Translate: "10.4 Intelligence, wisdom, non-illusion, forgiveness, truth, self-control, calmness, pleasure, pain, birth, death, fear and fearlessness;" </br>
 
 # Prefs
 <table>
