@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः | लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ||५-१०||" </br>
-Translate: "5.10 He who dedicates his actions to the Spirit, without any personal attachment to them, he is no more tainted by sin than the water lily is wetted by water." </br>
+"रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते | तथा प्रलीनस्तमसि मूढयोनिषु जायते ||१४-१५||" </br>
+Translate: "14.15 When Passion prevails, the soul is reborn among those who love activity; when Ignorance rules, it enters the wombs of the ignorant." </br>
 
 # Prefs
 <table>
