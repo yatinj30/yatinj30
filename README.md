@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा | मद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||" </br>
-Translate: "10.6 The seven Great Seers,* the Progenitors of mankind, the Ancient Four,** and the Lawgivers were born of My Will and come forth direct from Me. The race of mankind has sprung from them. [* Mareechi, Atri, Angira, Pulah, Kratu, Pulastya, Vahishta. ** The Masters: Sanak, Sanandan, Sanatan, Sanatkumar.]" </br>
+"समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः | तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||१४-२४||" </br>
+Translate: "14.24 Who accepts pain and pleasure as it comes, is centred in his Self, to whom a piece of clay or stone or gold are the same, who neither likes nor dislikes, who is steadfast, indifferent alike to praise or censure;" </br>
 
 # Prefs
 <table>
