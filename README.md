@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते | ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ||१२-१||" </br>
-Translate: "12.1 "Arjuna asked: My Lord! Which are the better devotees who worship Thee, those who try to know Thee as a Personal God, or those who worship Thee as Impersonal and Indestructible?" </br>
+"यत्तदग्रे विषमिव परिणामेऽमृतोपमम् | तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||१८-३७||" </br>
+Translate: "18.37 Which at first seems like poison but afterwards acts like nectar - that pleasure is Pure, for it is born of Wisdom." </br>
 
 # Prefs
 <table>
