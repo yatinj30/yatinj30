@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः | कामोपभोगपरमा एतावदिति निश्चिताः ||१६-११||" </br>
-Translate: "16.11 Poring anxiously over evil resolutions, which only end in death; seeking only the gratification of desire as the highest goal; seeing nothing beyond;" </br>
+"यथा नदीनां बहवोऽम्बुवेगाः समुद्रमेवाभिमुखा द्रवन्ति | तथा तवामी नरलोकवीरा विशन्ति वक्त्राण्यभिविज्वलन्ति ||११-२८||" </br>
+Translate: "11.28 As rivers in flood surge furiously to the ocean, so these heroes, the greatest among men, fling themselves into Thy flaming mouths." </br>
 
 # Prefs
 <table>
