@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् | दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ||१८-४३||" </br>
-Translate: "18.43 Valour, glory, firmness, skill, generosity, steadiness in battle and ability to rule - these constitute the duty of a soldier. They flow from his own nature." </br>
+"नैते सृती पार्थ जानन्योगी मुह्यति कश्चन | तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||" </br>
+Translate: "8.27 O Arjuna! The saint knowing these paths is not confused. Therefore meditate perpetually." </br>
 
 # Prefs
 <table>
