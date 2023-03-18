@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||४-११||" </br>
-Translate: "4.11 Howsoever men try to worship Me, so do I welcome them. By whatever path they travel, it leads to Me at last." </br>
+"अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||" </br>
+Translate: "1.7 Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you." </br>
 
 # Prefs
 <table>
