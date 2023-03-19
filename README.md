@@ -53,9 +53,9 @@ Translate: "10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada,
 
 ### Connect with Me 
 <p align="left">
-<a href="https://linkedin.com/in/yatinj-sutariya" target="blank">Linkedin</a>
-<a href="https://stackoverflow.com/users/12459803/yatinj-sutariya" target="blank">Stackoverflow</a>
-<a href="https://www.upwork.com/freelancers/~01d403b930e98cfd3e" target="blank">Reach me at Upwork for freelancing project</a>
+<a href="https://linkedin.com/in/yatinj-sutariya" target="blank">Linkedin</a> <br/>
+<a href="https://stackoverflow.com/users/12459803/yatinj-sutariya" target="blank">Stackoverflow</a> <br/>
+<a href="https://www.upwork.com/freelancers/~01d403b930e98cfd3e" target="blank">Reach me at Upwork for freelancing project</a> <br/>
 </p>
 
 ### Support
