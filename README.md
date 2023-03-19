@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् | क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||२-४३||" </br>
-Translate: "2.43 Consulting only their own desires, they construct their own heaven, devising arduous and complex rites to secure their own pleasure and their own power; and the only result is rebirth." </br>
+"धूमेनाव्रियते वह्निर्यथादर्शो मलेन च | यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ||३-३८||" </br>
+Translate: "3.38 As fire is shrouded in smoke, a mirror by dust and a child by the womb, so is the universe enveloped in desire." </br>
 
 # Prefs
 <table>
