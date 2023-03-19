@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः | उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ||६-१२||" </br>
-Translate: "6.12 Seated thus, his mind concentrated, its functions controlled and his senses governed, let him practise meditation for the purification of his lower nature." </br>
+"द्रोणं च भीष्मं च जयद्रथं च कर्णं तथान्यानपि योधवीरान् | मया हतांस्त्वं जहि मा व्यथिष्ठा युध्यस्व जेतासि रणे सपत्नान् ||११-३४||" </br>
+Translate: "11.34 Drona and Bheeshma, Jayadratha and Karna, and other brave warriors - I have condemned them all. Destroy them; fight and fear not. Thy foes shall be crushed."" </br>
 
 # Prefs
 <table>
