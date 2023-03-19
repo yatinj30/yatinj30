@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया | यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ||८-२२||" </br>
-Translate: "8.22 O Arjuna! That Highest God, in Whom all beings abide, and Who pervades the entire universe, is reached only by wholehearted devotion. [The following material (between the asterisks) is an example of what may be a "doctored' inclusion. It does not jibe with the rest of the material because it is not presented as metaphor and clearly implies that worldly phenomena are spiritually determining. Maybe it was added by an individual or individuals who were less cognizant than the originating author. Or maybe was 'craftily' inserted to function as a sort of litmus test - those who get"taken in' by it may be recognized as not having "spiritual discernment'.]" </br>
+"महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः | भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ||९-१३||" </br>
+Translate: "9.13 But the Great Souls, O Arjuna! Filled with My Divine Spirit, they worship Me, they fix their minds on Me and on Me alone, for they know that I am the imperishable Source of being." </br>
 
 # Prefs
 <table>
