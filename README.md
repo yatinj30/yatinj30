@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे | प्राणापानगती रुद्ध्वा प्राणायामपरायणाः ||४-२९||" </br>
-Translate: "4.29 There are some who practise control of the Vital Energy and govern the subtle forces of Prana and Apana, thereby sacrificing their Prana unto Apana, or their Apana unto Prana." </br>
+"श्रीभगवानुवाच | पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते | न हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ||६-४०||" </br>
+Translate: "6.40 Lord Shri Krishna replied: My beloved child! There is no destruction for him, either in this world or in the next. No evil fate awaits him who treads the path of righteousness." </br>
 
 # Prefs
 <table>
