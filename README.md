@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधर्मं धर्ममिति या मन्यते तमसावृता | सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||१८-३२||" </br>
-Translate: "18.32 And that which, shrouded in Ignorance, thinks wrong right, and sees everything perversely, O Arjuna, that intellect is ruled by Darkness." </br>
+"त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् | मोहितं नाभिजानाति मामेभ्यः परमव्ययम् ||७-१३||" </br>
+Translate: "7.13 The inhabitants of the world, misled by those natures which the Qualities have engendered, know not that I am higher than them all, and that I do not change." </br>
 
 # Prefs
 <table>
