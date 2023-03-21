@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् | उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ||६-२७||" </br>
-Translate: "6.27 Supreme Bliss is the lot of the sage, whose mind attains Peace, whose passions subside, who is without sin, and who becomes one with the Absolute." </br>
+"अधर्मं धर्ममिति या मन्यते तमसावृता | सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ||१८-३२||" </br>
+Translate: "18.32 And that which, shrouded in Ignorance, thinks wrong right, and sees everything perversely, O Arjuna, that intellect is ruled by Darkness." </br>
 
 # Prefs
 <table>
