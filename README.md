@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः | त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ||६-३९||" </br>
-Translate: "6.39 My Lord! Thou art worthy to solve this doubt once and for all; save Thyself there is no one competent to do so." </br>
+"तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् | स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ||६-२३||" </br>
+Translate: "6.23 This inner severance from the affliction of misery is spirituality. It should be practised with determination and with a heart which refuses to be depressed." </br>
 
 # Prefs
 <table>
