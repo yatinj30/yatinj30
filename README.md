@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् | स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ||६-२३||" </br>
-Translate: "6.23 This inner severance from the affliction of misery is spirituality. It should be practised with determination and with a heart which refuses to be depressed." </br>
+"कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् | क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||२-४३||" </br>
+Translate: "2.43 Consulting only their own desires, they construct their own heaven, devising arduous and complex rites to secure their own pleasure and their own power; and the only result is rebirth." </br>
 
 # Prefs
 <table>
