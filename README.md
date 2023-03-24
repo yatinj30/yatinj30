@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः | तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ||३-१२||" </br>
-Translate: "3.12 For, fed, on sacrifice, nature will give you all the enjoyment you can desire. But he who enjoys what she gives without returning is, indeed, a robber.'" </br>
+"न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा | दिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम् ||११-८||" </br>
+Translate: "11.8 Yet since with mortal eyes thou canst not see Me, lo! I give thee the Divine Sight. See now the glory of My Sovereignty."" </br>
 
 # Prefs
 <table>
