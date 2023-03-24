@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"देवान्भावयतानेन ते देवा भावयन्तु वः | परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||३-११||" </br>
-Translate: "3.11 Worship the Powers of Nature thereby, and let them nourish you in return; thus supporting each other, you shall attain your highest welfare." </br>
+"अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् | सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||२-३४||" </br>
+Translate: "2.34 Men will talk forever of thy disgrace; and to the noble, dishonour is worse than death." </br>
 
 # Prefs
 <table>
