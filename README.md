@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् | कामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः ||५-२३||" </br>
-Translate: "5.23 He who, before he leaves his body, learns to surmount the promptings of desire and anger is a saint and is happy." </br>
+"श्रीभगवानुवाच | पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते | न हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ||६-४०||" </br>
+Translate: "6.40 Lord Shri Krishna replied: My beloved child! There is no destruction for him, either in this world or in the next. No evil fate awaits him who treads the path of righteousness." </br>
 
 # Prefs
 <table>
