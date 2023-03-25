@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः | रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||" </br>
-Translate: "8.17 Those who understand the cosmic day and cosmic night know that one day of creation is a thousand cycles, and that the night is of equal length." </br>
+"भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया | त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||" </br>
+Translate: "11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty." </br>
 
 # Prefs
 <table>
