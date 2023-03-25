@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव | मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ||१२-१०||" </br>
-Translate: "12.10 And if thou are not strong enough to practise concentration, then devote thyself to My service, do all thine acts for My sake, and thou shalt still attain the goal." </br>
+"अमी हि त्वां सुरसङ्घा विशन्ति केचिद्भीताः प्राञ्जलयो गृणन्ति | स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः स्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः ||११-२१||" </br>
+Translate: "11.21 The troops of celestial beings enter into Thee, some invoking Thee in fear, with folded palms; the Great Seers and Adepts sing hymns to Thy Glory, saying All Hail.'" </br>
 
 # Prefs
 <table>
