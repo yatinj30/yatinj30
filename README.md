@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे | स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ||४-२८||" </br>
-Translate: "4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers." </br>
+"मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् | कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||" </br>
+Translate: "10.9 With minds concentrated on Me, with lives absorbed in Me, and enlightening each other, they ever feel content and happy." </br>
 
 # Prefs
 <table>
