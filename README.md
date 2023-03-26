@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन | सुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||" </br>
-Translate: "6.32 O Arjuna! He is the perfect saint who, taught by the likeness within himself, sees the same Self everywhere, whether the outer form be pleasurable or painful." </br>
+"न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः | माययापहृतज्ञाना आसुरं भावमाश्रिताः ||७-१५||" </br>
+Translate: "7.15 The sinner, the ignorant, the vile, deprived of spiritual perception by the glamour of Illusion, and he who pursues a godless life - none of them shall find Me." </br>
 
 # Prefs
 <table>
