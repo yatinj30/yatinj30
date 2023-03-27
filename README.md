@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनन्यचेताः सततं यो मां स्मरति नित्यशः | तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||" </br>
-Translate: "8.14 To him who thinks constantly of Me, and of nothing else, to such an ever-faithful devotee, O Arjuna, am I ever accessible." </br>
+"दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय | बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||२-४९||" </br>
+Translate: "2.49 Physical action is far inferior to an intellect concentrated on the Divine. Have recourse then to Pure Intelligence. It is only the petty-minded who work for reward." </br>
 
 # Prefs
 <table>
