@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् | तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ||३-१५||" </br>
-Translate: "3.15 All action originates in the Supreme Spirit, which is Imperishable, and in sacrificial action the all-pervading Spirit is consciously present." </br>
+"बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् | बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ||७-१०||" </br>
+Translate: "7.10 Know, O Arjuna, that I am the eternal Seed of being; I am the Intelligence of the intelligent, the Splendour of the resplendent." </br>
 
 # Prefs
 <table>
