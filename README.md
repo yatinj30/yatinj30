@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः | अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||३-१०||" </br>
-Translate: "3.10 In the beginning, when God created all beings by the sacrifice of Himself, He said unto them: Through sacrifice you can procreate, and it shall satisfy all your desires." </br>
+"पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||" </br>
+Translate: "1.3 Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple." </br>
 
 # Prefs
 <table>
