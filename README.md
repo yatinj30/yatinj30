@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | इमं विवस्वते योगं प्रोक्तवानहमव्ययम् | विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ||४-१||" </br>
-Translate: "4.1 "Lord Shri Krishna said: This imperishable philosophy I taught to Viwaswana, the founder of the Sun dynasty, Viwaswana gave it to Manu the lawgiver, and Manu to King Ikshwaku!" </br>
+"सर्वमेतदृतं मन्ये यन्मां वदसि केशव | न हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ||१०-१४||" </br>
+Translate: "10.14 I believe in what Thou hast said, my Lord! For neither the godly not the godless comprehend Thy manifestation." </br>
 
 # Prefs
 <table>
