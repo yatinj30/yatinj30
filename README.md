@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे | तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ||३-२||" </br>
-Translate: "3.2 Thy language perplexes me and confuses my reason. Therefore please tell me the only way by which I may, without doubt, secure my spiritual welfare." </br>
+"इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते | तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ||२-६७||" </br>
+Translate: "2.67 As a ship at sea is tossed by the tempest, so the reason is carried away by the mind when preyed upon by straying senses." </br>
 
 # Prefs
 <table>
