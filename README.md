@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"किरीटिनं गदिनं चक्रिणं च तेजोराशिं सर्वतो दीप्तिमन्तम् | पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद् दीप्तानलार्कद्युतिमप्रमेयम् ||११-१७||" </br>
-Translate: "11.17 I see thee with the crown, the sceptre and the discus; a blaze of splendour. Scarce can I gaze on thee, so radiant thou art, glowing like the blazing fire, brilliant as the sun, immeasurable." </br>
+"अर्जुन उवाच | ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः | तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ||१७-१||" </br>
+Translate: "17.1 "Arjuna asked: My Lord! Those who do acts of sacrifice, not according to the scriptures but nevertheless with implicit faith, what is their condition? Is it one of Purity, of Passion or of Ignorance?" </br>
 
 # Prefs
 <table>
