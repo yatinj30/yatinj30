@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे | स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ||४-२८||" </br>
-Translate: "4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers." </br>
+"अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते | इति मत्वा भजन्ते मां बुधा भावसमन्विताः ||१०-८||" </br>
+Translate: "10.8 I am the source of all; from Me everything flows. Therefore the wise worship Me with unchanging devotion." </br>
 
 # Prefs
 <table>
