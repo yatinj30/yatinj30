@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च | किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ||१-३२||" </br>
-Translate: "1.32 Ah my Lord! I crave not for victory, nor for the kingdom, nor for any pleasure. What were a kingdom or happiness or life to me," </br>
+"व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन | बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||२-४१||" </br>
+Translate: "2.41 By its means, the straying intellect becomes steadied in the contemplation of one object only; whereas the minds of the irresolute stray into bypaths innumerable." </br>
 
 # Prefs
 <table>
