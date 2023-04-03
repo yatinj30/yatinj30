@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः | मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||१६-१८||" </br>
-Translate: "16.18 Puffed up by power and inordinate conceit, swayed by lust and wrath, these wicked people hate Me Who am within them, as I am within all." </br>
+"यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन | ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ||४-३७||" </br>
+Translate: "4.37 As the kindled fire consumes the fuel, so, O Arjuna, in the flame of wisdom the embers of action are burnt to ashes." </br>
 
 # Prefs
 <table>
