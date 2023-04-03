@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् | स सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||" </br>
-Translate: "15.19 He who with unclouded vision sees Me as the Lord-God, knows all there is to be known, and always shall worship Me with his whole heart." </br>
+"यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते | सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ||६-४||" </br>
+Translate: "6.4 When a man renounces even the thought of initiating action, when he is not interested in sense objects or any results which may flow from his acts, then in truth he understands spirituality." </br>
 
 # Prefs
 <table>
