@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अदेशकाले यद्दानमपात्रेभ्यश्च दीयते | असत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||" </br>
-Translate: "17.22 And that which is given at an unsuitable place or time or to one who is unworthy, or with disrespect or contempt - such a gift is the result of Ignorance." </br>
+"य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् | उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||२-१९||" </br>
+Translate: "2.19 He who thinks that the Spirit kills, and he who thinks of It as killed, are both ignorant. The Spirit kills not, nor is It killed." </br>
 
 # Prefs
 <table>
