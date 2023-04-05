@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||" </br>
-Translate: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go." </br>
+"तस्मादसक्तः सततं कार्यं कर्म समाचर | असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||३-१९||" </br>
+Translate: "3.19 Therefore do thy duty perfectly, without care for the results, for he who does his duty disinterestedly attains the Supreme." </br>
 
 # Prefs
 <table>
