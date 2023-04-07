@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् | सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||२-३४||" </br>
-Translate: "2.34 Men will talk forever of thy disgrace; and to the noble, dishonour is worse than death." </br>
+"ये हि संस्पर्शजा भोगा दुःखयोनय एव ते | आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ||५-२२||" </br>
+Translate: "5.22 The joys that spring from external associations bring pain; they have their beginning and their endings. The wise man does not rejoice in them." </br>
 
 # Prefs
 <table>
