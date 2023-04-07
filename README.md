@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"देही नित्यमवध्योऽयं देहे सर्वस्य भारत | तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ||२-३०||" </br>
-Translate: "2.30 Be not anxious about these armies. The Spirit in man is imperishable." </br>
+"रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः | प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ||७-८||" </br>
+Translate: "7.8 O Arjuna! I am the Fluidity in water, the Light in the sun and in the moon. I am the mystic syllable Om in the Vedic scriptures, the Sound in ether, the Virility in man." </br>
 
 # Prefs
 <table>
