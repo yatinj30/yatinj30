@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः | प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ||७-८||" </br>
-Translate: "7.8 O Arjuna! I am the Fluidity in water, the Light in the sun and in the moon. I am the mystic syllable Om in the Vedic scriptures, the Sound in ether, the Virility in man." </br>
+"यदहंकारमाश्रित्य न योत्स्य इति मन्यसे | मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ||१८-५९||" </br>
+Translate: "18.59 If thou in thy vanity thinkest of avoiding this fight, thy will shall not be fulfilled, for Nature herself will compel thee." </br>
 
 # Prefs
 <table>
