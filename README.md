@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप | अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ||९-३||" </br>
-Translate: "9.3 They who have no faith in this teaching cannot find Me, but remain lost in the purlieus of this perishable world." </br>
+"सुखमात्यन्तिकं यत्तद् बुद्धिग्राह्यमतीन्द्रियम् | वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ||६-२१||" </br>
+Translate: "6.21 When he enjoys the Bliss which passes sense, and which only the Pure Intellect can grasp, when he comes to rest within his own highest Self, never again will he stray from reality." </br>
 
 # Prefs
 <table>
