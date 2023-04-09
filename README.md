@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||" </br>
-Translate: "1.31 The omens are adverse; what good can come from the slaughter of my people on this battlefield?" </br>
+"यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ | समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ||२-१५||" </br>
+Translate: "2.15 The hero whose soul is unmoved by circumstance, who accepts pleasure and pain with equanimity, only he is fit for immortality." </br>
 
 # Prefs
 <table>
