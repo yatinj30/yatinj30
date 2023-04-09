@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः | दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ||१७-२१||" </br>
-Translate: "17.21 That which is given for the sake of the results it will produce, or with the hope of recompense,or grudgingly - that may truly be said to be the outcome of Passion." </br>
+"इन्द्रियार्थेषु वैराग्यमनहंकार एव च | जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ||१३-९||" </br>
+Translate: "13.9 Renunciation of the delights of sense, absence of pride, right understanding of the painful problem of birth and death, of age and sickness;" </br>
 
 # Prefs
 <table>
