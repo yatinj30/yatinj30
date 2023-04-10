@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नासतो विद्यते भावो नाभावो विद्यते सतः | उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ||२-१६||" </br>
-Translate: "2.16 That which is not, shall never be; that which is, shall never cease to be. To the wise, these truths are self-evident." </br>
+"विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः | निर्ममो निरहङ्कारः स शान्तिमधिगच्छति ||२-७१||" </br>
+Translate: "2.71 He attains Peace who, giving up desire, moves through the world without aspiration, possessing nothing which he can call his own, and free from pride." </br>
 
 # Prefs
 <table>
