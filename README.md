@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनन्यचेताः सततं यो मां स्मरति नित्यशः | तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||" </br>
-Translate: "8.14 To him who thinks constantly of Me, and of nothing else, to such an ever-faithful devotee, O Arjuna, am I ever accessible." </br>
+"अनन्तश्चास्मि नागानां वरुणो यादसामहम् | पितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||" </br>
+Translate: "10.29 I am the King-python among snakes, I am the Aqueous Principle among those that live in water, I am the Father of fathers, and among rulers I am Death." </br>
 
 # Prefs
 <table>
