@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते | एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ||९-१५||" </br>
-Translate: "9.15 Others worship Me with full consciousness as the One, the Manifold, the Omnipresent, the Universal." </br>
+"यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः | विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ||५-२८||" </br>
+Translate: "5.28 Governing sense, mind and intellect, intent on liberation, free from desire, fear and anger, the sage is forever free." </br>
 
 # Prefs
 <table>
