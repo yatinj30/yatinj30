@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् | कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||" </br>
-Translate: "9.7 All beings, O Arjuna, return at the close of every cosmic cycle into the realm of Nature, which is a part of Me, and at the beginning of the next I send them forth again." </br>
+"सखेति मत्वा प्रसभं यदुक्तं हे कृष्ण हे यादव हे सखेति | अजानता महिमानं तवेदं मया प्रमादात्प्रणयेन वापि ||११-४१||" </br>
+Translate: "11.41 Whatever I have said unto Thee in rashness, taking Thee only for a friend and addressing Thee as O Krishna! O Yadava! O Friend!' in thoughtless familiarity, no understanding Thy greatness;" </br>
 
 # Prefs
 <table>
