@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् | पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ||१-५||" </br>
-Translate: "1.5 Dhrishtaketu, Chekitan, the valiant King of Benares, Purujit, Kuntibhoja, Shaibya - a master over many;" </br>
+"श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||" </br>
+Translate: "18.71 Yea, he who listens to it with faith and without doubt, even he, freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds." </br>
 
 # Prefs
 <table>
