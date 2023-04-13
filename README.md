@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मय्येव मन आधत्स्व मयि बुद्धिं निवेशय | निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||" </br>
-Translate: "12.8 Then let thy mind cling only to Me, let thy intellect abide in Me; and without doubt thou shalt live hereafter in Me alone." </br>
+"युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः | सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते ||६-२८||" </br>
+Translate: "6.28 Thus, free from sin, abiding always in the Eternal, the saint enjoys without effort the Bliss which flows from realisation of the Infinite." </br>
 
 # Prefs
 <table>
