@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् | स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ||५-२१||" </br>
-Translate: "5.21 He finds happiness in his own Self, and enjoys eternal bliss, whose heart does not yearn for the contacts of earth and whose Self is one with the Everlasting." </br>
+"मय्येव मन आधत्स्व मयि बुद्धिं निवेशय | निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ||१२-८||" </br>
+Translate: "12.8 Then let thy mind cling only to Me, let thy intellect abide in Me; and without doubt thou shalt live hereafter in Me alone." </br>
 
 # Prefs
 <table>
