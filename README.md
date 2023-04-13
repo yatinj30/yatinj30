@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||" </br>
-Translate: "18.71 Yea, he who listens to it with faith and without doubt, even he, freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds." </br>
+"योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् | आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ||४-४१||" </br>
+Translate: "4.41 But the man who has renounced his action for meditation, who has cleft his doubt in twain by the sword of wisdom, who remains always enthroned in his Self, is not bound by his acts." </br>
 
 # Prefs
 <table>
