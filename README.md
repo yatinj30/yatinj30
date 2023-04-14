@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः | स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ||३-२१||" </br>
-Translate: "3.21 For whatever a great man does, others imitate. People conform to the standard which he has set." </br>
+"जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च | तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||२-२७||" </br>
+Translate: "2.27 For death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." </br>
 
 # Prefs
 <table>
