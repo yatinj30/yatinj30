@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ये चैव सात्त्विका भावा राजसास्तामसाश्च ये | मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ||७-१२||" </br>
-Translate: "7.12 Whatever be the nature of their life, whether it be pure or passionate or ignorant, they are all derived from Me. They are in Me, but I am not in them." </br>
+"इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः | मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ||३-४२||" </br>
+Translate: "3.42 It is said that the senses are powerful. But beyond the senses is the mind, beyond the mind is the intellect, and beyond and greater than intellect is He." </br>
 
 # Prefs
 <table>
