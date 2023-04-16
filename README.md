@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः | न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ||२-२३||" </br>
-Translate: "2.23 Weapons cleave It not, fire burns It not, water drenches It not, and wind dries It not." </br>
+"यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता | योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||" </br>
+Translate: "6.19 The wise man who has conquered his mind and is absorbed in the Self is as a lamp which does not flicker, since it stands sheltered from every wind." </br>
 
 # Prefs
 <table>
