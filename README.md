@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||" </br>
-Translate: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go." </br>
+"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
+Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
 
 # Prefs
 <table>
