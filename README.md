@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः | गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ||५-१७||" </br>
-Translate: "5.17 Meditating on the Divine, having faith in the Divine, concentrating on the Divine and losing themselves in the Divine, their sins dissolved in wisdom, they go whence there is no return." </br>
+"एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः | आचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||" </br>
+Translate: "16.22 These are the gates which lead to darkness; if a man avoid them he will ensure his own welfare, and in the end will attain his liberation." </br>
 
 # Prefs
 <table>
