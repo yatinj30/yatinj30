@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् | स सर्वविद्भजति मां सर्वभावेन भारत ||१५-१९||" </br>
-Translate: "15.19 He who with unclouded vision sees Me as the Lord-God, knows all there is to be known, and always shall worship Me with his whole heart." </br>
+"यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् | तं तमेवैति कौन्तेय सदा तद्भावभावितः ||८-६||" </br>
+Translate: "8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go." </br>
 
 # Prefs
 <table>
