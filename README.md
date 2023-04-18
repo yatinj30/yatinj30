@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
-Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
+"उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः | यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||" </br>
+Translate: "15.17 But higher than all am I, the Supreme God, the Absolute Self, the Eternal Lord, Who pervades the worlds and upholds them all." </br>
 
 # Prefs
 <table>
