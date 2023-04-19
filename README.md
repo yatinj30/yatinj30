@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः | इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ||२-६८||" </br>
-Translate: "2.68 Therefore, O Might-in-Arms, he who keeps his senses detached from their objects - take it that his reason is purified." </br>
+"श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||" </br>
+Translate: "18.71 Yea, he who listens to it with faith and without doubt, even he, freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds." </br>
 
 # Prefs
 <table>
