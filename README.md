@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् | योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||१८-७५||" </br>
-Translate: "18.75 Through the blessing of the sage Vyasa, I listened to this secret and noble science from the lips of its Master, the Lord Shri Krishna." </br>
+"भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः | येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||२-३५||" </br>
+Translate: "2.35 Great generals will think that thou hast fled from the battlefield through cowardice; though once honoured thou wilt seem despicable." </br>
 
 # Prefs
 <table>
