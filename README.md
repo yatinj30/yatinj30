@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||१-२१||" </br>
-Translate: "1.21 Raising his bow, spoke this to the Lord Shri Krishna: O Infallible! Lord of the earth! Please draw up my chariot betwixt the two armies," </br>
+"पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||" </br>
+Translate: "1.15 Lord Shri Krishna blew his Panchajanya and Arjuna his Devadatta, brave Bheema his renowned shell, Poundra." </br>
 
 # Prefs
 <table>
