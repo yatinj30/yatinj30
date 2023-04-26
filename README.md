@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||" </br>
-Translate: "1.15 Lord Shri Krishna blew his Panchajanya and Arjuna his Devadatta, brave Bheema his renowned shell, Poundra." </br>
+"यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् | यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||" </br>
+Translate: "15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds." </br>
 
 # Prefs
 <table>
