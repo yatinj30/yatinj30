@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते | योगारूढस्य तस्यैव शमः कारणमुच्यते ||६-३||" </br>
-Translate: "6.3 For the sage who seeks the heights of spiritual meditation, practice is the only method, and when he has attained them, he must maintain himself there by continual self-control." </br>
+"प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु | तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ||३-२९||" </br>
+Translate: "3.29 Those who do not understand the Qualities are interested in the act. Still, the wise man who knows the truth should not disturb the mind of him who does not." </br>
 
 # Prefs
 <table>
