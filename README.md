@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् | ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ||७-२८||" </br>
-Translate: "7.28 But those who act righteously, in whom sin has been destroyed, who are free from the infatuation of the conflicting emotions, they worship Me with firm resolution." </br>
+"आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते | योगारूढस्य तस्यैव शमः कारणमुच्यते ||६-३||" </br>
+Translate: "6.3 For the sage who seeks the heights of spiritual meditation, practice is the only method, and when he has attained them, he must maintain himself there by continual self-control." </br>
 
 # Prefs
 <table>
