@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु | तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ||३-२९||" </br>
-Translate: "3.29 Those who do not understand the Qualities are interested in the act. Still, the wise man who knows the truth should not disturb the mind of him who does not." </br>
+"भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन | ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप ||११-५४||" </br>
+Translate: "11.54 Only by tireless devotion can I be seen and known; only thus can a man become one with Me, O Arjuna!" </br>
 
 # Prefs
 <table>
