@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः | नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ||१-१६||" </br>
-Translate: "1.16 The King Dharmaraja, the son of Kunti, blew the Anantavijaya, Nakalu and Sahadeo, the Sugosh and Manipushpaka, respectively." </br>
+"श्रीभगवानुवाच | बहूनि मे व्यतीतानि जन्मानि तव चार्जुन | तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ||४-५||" </br>
+Translate: "4.5 Lord Shri Krishna replied: I have been born again and again, from time to time; thou too,O Arjuna! My births are known to Me, but thou knowest not thine." </br>
 
 # Prefs
 <table>
