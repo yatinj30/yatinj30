@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः | नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||१८-४९||" </br>
-Translate: "18.49 He whose mind is entirely detached, who has conquered himself, whose desires have vanished, by his renunciation reaches that stage of perfect freedom where action completes itself and leaves no seed." </br>
+"शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः | गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ||१५-८||" </br>
+Translate: "15.8 When the Supreme Lord enters a body or leaves it, He gathers these senses together and travels on with them, as the wind gathers perfume while passing through the flowers." </br>
 
 # Prefs
 <table>
