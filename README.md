@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कस्माच्च ते न नमेरन्महात्मन् गरीयसे ब्रह्मणोऽप्यादिकर्त्रे | अनन्त देवेश जगन्निवास त्वमक्षरं सदसत्तत्परं यत् ||११-३७||" </br>
-Translate: "11.37 How should they do otherwise? O Thou Supremest Self, greater than the Powers of creation, the First Cause, Infinite, the Lord of Lords, the Home of the universe, Imperishable, Being and Not-Being, yet transcending both." </br>
+"चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः | बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ||१८-५७||" </br>
+Translate: "18.57 Surrender then thy actions unto Me, live in Me, concentrate thine intellect on Me, and think always of Me." </br>
 
 # Prefs
 <table>
