@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
-Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
+"क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः | स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ||२-६३||" </br>
+Translate: "2.63 Anger induces delusion; delusion, loss of memory; through loss of memory, reason is shattered; and loss of reason leads to destruction." </br>
 
 # Prefs
 <table>
