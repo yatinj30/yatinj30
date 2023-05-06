@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः | प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||" </br>
-Translate: "8.23 *Now I will tell thee, O Arjuna, of the times at which, if the mystics go forth, they do not return, and at which they go forth only to return." </br>
+"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
+Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
 
 # Prefs
 <table>
