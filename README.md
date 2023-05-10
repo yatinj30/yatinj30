@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते | स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||२-४०||" </br>
-Translate: "2.40 On this Path, endeavour is never wasted, nor can it ever be repressed. Even a very little of its practice protects one from great danger." </br>
+"यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् | अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||१८-२२||" </br>
+Translate: "18.22 But that which clings blindly to one idea as if it were all, without logic, truth or insight, that has its origin in Darkness." </br>
 
 # Prefs
 <table>
