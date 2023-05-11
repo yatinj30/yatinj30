@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च | अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||" </br>
-Translate: "16.4 Hypocrisy, pride, insolence, cruelty, ignorance belong to him who is born of the godless qualities." </br>
+"कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् | रजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||१४-१६||" </br>
+Translate: "14.16 They say the fruit of a meritorious action is spotless and full of purity; the outcome of Passion is misery, and of Ignorance darkness." </br>
 
 # Prefs
 <table>
