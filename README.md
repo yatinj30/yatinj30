@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् | रजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||१४-१६||" </br>
-Translate: "14.16 They say the fruit of a meritorious action is spotless and full of purity; the outcome of Passion is misery, and of Ignorance darkness." </br>
+"ततः पदं तत्परिमार्गितव्यं यस्मिन्गता न निवर्तन्ति भूयः | तमेव चाद्यं पुरुषं प्रपद्ये | यतः प्रवृत्तिः प्रसृता पुराणी ||१५-४||" </br>
+Translate: "15.4 Beyond lies the Path, from which, when found, there is no return. This is the Primal God from whence this ancient creation has sprung." </br>
 
 # Prefs
 <table>
