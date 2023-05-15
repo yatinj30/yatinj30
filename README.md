@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||१८-५||" </br>
-Translate: "18.5 Acts of sacrifice, benevolence and austerity should not be given up but should be performed, for they purify the aspiring soul." </br>
+"सञ्जय उवाच | तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् | विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ||२-१||" </br>
+Translate: "2.1 Sanjaya then told how the Lord Shri Krishna, seeing Arjuna overwhelmed with compassion, his eyes dimmed with flowing tears and full of despondency, consoled him:" </br>
 
 # Prefs
 <table>
