@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः | सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||१८-४०||" </br>
-Translate: "18.40 There is nothing anywhere on earth or in the higher worlds which is free from the three Qualities - for they are born of Nature." </br>
+"अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् | प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ||४-६||" </br>
+Translate: "4.6 have no beginning. Though I am imperishable, as well as Lord of all that exists, yet by My own will and power do I manifest Myself." </br>
 
 # Prefs
 <table>
