@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||" </br>
-Translate: "18.11 But since those still in the body cannot entirely avoid action, in their case abandonment of the fruit of action is considered as complete renunciation." </br>
+"एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन | अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||" </br>
+Translate: "1.35 I would not kill them, even for three worlds; why then for this poor earth? It matters not if I myself am killed." </br>
 
 # Prefs
 <table>
