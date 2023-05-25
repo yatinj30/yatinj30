@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नाहं प्रकाशः सर्वस्य योगमायासमावृतः | मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||७-२५||" </br>
-Translate: "7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable." </br>
+"सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः | रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||" </br>
+Translate: "8.17 Those who understand the cosmic day and cosmic night know that one day of creation is a thousand cycles, and that the night is of equal length." </br>
 
 # Prefs
 <table>
