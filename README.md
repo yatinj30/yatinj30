@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः | यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||७-२||" </br>
-Translate: "7.2 I will reveal to this knowledge unto thee, and how it may be realised; which, once accomplished, there remains nothing else worth having in this life." </br>
+"नाहं प्रकाशः सर्वस्य योगमायासमावृतः | मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||७-२५||" </br>
+Translate: "7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable." </br>
 
 # Prefs
 <table>
