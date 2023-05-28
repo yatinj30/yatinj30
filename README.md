@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः | विषादी दीर्घसूत्री च कर्ता तामस उच्यते ||१८-२८||" </br>
-Translate: "18.28 While he whose purpose is infirm, who is low-minded, stubborn, dishonest, malicious, indolent, despondent, procrastinating - he may be assumed to be in Darkness." </br>
+"यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||१८-५||" </br>
+Translate: "18.5 Acts of sacrifice, benevolence and austerity should not be given up but should be performed, for they purify the aspiring soul." </br>
 
 # Prefs
 <table>
