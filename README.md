@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्मणैव हि संसिद्धिमास्थिता जनकादयः | लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ||३-२०||" </br>
-Translate: "3.20 King Janaka and others attained perfection through action alone. Even for the sake of enlightening the world, it is thy duty to act;" </br>
+"अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् | विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ||१८-१४||" </br>
+Translate: "18.14 They are a body, a personality, physical organs, their manifold activity and destiny." </br>
 
 # Prefs
 <table>
