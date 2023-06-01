@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः | भावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||" </br>
-Translate: "17.16 Serenity, kindness, silence, self-control and purity - this is austerity of mind." </br>
+"ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप | कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||१८-४१||" </br>
+Translate: "18.41 O Arjuna! The duties of spiritual teachers, the soldiers, the traders and the servants have all been fixed according to the dominant Quality in their nature." </br>
 
 # Prefs
 <table>
