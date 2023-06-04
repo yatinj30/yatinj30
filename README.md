@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् | मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||१८-२५||" </br>
-Translate: "18.25 An action undertaken through delusion, and with no regard to the spiritual issues involved, or the real capacity of the doer, or to the injury which may follow, such an act may be assumed to be the product of Ignorance." </br>
+"अविभक्तं च भूतेषु विभक्तमिव च स्थितम् | भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च ||१३-१७||" </br>
+Translate: "13.17 In all beings undivided, yet living in division, It is the upholder of all, Creator and Destroyer alike;" </br>
 
 # Prefs
 <table>
