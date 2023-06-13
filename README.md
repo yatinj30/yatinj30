@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ||१८-६४||" </br>
-Translate: "18.64 Only listen once more to My last word, the deepest secret of all; thou art My beloved, thou are My friend, and I speak for thy welfare." </br>
+"मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा | निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||३-३०||" </br>
+Translate: "3.30 Therefore, surrendering thy actions unto Me, thy thoughts concentrated on the Absolute, free from selfishness and without anticipation of reward, with mind devoid of excitement, begin thou to fight." </br>
 
 # Prefs
 <table>
