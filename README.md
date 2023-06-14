@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः | सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||" </br>
-Translate: "6.31 The sage who realises the unity of life and who worships Me in all beings, lives in Me, whatever may be his lot." </br>
+"अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति | सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ||४-३०||" </br>
+Translate: "4.30 Others, controlling their diet, sacrifice their worldly life to the spiritual fire. All understand the principal of sacrifice, and by its means their sins are washed away." </br>
 
 # Prefs
 <table>
