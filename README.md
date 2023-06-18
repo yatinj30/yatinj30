@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||" </br>
-Translate: "1.10 Yet our army seems the weaker, though commanded by Bheeshma; their army seems the stronger, though commanded by Bheema." </br>
+"भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् | व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ||२-४४||" </br>
+Translate: "2.44 While their minds are absorbed with ideas of power and personal enjoyment, they cannot concentrate their discrimination on one point." </br>
 
 # Prefs
 <table>
