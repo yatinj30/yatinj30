@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मात्प्रणम्य प्रणिधाय कायं प्रसादये त्वामहमीशमीड्यम् | पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम् ||११-४४||" </br>
-Translate: "11.44 Therefore I prostrate myself before Thee, O Lord! Most Adorable! I salute Thee, I ask Thy blessing. Only Thou canst be trusted to bear with me, as father to son, as friend to friend, as lover to his beloved." </br>
+"यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन | प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ||१८-३४||" </br>
+Translate: "18.34 The conviction which always holds fast to rituals, to self-interest and wealth, for the sake of what they may bring forth - that comes from Passion." </br>
 
 # Prefs
 <table>
