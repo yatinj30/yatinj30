@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् | परिणामे विषमिव तत्सुखं राजसं स्मृतम् ||१८-३८||" </br>
-Translate: "18.38 That which as first is like nectar, because the senses revel in their objects, but in the end acts like poison - that pleasure arises from Passion." </br>
+"न मे विदुः सुरगणाः प्रभवं न महर्षयः | अहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||" </br>
+Translate: "10.2 Neither the professors of divinity nor the great ascetics know My origin, for I am the source of them all." </br>
 
 # Prefs
 <table>
