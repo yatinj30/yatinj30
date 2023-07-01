@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ | पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ||३-४१||" </br>
-Translate: "3.41 Therefore, O Arjuna, first control thy senses and then slay desire, for it is full of sin, and is the destroyer of knowledge and of wisdom." </br>
+"असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः | नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ||१८-४९||" </br>
+Translate: "18.49 He whose mind is entirely detached, who has conquered himself, whose desires have vanished, by his renunciation reaches that stage of perfect freedom where action completes itself and leaves no seed." </br>
 
 # Prefs
 <table>
