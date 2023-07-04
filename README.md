@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||" </br>
-Translate: "18.31 The intellect which does not understand what is right and what is wrong, and what should be done and what not, is under the sway of Passion." </br>
+"न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा | इति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||" </br>
+Translate: "4.14 My actions do not fetter Me, nor do I desire anything that they can bring. He who thus realises Me is not enslaved by action." </br>
 
 # Prefs
 <table>
