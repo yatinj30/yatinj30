@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया | उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ||४-३४||" </br>
-Translate: "4.34 This shalt thou learn by prostrating thyself at the Master's feet, by questioning Him and by serving Him. The wise who have realised the Truth will teach thee wisdom." </br>
+"यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||" </br>
+Translate: "18.31 The intellect which does not understand what is right and what is wrong, and what should be done and what not, is under the sway of Passion." </br>
 
 # Prefs
 <table>
