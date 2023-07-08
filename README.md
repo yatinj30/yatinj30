@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः | अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ||१५-१८||" </br>
-Translate: "15.18 Beyond comparison of the Eternal with the non-eternal am I, Who am called by scriptures and sages the Supreme Personality, the Highest God." </br>
+"यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन | प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ||१८-३४||" </br>
+Translate: "18.34 The conviction which always holds fast to rituals, to self-interest and wealth, for the sake of what they may bring forth - that comes from Passion." </br>
 
 # Prefs
 <table>
