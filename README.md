@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः | न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ||२-२३||" </br>
-Translate: "2.23 Weapons cleave It not, fire burns It not, water drenches It not, and wind dries It not." </br>
+"यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् | ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ||६-२६||" </br>
+Translate: "6.26 When the volatile and wavering mind would wander, let him restrain it and bring it again to its allegiance to the Self." </br>
 
 # Prefs
 <table>
