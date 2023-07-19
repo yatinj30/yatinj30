@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप | न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ||२-९||" </br>
-Translate: "2.9 Sanjaya continued: "Arjuna, the conqueror of all enemies, then told the Lord of All-Hearts that he would no fight, and became silent, O King!" </br>
+"न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते | त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ||१८-१०||" </br>
+Translate: "18.10 The wise man who has attained purity, whose doubts are solved, who is filled with the spirit of self-abnegation, does not shrink from action because it brings pain, nor does he desire it because it brings pleasure." </br>
 
 # Prefs
 <table>
