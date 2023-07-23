@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः | राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ||९-१२||" </br>
-Translate: "9.12 Their hopes are vain, their actions worthless, their knowledge futile; they are without sense, deceitful, barbarous and godless." </br>
+"यदग्रे चानुबन्धे च सुखं मोहनमात्मनः | निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ||१८-३९||" </br>
+Translate: "18.39 While the pleasure which from first to last merely drugs the senses, which springs from indolence, lethargy and folly - that pleasure flows from Ignorance." </br>
 
 # Prefs
 <table>
