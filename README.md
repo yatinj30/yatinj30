@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः | यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||७-२||" </br>
-Translate: "7.2 I will reveal to this knowledge unto thee, and how it may be realised; which, once accomplished, there remains nothing else worth having in this life." </br>
+"इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः | तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ||३-१२||" </br>
+Translate: "3.12 For, fed, on sacrifice, nature will give you all the enjoyment you can desire. But he who enjoys what she gives without returning is, indeed, a robber.'" </br>
 
 # Prefs
 <table>
