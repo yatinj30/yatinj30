@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||" </br>
-Translate: "18.53 Having abandoned selfishness, power, arrogance, anger and desire, possessing nothing of his own and having attained peace, he is fit to join the Eternal Spirit." </br>
+"नाहं प्रकाशः सर्वस्य योगमायासमावृतः | मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||७-२५||" </br>
+Translate: "7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable." </br>
 
 # Prefs
 <table>
