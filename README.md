@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः | क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत ||१३-३४||" </br>
-Translate: "13.34 As the one Sun illuminates the whole earth, so the Lord illumines the whole universe." </br>
+"अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् | दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||" </br>
+Translate: "16.2 harmlessness, truth, absence of wrath, renunciation, contentment, straightforwardness, compassion towards all, uncovetousness, courtesy, modesty, constancy," </br>
 
 # Prefs
 <table>
