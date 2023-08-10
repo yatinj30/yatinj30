@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा भूतपृथग्भावमेकस्थमनुपश्यति | तत एव च विस्तारं ब्रह्म सम्पद्यते तदा ||१३-३१||" </br>
-Translate: "13.31 He who sees the diverse forms of life all rooted in One, and growing forth from Him, he shall indeed find the Absolute." </br>
+"वीतरागभयक्रोधा मन्मया मामुपाश्रिताः | बहवो ज्ञानतपसा पूता मद्भावमागताः ||४-१०||" </br>
+Translate: "4.10 Many have merged their existences in Mine, being freed from desire, fear and anger, filled always with Me and purified by the illuminating flame of self-abnegation." </br>
 
 # Prefs
 <table>
