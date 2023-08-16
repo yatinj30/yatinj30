@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः | विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ||५-२८||" </br>
-Translate: "5.28 Governing sense, mind and intellect, intent on liberation, free from desire, fear and anger, the sage is forever free." </br>
+"अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः | गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||" </br>
+Translate: "10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada, of the heavenly singers I am Chitraratha, their Leader, and of sages I am Kapila." </br>
 
 # Prefs
 <table>
