@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः | गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||" </br>
-Translate: "10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada, of the heavenly singers I am Chitraratha, their Leader, and of sages I am Kapila." </br>
+"त्वमादिदेवः पुरुषः पुराणस्- त्वमस्य विश्वस्य परं निधानम् | वेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप ||११-३८||" </br>
+Translate: "11.38 Thou art the Primal God, the Ancient, the Supreme Abode of this universe, the Knower, the Knowledge and the Final Home. Thou fillest everything. Thy form is infinite." </br>
 
 # Prefs
 <table>
