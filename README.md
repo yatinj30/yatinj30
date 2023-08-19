@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् | मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ||१८-२५||" </br>
-Translate: "18.25 An action undertaken through delusion, and with no regard to the spiritual issues involved, or the real capacity of the doer, or to the injury which may follow, such an act may be assumed to be the product of Ignorance." </br>
+"अथवा बहुनैतेन किं ज्ञातेन तवार्जुन | विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||१०-४२||" </br>
+Translate: "10.42 But what is the use of all these details to thee? O Arjuna! I sustain this universe with only small part of Myself."" </br>
 
 # Prefs
 <table>
