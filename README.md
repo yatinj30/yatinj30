@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् | हेतुनानेन कौन्तेय जगद्विपरिवर्तते ||९-१०||" </br>
-Translate: "9.10 Under my guidance, Nature produces all things movable and immovable. Thus it is, O Arjuna, that this universe revolves." </br>
+"अथवा बहुनैतेन किं ज्ञातेन तवार्जुन | विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ||१०-४२||" </br>
+Translate: "10.42 But what is the use of all these details to thee? O Arjuna! I sustain this universe with only small part of Myself."" </br>
 
 # Prefs
 <table>
