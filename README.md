@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन | आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ||७-१६||" </br>
-Translate: "7.16 O Arjuna! The righteous who worship Me are grouped by stages: first, they who suffer, next they who desire knowledge, then they who thirst after truth, and lastly they who attain wisdom." </br>
+"मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः | सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||१८-२६||" </br>
+Translate: "18.26 But when a man has no sentiment and no personal vanity, when he possesses courage and confidence, cares not whether he succeeds or fails, then his action arises from Purity." </br>
 
 # Prefs
 <table>
