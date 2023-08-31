@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः | यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||१६-१७||" </br>
-Translate: "16.17 Self-conceited, stubborn, rich, proud and insolent, they make a display of their patronage, disregarding the rules of decency." </br>
+"किरीटिनं गदिनं चक्रहस्तं इच्छामि त्वां द्रष्टुमहं तथैव | तेनैव रूपेण चतुर्भुजेन सहस्रबाहो भव विश्वमूर्ते ||११-४६||" </br>
+Translate: "11.46 I long to see Thee as thou wert before, with the crown, the sceptre and the discus in Thy hands; in Thy other Form, with Thy four hands, O Thou Whose arms are countless and Whose forms are infinite." </br>
 
 # Prefs
 <table>
