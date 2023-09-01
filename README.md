@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते | प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ||७-१७||" </br>
-Translate: "7.17 Of all of these, he who has gained wisdom, who meditates on Me without ceasing, devoting himself only to Me, he is the best; for by the wise man I am exceedingly beloved and the wise man, too, is beloved by Me." </br>
+"दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय | बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||२-४९||" </br>
+Translate: "2.49 Physical action is far inferior to an intellect concentrated on the Divine. Have recourse then to Pure Intelligence. It is only the petty-minded who work for reward." </br>
 
 # Prefs
 <table>
