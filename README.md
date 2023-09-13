@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् | नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||" </br>
-Translate: "8.15 Coming thus unto Me, these great souls go no more to the misery and death of earthly life, for they have gained perfection." </br>
+"कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते | पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ||१३-२१||" </br>
+Translate: "13.21 Nature is the Law which generates cause and effect; God is the source of the enjoyment of all pleasure and pain." </br>
 
 # Prefs
 <table>
