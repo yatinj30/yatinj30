@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु | मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ||९-३४||" </br>
-Translate: "9.34 Fix thy mind on Me, devote thyself to Me, sacrifice for Me, surrender to Me, make Me the object of thy aspirations, and thou shalt assuredly become one with Me, Who am thine own Self."" </br>
+"अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् | पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ||१-१०||" </br>
+Translate: "1.10 Yet our army seems the weaker, though commanded by Bheeshma; their army seems the stronger, though commanded by Bheema." </br>
 
 # Prefs
 <table>
