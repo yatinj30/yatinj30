@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः | आहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||" </br>
-Translate: "17.9 Those in whom Passion is dominant like foods that are bitter, sour, salty, over-hot, pungent, dry and burning. These produce unhappiness, repentance and disease." </br>
+"यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||" </br>
+Translate: "1.38 Although these men, blinded by greed, see no guilt in destroying their kin, or fighting against their friends," </br>
 
 # Prefs
 <table>
