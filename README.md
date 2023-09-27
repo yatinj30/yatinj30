@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नाहं वेदैर्न तपसा न दानेन न चेज्यया | शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा ||११-५३||" </br>
-Translate: "11.53 Not by study of the scriptures, or by austerities, not by gifts or sacrifices, is it possible to see Me as thou hast done." </br>
+"सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते | ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||" </br>
+Translate: "14.11 When the light of knowledge gleams forth from all the gates of the body, then be sure that Purity prevails." </br>
 
 # Prefs
 <table>
