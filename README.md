@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् | यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||" </br>
-Translate: "15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds." </br>
+"नाहं वेदैर्न तपसा न दानेन न चेज्यया | शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा ||११-५३||" </br>
+Translate: "11.53 Not by study of the scriptures, or by austerities, not by gifts or sacrifices, is it possible to see Me as thou hast done." </br>
 
 # Prefs
 <table>
