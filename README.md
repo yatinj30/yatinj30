@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् | दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||१६-२||" </br>
-Translate: "16.2 harmlessness, truth, absence of wrath, renunciation, contentment, straightforwardness, compassion towards all, uncovetousness, courtesy, modesty, constancy," </br>
+"न हि ज्ञानेन सदृशं पवित्रमिह विद्यते | तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ||४-३८||" </br>
+Translate: "4.38 There is nothing in the world so purifying as wisdom; and he who is a perfect saint finds that at last in his own Self." </br>
 
 # Prefs
 <table>
