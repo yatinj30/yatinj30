@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् | क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ||१३-२७||" </br>
-Translate: "13.27 Wherever life is seen in things movable or immovable, it is the joint product of Matter and Spirit." </br>
+"परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः | यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ||८-२०||" </br>
+Translate: "8.20 In truth, therefore, there is the Eternal Unmanifest, which is beyond and above the Unmanifest Spirit of Creation, which is never destroyed when all these being perish." </br>
 
 # Prefs
 <table>
