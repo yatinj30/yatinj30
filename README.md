@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"रुद्रादित्या वसवो ये च साध्या विश्वेऽश्विनौ मरुतश्चोष्मपाश्च | गन्धर्वयक्षासुरसिद्धसङ्घा वीक्षन्ते त्वां विस्मिताश्चैव सर्वे ||११-२२||" </br>
-Translate: "11.22 The Vital Forces, the Major stars, Fire, Earth, Air, Sky, Sun, Heaven, Moon and Planets; the Angels, the Guardians of the Universe, the divine Healers, the Winds, the Fathers, the Heavenly Singers; and hosts of Mammon-worshippers, demons as well as saints, are amazed." </br>
+"ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः | तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ||५-१६||" </br>
+Translate: "5.16 Surely wisdom is like the sun, revealing the supreme truth to those whose ignorance is dispelled by the wisdom of the Self." </br>
 
 # Prefs
 <table>
