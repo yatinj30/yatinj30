@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मात्प्रणम्य प्रणिधाय कायं प्रसादये त्वामहमीशमीड्यम् | पितेव पुत्रस्य सखेव सख्युः प्रियः प्रियायार्हसि देव सोढुम् ||११-४४||" </br>
-Translate: "11.44 Therefore I prostrate myself before Thee, O Lord! Most Adorable! I salute Thee, I ask Thy blessing. Only Thou canst be trusted to bear with me, as father to son, as friend to friend, as lover to his beloved." </br>
+"श्रीभगवानुवाच | मया प्रसन्नेन तवार्जुनेदं रूपं परं दर्शितमात्मयोगात् | तेजोमयं विश्वमनन्तमाद्यं यन्मे त्वदन्येन न दृष्टपूर्वम् ||११-४७||" </br>
+Translate: "11.47 Lord Shri Krishna replied: My beloved friend! It is only through My grace and power that thou hast been able to see this vision of splendour, the Universal, the Infinite, the Original. Never has it been seen by any but thee." </br>
 
 # Prefs
 <table>
