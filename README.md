@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कामक्रोधवियुक्तानां यतीनां यतचेतसाम् | अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ||५-२६||" </br>
-Translate: "5.26 Saints who know their Selves, who control their minds, and feel neither desire nor anger, find Eternal Bliss everywhere." </br>
+"सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् | कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||" </br>
+Translate: "9.7 All beings, O Arjuna, return at the close of every cosmic cycle into the realm of Nature, which is a part of Me, and at the beginning of the next I send them forth again." </br>
 
 # Prefs
 <table>
