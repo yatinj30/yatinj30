@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः | याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ||१०-१६||" </br>
-Translate: "10.16 Please tell me all about Thy glorious manifestations, by means of which Thou pervadest the world." </br>
+"सञ्जय उवाच | एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||" </br>
+Translate: "1.24 Sanjaya said: "Having listened to the request of Arjuna, Lord Shri Krishna drew up His bright chariot exactly in the midst between the two armies," </br>
 
 # Prefs
 <table>
