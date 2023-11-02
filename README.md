@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि | मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||" </br>
-Translate: "16.20 So reborn, they spend life after life, enveloped in delusion. And they never reach Me, O Prince, but degenerate into still lower forms of life." </br>
+"अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत | अव्यक्तनिधनान्येव तत्र का परिदेवना ||२-२८||" </br>
+Translate: "2.28 The end and the beginning of beings are unknown. We see only the intervening formations. Then what cause is there for grief?" </br>
 
 # Prefs
 <table>
