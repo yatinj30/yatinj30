@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः | सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ||१-१२||" </br>
-Translate: "1.12 Then to enliven his spirits, the brave Grandfather Bheeshma, eldest of the Kuru-clan, blew his conch, till it sounded like a lion's roar." </br>
+"क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति | कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ||९-३१||" </br>
+Translate: "9.31 He shall attain spirituality ere long, and Eternal Peace shall be his. O Arjuna! Believe me, My devotee is never lost." </br>
 
 # Prefs
 <table>
