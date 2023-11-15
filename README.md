@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ | समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ||२-१५||" </br>
-Translate: "2.15 The hero whose soul is unmoved by circumstance, who accepts pleasure and pain with equanimity, only he is fit for immortality." </br>
+"अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् | अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||" </br>
+Translate: "12.9 But if thou canst not fix thy mind firmly on Me, then, My beloved friend, try to do so by constant practice." </br>
 
 # Prefs
 <table>
