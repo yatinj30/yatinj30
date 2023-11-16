@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् | अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||" </br>
-Translate: "12.9 But if thou canst not fix thy mind firmly on Me, then, My beloved friend, try to do so by constant practice." </br>
+"क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् | अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||" </br>
+Translate: "12.5 But they who thus fix their attention on the Absolute and Impersonal encounter greater hardships, for it is difficult for those who possess a body to realise Me as without one." </br>
 
 # Prefs
 <table>
