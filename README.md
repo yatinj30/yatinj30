@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् | भूतभृन्न च भूतस्थो ममात्मा भूतभावनः ||९-५||" </br>
-Translate: "9.5 Nevertheless, they do not consciously abide in Me. Such is My Divine Sovereignty that though I, the Supreme Self, am the cause and upholder of all, yet I remain outside." </br>
+"तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च | मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः (orसंशयम्) ||८-७||" </br>
+Translate: "8.7 Therefore meditate always on Me, and fight; if thy mind and thy reason be fixed on Me, to Me shalt thou surely come." </br>
 
 # Prefs
 <table>
