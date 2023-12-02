@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् | प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ||४-६||" </br>
-Translate: "4.6 have no beginning. Though I am imperishable, as well as Lord of all that exists, yet by My own will and power do I manifest Myself." </br>
+"पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः | जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ||६-४४||" </br>
+Translate: "6.44 Unconsciously he will return to the practices of his old life; so that he who tries to realise spiritual consciousness is certainly superior to one who only talks of it." </br>
 
 # Prefs
 <table>
