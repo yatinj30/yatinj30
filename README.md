@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् | सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||२-३४||" </br>
-Translate: "2.34 Men will talk forever of thy disgrace; and to the noble, dishonour is worse than death." </br>
+"कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः | आहारा राजसस्येष्टा दुःखशोकामयप्रदाः ||१७-९||" </br>
+Translate: "17.9 Those in whom Passion is dominant like foods that are bitter, sour, salty, over-hot, pungent, dry and burning. These produce unhappiness, repentance and disease." </br>
 
 # Prefs
 <table>
