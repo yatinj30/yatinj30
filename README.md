@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता | यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||" </br>
-Translate: "11.12 Could a thousand suns blaze forth together it would be but a faint reflection of the radiance of the Lord God." </br>
+"य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह | सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ||१३-२४||" </br>
+Translate: "13.24 He who understands God and Nature along with her qualities, whatever be his condition in life, he comes not again to earth." </br>
 
 # Prefs
 <table>
