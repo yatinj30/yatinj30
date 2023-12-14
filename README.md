@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ | जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ||७-९||" </br>
-Translate: "7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life Force in all beings, and I am the Austerity of the ascetics." </br>
+"दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता | मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||१६-५||" </br>
+Translate: "16.5 Godly qualities lead to liberation; godless to bondage. Do not be anxious, Prince! Thou hast the Godly qualities." </br>
 
 # Prefs
 <table>
