@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः | यः पश्यति तथात्मानमकर्तारं स पश्यति ||१३-३०||" </br>
-Translate: "13.30 He who understands that it is only the Law of Nature that brings action to fruition, and that the Self never acts, alone knows the Truth." </br>
+"निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||" </br>
+Translate: "1.31 The omens are adverse; what good can come from the slaughter of my people on this battlefield?" </br>
 
 # Prefs
 <table>
