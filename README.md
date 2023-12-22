@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते | तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ||१३-२६||" </br>
-Translate: "13.26 Others again, having no direct knowledge but only hearing from others, nevertheless worship, and they, too, if true to the teachings, cross the sea of death." </br>
+"न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ||१८-११||" </br>
+Translate: "18.11 But since those still in the body cannot entirely avoid action, in their case abandonment of the fruit of action is considered as complete renunciation." </br>
 
 # Prefs
 <table>
