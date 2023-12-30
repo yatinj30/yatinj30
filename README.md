@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः | यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ||८-२०||" </br>
-Translate: "8.20 In truth, therefore, there is the Eternal Unmanifest, which is beyond and above the Unmanifest Spirit of Creation, which is never destroyed when all these being perish." </br>
+"ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||" </br>
+Translate: "1.13 And immediately all the conches and drums, the trumpets and horns, blared forth in tumultuous uproar." </br>
 
 # Prefs
 <table>
