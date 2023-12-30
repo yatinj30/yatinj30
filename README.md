@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनन्तश्चास्मि नागानां वरुणो यादसामहम् | पितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||" </br>
-Translate: "10.29 I am the King-python among snakes, I am the Aqueous Principle among those that live in water, I am the Father of fathers, and among rulers I am Death." </br>
+"परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः | यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ||८-२०||" </br>
+Translate: "8.20 In truth, therefore, there is the Eternal Unmanifest, which is beyond and above the Unmanifest Spirit of Creation, which is never destroyed when all these being perish." </br>
 
 # Prefs
 <table>
