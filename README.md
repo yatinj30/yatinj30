@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः | सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ||१-१३||" </br>
-Translate: "1.13 And immediately all the conches and drums, the trumpets and horns, blared forth in tumultuous uproar." </br>
+"बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु | प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ||१८-२९||" </br>
+Translate: "18.29 Reason and conviction are threefold, according to the Quality which is dominant. I will explain them fully and severally, O Arjuna!" </br>
 
 # Prefs
 <table>
