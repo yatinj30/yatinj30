@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"देवान्भावयतानेन ते देवा भावयन्तु वः | परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ||३-११||" </br>
-Translate: "3.11 Worship the Powers of Nature thereby, and let them nourish you in return; thus supporting each other, you shall attain your highest welfare." </br>
+"तस्मात्त्वमुत्तिष्ठ यशो लभस्व जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम् | मयैवैते निहताः पूर्वमेव निमित्तमात्रं भव सव्यसाचिन् ||११-३३||" </br>
+Translate: "11.33 Then gird up thy loins and conquer. Subdue thy foes and enjoy the kingdom in prosperity. I have already doomed them. Be thou my instrument, Arjuna!" </br>
 
 # Prefs
 <table>
