@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् | यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम ||११-१||" </br>
-Translate: "11.1 "Arjuna said: My Lord! Thy words concerning the Supreme Secret of Self, given for my blessing, have dispelled the illusions which surrounded me." </br>
+"मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय | मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||७-७||" </br>
+Translate: "7.7 O Arjuna! There is nothing higher than Me; all is strung upon Me as rows of pearls upon a thread." </br>
 
 # Prefs
 <table>
