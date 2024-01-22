@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत | ज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||१४-९||" </br>
-Translate: "14.9 Purity brings happiness, Passion commotion, and Ignorance, which obscures wisdom, leads to a life of failure." </br>
+"यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् | नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ||४-३१||" </br>
+Translate: "4.31 Tasting the nectar of immortality, as the reward of sacrifice, they reach the Eternal. This world is not for those who refuse to sacrifice; much less the other world." </br>
 
 # Prefs
 <table>
