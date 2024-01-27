@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् | इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||" </br>
-Translate: "17.12 Sacrifice which is performed for the sake of its results, or for self-glorification - that, O best of Aryans, is the product of Passion." </br>
+"अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् | विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||२-१७||" </br>
+Translate: "2.17 The Spirit, which pervades all that we see, is imperishable. Nothing can destroy the Spirit." </br>
 
 # Prefs
 <table>
