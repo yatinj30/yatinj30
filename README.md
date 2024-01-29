@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् | विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ||२-१७||" </br>
-Translate: "2.17 The Spirit, which pervades all that we see, is imperishable. Nothing can destroy the Spirit." </br>
+"अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः | शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते ||१३-३२||" </br>
+Translate: "13.32 The Supreme Spirit, O Prince, is without beginning, without Qualities and Imperishable, and though it be within the body, yet It does not act, nor is It affected by action." </br>
 
 # Prefs
 <table>
