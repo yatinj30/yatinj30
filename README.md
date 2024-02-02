@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ | समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ||२-१५||" </br>
-Translate: "2.15 The hero whose soul is unmoved by circumstance, who accepts pleasure and pain with equanimity, only he is fit for immortality." </br>
+"बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् | स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ||५-२१||" </br>
+Translate: "5.21 He finds happiness in his own Self, and enjoys eternal bliss, whose heart does not yearn for the contacts of earth and whose Self is one with the Everlasting." </br>
 
 # Prefs
 <table>
