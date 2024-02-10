@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उत्तमः पुरुषस्त्वन्यः परमात्मेत्युधाहृतः | यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ||१५-१७||" </br>
-Translate: "15.17 But higher than all am I, the Supreme God, the Absolute Self, the Eternal Lord, Who pervades the worlds and upholds them all." </br>
+"एतद्योनीनि भूतानि सर्वाणीत्युपधारय | अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ||७-६||" </br>
+Translate: "7.6 It is the womb of all being; for I am He by Whom the worlds were created and shall be dissolved." </br>
 
 # Prefs
 <table>
