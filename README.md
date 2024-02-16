@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः | शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ||३-८||" </br>
-Translate: "3.8 Do thy duty as prescribed, for action for duty's sake is superior to inaction. Even the maintenance of the body would be impossible if man remained inactive." </br>
+"साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः | एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ||५-४||" </br>
+Translate: "5.4 Only the unenlightened speak of wisdom and right action as separate, not the wise. If any man knows one, he enjoys the fruit of both." </br>
 
 # Prefs
 <table>
