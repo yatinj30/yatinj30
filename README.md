@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय | बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ||२-४९||" </br>
-Translate: "2.49 Physical action is far inferior to an intellect concentrated on the Divine. Have recourse then to Pure Intelligence. It is only the petty-minded who work for reward." </br>
+"रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् | तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||१४-७||" </br>
+Translate: "14.7 Passion, engendered by thirst for pleasure and attachment, binds the soul through its fondness for activity." </br>
 
 # Prefs
 <table>
