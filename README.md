@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मूढग्राहेणात्मनो यत्पीडया क्रियते तपः | परस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||" </br>
-Translate: "17.19 Austerity done under delusion, and accompanied with sorcery or torture to oneself or another, may be assumed to spring from Ignorance." </br>
+"न हि ज्ञानेन सदृशं पवित्रमिह विद्यते | तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ||४-३८||" </br>
+Translate: "4.38 There is nothing in the world so purifying as wisdom; and he who is a perfect saint finds that at last in his own Self." </br>
 
 # Prefs
 <table>
