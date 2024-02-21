@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् | यः प्रयाति त्यजन्देहं स याति परमां गतिम् ||८-१३||" </br>
-Translate: "8.13 Repeating Om, the Symbol of Eternity, holding Me always in remembrance, he who thus leaves his body and goes forth reaches the Spirit Supreme." </br>
+"मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः | भावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||१७-१६||" </br>
+Translate: "17.16 Serenity, kindness, silence, self-control and purity - this is austerity of mind." </br>
 
 # Prefs
 <table>
