@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना | अन्ये साङ्ख्येन योगेन कर्मयोगेन चापरे ||१३-२५||" </br>
-Translate: "13.25 Some realise the Supreme by meditating, by its aid, on the Self within, others by pure reason, others by right action." </br>
+"इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् | इदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||" </br>
+Translate: "16.13 This I have gained today; tomorrow I will gratify another desire; this wealth is mine now, the rest shall be mine ere long;" </br>
 
 # Prefs
 <table>
