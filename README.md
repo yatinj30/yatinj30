@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् | इदमस्तीदमपि मे भविष्यति पुनर्धनम् ||१६-१३||" </br>
-Translate: "16.13 This I have gained today; tomorrow I will gratify another desire; this wealth is mine now, the rest shall be mine ere long;" </br>
+"आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन | सुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||" </br>
+Translate: "6.32 O Arjuna! He is the perfect saint who, taught by the likeness within himself, sees the same Self everywhere, whether the outer form be pleasurable or painful." </br>
 
 # Prefs
 <table>
