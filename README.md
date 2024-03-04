@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः | हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||" </br>
-Translate: "12.15 He who does not harm the world, and whom the world cannot harm, who is not carried away by any impulse of joy, anger or fear, such a one is My beloved." </br>
+"पिताहमस्य जगतो माता धाता पितामहः | वेद्यं पवित्रमोंकार ऋक्साम यजुरेव च ||९-१७||" </br>
+Translate: "9.17 I am the Father of the universe and its Mother; I am its Nourisher and its Grandfather; I am the Knowable and the Pure; I am Om; and I am the Sacred Scriptures." </br>
 
 # Prefs
 <table>
