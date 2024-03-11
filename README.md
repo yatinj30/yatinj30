@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ||१८-६३||" </br>
-Translate: "18.63 Thus have I revealed to thee the Truth, the Mystery of mysteries. Having thought it over, thou art free to act as thou wilt." </br>
+"न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा | इति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||" </br>
+Translate: "4.14 My actions do not fetter Me, nor do I desire anything that they can bring. He who thus realises Me is not enslaved by action." </br>
 
 # Prefs
 <table>
