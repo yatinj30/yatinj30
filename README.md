@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः | ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||" </br>
-Translate: "9.29 I am the same to all beings. I favour none, and I hate none. But those who worship Me devotedly, they live in Me, and I in them." </br>
+"यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते | सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ||६-४||" </br>
+Translate: "6.4 When a man renounces even the thought of initiating action, when he is not interested in sense objects or any results which may flow from his acts, then in truth he understands spirituality." </br>
 
 # Prefs
 <table>
