@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् | वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ||१८-२१||" </br>
-Translate: "18.21 The knowledge which thinks of the manifold existence in all beings as separate - that comes from Passion." </br>
+"अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः | प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||" </br>
+Translate: "15.14 Becoming the fire of life, I pass into their bodies and, uniting with the vital streams of Prana and Apana, I digest the various kinds of food." </br>
 
 # Prefs
 <table>
