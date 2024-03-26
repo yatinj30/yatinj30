@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति | तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||२-५२||" </br>
-Translate: "2.52 When thy reason has crossed the entanglements of illusion, then shalt thou become indifferent both to the philosophies thou hast heard and to those thou mayest yet hear." </br>
+"इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ | तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ||३-३४||" </br>
+Translate: "3.34 The love and hate which are aroused by the objects of sense arise from Nature; do not yield to them. They only obstruct the path." </br>
 
 # Prefs
 <table>
