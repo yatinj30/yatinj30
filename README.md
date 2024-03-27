@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् | नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ||२-५७||" </br>
-Translate: "2.57 He who wherever he goes is attached to no person and to no place by ties of flesh; who accepts good and evil alike, neither welcoming the one nor shrinking from the other - take him to be one who is merged in the Infinite." </br>
+"द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे | स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ||४-२८||" </br>
+Translate: "4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers." </br>
 
 # Prefs
 <table>
