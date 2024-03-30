@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् | स्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः ||५-२०||" </br>
-Translate: "5.20 He who knows and lives in the Absolute remains unmoved and unperturbed; he is not elated by pleasure or depressed by pain." </br>
+"नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते | स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||२-४०||" </br>
+Translate: "2.40 On this Path, endeavour is never wasted, nor can it ever be repressed. Even a very little of its practice protects one from great danger." </br>
 
 # Prefs
 <table>
