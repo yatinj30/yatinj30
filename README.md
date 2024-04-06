@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति | भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ||१८-६८||" </br>
-Translate: "18.68 But he who teaches this great secret to My devotees, his is the highest devotion, and verily he shall come unto Me." </br>
+"प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः | शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ||६-४१||" </br>
+Translate: "6.41 Having reached the worlds where the righteous dwell, and having remained there for many years, he who has slipped from the path of spirituality will be born again in the family of the pure, benevolent and prosperous." </br>
 
 # Prefs
 <table>
