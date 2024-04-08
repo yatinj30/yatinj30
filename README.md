@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः | शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ||६-४१||" </br>
-Translate: "6.41 Having reached the worlds where the righteous dwell, and having remained there for many years, he who has slipped from the path of spirituality will be born again in the family of the pure, benevolent and prosperous." </br>
+"चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन | आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ||७-१६||" </br>
+Translate: "7.16 O Arjuna! The righteous who worship Me are grouped by stages: first, they who suffer, next they who desire knowledge, then they who thirst after truth, and lastly they who attain wisdom." </br>
 
 # Prefs
 <table>
