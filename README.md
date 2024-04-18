@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कस्माच्च ते न नमेरन्महात्मन् गरीयसे ब्रह्मणोऽप्यादिकर्त्रे | अनन्त देवेश जगन्निवास त्वमक्षरं सदसत्तत्परं यत् ||११-३७||" </br>
-Translate: "11.37 How should they do otherwise? O Thou Supremest Self, greater than the Powers of creation, the First Cause, Infinite, the Lord of Lords, the Home of the universe, Imperishable, Being and Not-Being, yet transcending both." </br>
+"पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ | जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ||७-९||" </br>
+Translate: "7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life Force in all beings, and I am the Austerity of the ascetics." </br>
 
 # Prefs
 <table>
