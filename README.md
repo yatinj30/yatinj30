@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ | जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ||७-९||" </br>
-Translate: "7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life Force in all beings, and I am the Austerity of the ascetics." </br>
+"न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः | न चैव न भविष्यामः सर्वे वयमतः परम् ||२-१२||" </br>
+Translate: "2.12 There was never a time when I was not, nor thou, nor these princes were not; there will never be a time when we shall cease to be." </br>
 
 # Prefs
 <table>
