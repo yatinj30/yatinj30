@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः | भविता न च मे तस्मादन्यः प्रियतरो भुवि ||१८-६९||" </br>
-Translate: "18.69 Nor is there among men any who can perform a service dearer to Me than this, or any man on earth more beloved by Me than he." </br>
+"अर्जुन उवाच | अयतिः श्रद्धयोपेतो योगाच्चलितमानसः | अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ||६-३७||" </br>
+Translate: "6.37 Arjuna asked: He who fails to control himself, whose mind falls from spiritual contemplation, who attains not perfection but retains his faith, what of him, my Lord?" </br>
 
 # Prefs
 <table>
