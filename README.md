@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवमेतद्यथात्थ त्वमात्मानं परमेश्वर | द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम ||११-३||" </br>
-Translate: "11.3 I believe all as Thou hast declared it. I long now to have a vision of thy Divine Form, O Thou Most High!" </br>
+"सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः | ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ||१२-४||" </br>
+Translate: "12.4 Subduing their senses, viewing all conditions of life with the same eye, and working for the welfare of all beings, assuredly they come to Me." </br>
 
 # Prefs
 <table>
