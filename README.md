@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् | कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ||१०-९||" </br>
-Translate: "10.9 With minds concentrated on Me, with lives absorbed in Me, and enlightening each other, they ever feel content and happy." </br>
+"यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् | स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||१८-४६||" </br>
+Translate: "18.46 Man reaches perfection by dedicating his actions to God, Who is the source of all being, and fills everything." </br>
 
 # Prefs
 <table>
