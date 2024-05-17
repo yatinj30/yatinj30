@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||" </br>
-Translate: "1.41 When irreligion spreads, the women of the house begin to stray; when they lose their purity, adulteration of the stock follows." </br>
+"श्रीभगवानुवाच | हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः | प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||१०-१९||" </br>
+Translate: "10.19 Lord Shri Krishna replied: So be it, My beloved fried! I will unfold to thee some of the chief aspects of My glory. Of its full extent there is no end." </br>
 
 # Prefs
 <table>
