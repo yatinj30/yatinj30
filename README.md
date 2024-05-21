@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः | सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ||४-३६||" </br>
-Translate: "4.36 Be thou the greatest of sinners, yet thou shalt cross over all sin by the ferryboat of wisdom." </br>
+"यावानर्थ उदपाने सर्वतः सम्प्लुतोदके | तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ||२-४६||" </br>
+Translate: "2.46 As a man can drink water from any side of a full tank, so the skilled theologian can wrest from any scripture that which will serve his purpose." </br>
 
 # Prefs
 <table>
