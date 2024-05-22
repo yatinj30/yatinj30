@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यावानर्थ उदपाने सर्वतः सम्प्लुतोदके | तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ||२-४६||" </br>
-Translate: "2.46 As a man can drink water from any side of a full tank, so the skilled theologian can wrest from any scripture that which will serve his purpose." </br>
+"न च मां तानि कर्माणि निबध्नन्ति धनञ्जय | उदासीनवदासीनमसक्तं तेषु कर्मसु ||९-९||" </br>
+Translate: "9.9 But these acts of mine do not bind Me. I remain outside and unattached." </br>
 
 # Prefs
 <table>
