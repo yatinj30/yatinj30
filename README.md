@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कविं पुराणमनुशासितार- मणोरणीयंसमनुस्मरेद्यः | सर्वस्य धातारमचिन्त्यरूप- मादित्यवर्णं तमसः परस्तात् ||८-९||" </br>
-Translate: "8.9 Whoso meditates on the Omniscient, the Ancient, more minute than the atom, yet the Ruler and Upholder of all, Unimaginable, Brilliant like the Sun, Beyond the reach of darkness;" </br>
+"अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः | प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||" </br>
+Translate: "15.14 Becoming the fire of life, I pass into their bodies and, uniting with the vital streams of Prana and Apana, I digest the various kinds of food." </br>
 
 # Prefs
 <table>
