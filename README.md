@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् | इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ||३-६||" </br>
-Translate: "3.6 He who remains motionless, refusing to act, but all the while brooding over sensuous object, that deluded soul is simply a hypocrite." </br>
+"कविं पुराणमनुशासितार- मणोरणीयंसमनुस्मरेद्यः | सर्वस्य धातारमचिन्त्यरूप- मादित्यवर्णं तमसः परस्तात् ||८-९||" </br>
+Translate: "8.9 Whoso meditates on the Omniscient, the Ancient, more minute than the atom, yet the Ruler and Upholder of all, Unimaginable, Brilliant like the Sun, Beyond the reach of darkness;" </br>
 
 # Prefs
 <table>
