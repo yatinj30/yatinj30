@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः | प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ||१५-१४||" </br>
-Translate: "15.14 Becoming the fire of life, I pass into their bodies and, uniting with the vital streams of Prana and Apana, I digest the various kinds of food." </br>
+"यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः | तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ||३-९||" </br>
+Translate: "3.9 In this world people are fettered by action, unless it is performed as a sacrifice. Therefore, O Arjuna, let thy acts be done without attachment, as sacrifice only." </br>
 
 # Prefs
 <table>
