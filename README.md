@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः | यज्ञायाचरतः कर्म समग्रं प्रविलीयते ||४-२३||" </br>
-Translate: "4.23 He who is without attachment, free, his mind centered in wisdom, his actions, being done as a sacrifice, leave no trace behind." </br>
+"मयि चानन्ययोगेन भक्तिरव्यभिचारिणी | विविक्तदेशसेवित्वमरतिर्जनसंसदि ||१३-११||" </br>
+Translate: "13.11 Unswerving devotion to Me, by concentration on Me and Me alone, a love for solitude, indifference to social life;" </br>
 
 # Prefs
 <table>
