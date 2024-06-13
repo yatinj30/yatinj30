@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् | आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ||४-४१||" </br>
-Translate: "4.41 But the man who has renounced his action for meditation, who has cleft his doubt in twain by the sword of wisdom, who remains always enthroned in his Self, is not bound by his acts." </br>
+"योगी युञ्जीत सततमात्मानं रहसि स्थितः | एकाकी यतचित्तात्मा निराशीरपरिग्रहः ||६-१०||" </br>
+Translate: "6.10 Let the student of spirituality try unceasingly to concentrate his mind; Let him live in seclusion, absolutely alone, with mind and personality controlled, free from desire and without possessions." </br>
 
 # Prefs
 <table>
