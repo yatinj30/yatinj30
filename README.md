@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् | भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ||१८-१२||" </br>
-Translate: "18.12 For those who cannot renounce all desire, the fruit of action hereafter is threefold - good, evil, and partly good and partly evil. But for him who has renounced, there is none." </br>
+"एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे | कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ||४-३२||" </br>
+Translate: "4.32 In this way other sacrifices too may be undergone for the Spirit's sake. Know thou that they all depend on action. Knowing this, thou shalt be free." </br>
 
 # Prefs
 <table>
