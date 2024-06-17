@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः | अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ||२-१८||" </br>
-Translate: "2.18 The material bodies which this Eternal, Indestructible, Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!" </br>
+"तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः | दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||" </br>
+Translate: "17.25 Those who desire deliverance begin their acts of sacrifice, austerity or gift with the word Tat' (meaning That'), without thought of reward." </br>
 
 # Prefs
 <table>
