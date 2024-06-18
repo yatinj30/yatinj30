@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः | दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||" </br>
-Translate: "17.25 Those who desire deliverance begin their acts of sacrifice, austerity or gift with the word Tat' (meaning That'), without thought of reward." </br>
+"तत्रैवं सति कर्तारमात्मानं केवलं तु यः | पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||१८-१६||" </br>
+Translate: "18.16 But the fool who supposes, because of his immature judgment, that it is his own Self alone that acts, he perverts the truth and does not see rightly." </br>
 
 # Prefs
 <table>
