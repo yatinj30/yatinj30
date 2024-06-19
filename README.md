@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा | इति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||" </br>
-Translate: "4.14 My actions do not fetter Me, nor do I desire anything that they can bring. He who thus realises Me is not enslaved by action." </br>
+"यदा भूतपृथग्भावमेकस्थमनुपश्यति | तत एव च विस्तारं ब्रह्म सम्पद्यते तदा ||१३-३१||" </br>
+Translate: "13.31 He who sees the diverse forms of life all rooted in One, and growing forth from Him, he shall indeed find the Absolute." </br>
 
 # Prefs
 <table>
