@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च | तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ||२-२७||" </br>
-Translate: "2.27 For death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable." </br>
+"अनेकबाहूदरवक्त्रनेत्रं पश्यामि त्वां सर्वतोऽनन्तरूपम् | नान्तं न मध्यं न पुनस्तवादिं पश्यामि विश्वेश्वर विश्वरूप ||११-१६||" </br>
+Translate: "11.16 I see Thee, infinite in form, with, as it were, faces, eyes and limbs everywhere; no beginning, no middle, no end; O Thou Lord of the Universe, Whose Form is universal!" </br>
 
 # Prefs
 <table>
