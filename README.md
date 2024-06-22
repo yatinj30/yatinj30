@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"युञ्जन्नेवं सदात्मानं योगी नियतमानसः | शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ||६-१५||" </br>
-Translate: "6.15 Thus keeping his mind always in communion with Me, and with his thoughts subdued, he shall attain that Peace which is mine and which will lead him to liberation at last." </br>
+"उदासीनवदासीनो गुणैर्यो न विचाल्यते | गुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||" </br>
+Translate: "14.23 He who maintains an attitude of indifference, who is not disturbed by the Qualities, who realises that it is only they who act, and remains calm;" </br>
 
 # Prefs
 <table>
