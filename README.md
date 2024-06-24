@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इदं ते नातपस्काय नाभक्ताय कदाचन | न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ||१८-६७||" </br>
-Translate: "18.67 Speak not this to one who has not practised austerities, or to him who does not love, or who will not listen, or who mocks." </br>
+"मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा | निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||३-३०||" </br>
+Translate: "3.30 Therefore, surrendering thy actions unto Me, thy thoughts concentrated on the Absolute, free from selfishness and without anticipation of reward, with mind devoid of excitement, begin thou to fight." </br>
 
 # Prefs
 <table>
