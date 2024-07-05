@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि | विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ||१३-२०||" </br>
-Translate: "13.20 Know thou further that Nature and God have no beginning; and that differences of character and quality have their origin in Nature only." </br>
+"लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा | रजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||" </br>
+Translate: "14.12 O best of Indians! Avarice, the impulse to act and the beginning of action itself are all due to the dominance of Passion." </br>
 
 # Prefs
 <table>
