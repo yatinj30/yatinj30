@@ -55,7 +55,7 @@ Translate: "{translated}" </br>
 <p align="left">
 <a href="https://linkedin.com/in/yatinj-sutariya" target="blank">Linkedin</a> <br/>
 <a href="https://stackoverflow.com/users/12459803/yatinj-sutariya" target="blank">Stackoverflow</a> <br/>
-<a href="https://www.upwork.com/freelancers/~01d403b930e98cfd3e" target="blank">Reach me at Upwork for freelancing project</a> <br/>
+<a href="https://www.upwork.com/freelancers/~01d403b930e98cfd3e" target="blank">Reach me at Upwork for freelance work</a> <br/>
 </p>
 
 ### Support
