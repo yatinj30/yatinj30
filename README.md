@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता | यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||" </br>
-Translate: "11.12 Could a thousand suns blaze forth together it would be but a faint reflection of the radiance of the Lord God." </br>
+"उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् | सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ||३-२४||" </br>
+Translate: "3.24 And if I were to refrain from action, the human race would be ruined; I should lead the world to chaos, and destruction would follow." </br>
 
 # Prefs
 <table>
