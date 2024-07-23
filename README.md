@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् | सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ||३-२४||" </br>
-Translate: "3.24 And if I were to refrain from action, the human race would be ruined; I should lead the world to chaos, and destruction would follow." </br>
+"तेषामहं समुद्धर्ता मृत्युसंसारसागरात् | भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ||१२-७||" </br>
+Translate: "12.7 O Arjuna! I rescue them from the ocean of life and death, for their minds are fixed on Me." </br>
 
 # Prefs
 <table>
