@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः | अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||३-१६||" </br>
-Translate: "3.16 Thus he who does not help the revolving wheel of sacrifice, but instead leads a sinful life, rejoicing in the gratification of his senses, O Arjuna, he breathes in vain." </br>
+"ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् | ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ||४-२४||" </br>
+Translate: "4.24 For him, the sacrifice itself is the Spirit; the Spirit and the oblation are one; it is the Spirit Itself which is sacrificed in Its own fire, and the man even in action is united with God, since while performing his act, his mind never ceases to be fixed on Him." </br>
 
 # Prefs
 <table>
