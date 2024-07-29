@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः | न स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||" </br>
-Translate: "16.23 But he who neglects the commands of the scriptures, and follows the promptings of passion, he does not attain perfection, happiness or the final goal." </br>
+"सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः | मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ||१२-१४||" </br>
+Translate: "12.14 Always contented, self-centred, self-controlled, resolute, with mind and reason dedicated to Me, such a devotee of Mine is My beloved." </br>
 
 # Prefs
 <table>
