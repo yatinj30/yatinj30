@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पितासि लोकस्य चराचरस्य त्वमस्य पूज्यश्च गुरुर्गरीयान् | न त्वत्समोऽस्त्यभ्यधिकः कुतोऽन्यो लोकत्रयेऽप्यप्रतिमप्रभाव ||११-४३||" </br>
-Translate: "11.43 For Thou art the Father of all things movable and immovable, the Worshipful, the Master of Masters! In all the worlds there is none equal to Thee, how then superior, O Thou who standeth alone, Supreme." </br>
+"गामाविश्य च भूतानि धारयाम्यहमोजसा | पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||" </br>
+Translate: "15.13 1	enter this world and animate all My creatures with My vitality; and by My cool moonbeams I nourish the plants." </br>
 
 # Prefs
 <table>
