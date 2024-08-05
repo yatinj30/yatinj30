@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यातयामं गतरसं पूति पर्युषितं च यत् | उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ||१७-१०||" </br>
-Translate: "17.10 The Ignorant love food which is stale, not nourishing, putrid and corrupt, the leavings of others and unclean." </br>
+"मां च योऽव्यभिचारेण भक्तियोगेन सेवते | स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||" </br>
+Translate: "14.26 And he who serves Me and only Me, with unfaltering devotion, shall overcome the Qualities, and become One with the Eternal." </br>
 
 # Prefs
 <table>
