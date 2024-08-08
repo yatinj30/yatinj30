@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ते तं भुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्ये मर्त्यलोकं विशन्ति | एवं त्रयीधर्ममनुप्रपन्ना गतागतं कामकामा लभन्ते ||९-२१||" </br>
-Translate: "9.21 Yet although they enjoy the spacious glories of Paradise, nevertheless, when their merit is exhausted, they are born again into this world of mortals. They have followed the letter of the scriptures, yet because they have sought but to fulfill their own desires, they must depart and return again and again." </br>
+"योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः | धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||" </br>
+Translate: "1.23 And gaze over this array of soldiers, eager to please the sinful sons of Dhritarashtra."" </br>
 
 # Prefs
 <table>
