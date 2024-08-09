@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निश्चयं शृणु मे तत्र त्यागे भरतसत्तम | त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ||१८-४||" </br>
-Translate: "18.4 O best of Indians! Listen to my judgment as regards this problem. It has a threefold aspect." </br>
+"न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः | माययापहृतज्ञाना आसुरं भावमाश्रिताः ||७-१५||" </br>
+Translate: "7.15 The sinner, the ignorant, the vile, deprived of spiritual perception by the glamour of Illusion, and he who pursues a godless life - none of them shall find Me." </br>
 
 # Prefs
 <table>
