@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता | योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ||६-१९||" </br>
-Translate: "6.19 The wise man who has conquered his mind and is absorbed in the Self is as a lamp which does not flicker, since it stands sheltered from every wind." </br>
+"युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् | सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ||१-६||" </br>
+Translate: "1.6 Yudhamanyu, Uttamouja, Soubhadra and the sons of Droupadi, famous men." </br>
 
 # Prefs
 <table>
