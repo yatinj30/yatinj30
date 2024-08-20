@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन | अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ||१-३५||" </br>
-Translate: "1.35 I would not kill them, even for three worlds; why then for this poor earth? It matters not if I myself am killed." </br>
+"यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः | न स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||१६-२३||" </br>
+Translate: "16.23 But he who neglects the commands of the scriptures, and follows the promptings of passion, he does not attain perfection, happiness or the final goal." </br>
 
 # Prefs
 <table>
