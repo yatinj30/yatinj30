@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"द्रोणं च भीष्मं च जयद्रथं च कर्णं तथान्यानपि योधवीरान् | मया हतांस्त्वं जहि मा व्यथिष्ठा युध्यस्व जेतासि रणे सपत्नान् ||११-३४||" </br>
-Translate: "11.34 Drona and Bheeshma, Jayadratha and Karna, and other brave warriors - I have condemned them all. Destroy them; fight and fear not. Thy foes shall be crushed."" </br>
+"यच्चावहासार्थमसत्कृतोऽसि विहारशय्यासनभोजनेषु | एकोऽथवाप्यच्युत तत्समक्षं तत्क्षामये त्वामहमप्रमेयम् ||११-४२||" </br>
+Translate: "11.42 Whatever insult I have offered to Thee in jest, in sport or in repose, in conversation or at the banquet, alone or in a multitude, I ask Thy forgiveness for them all, O Thou Who art without an equal!" </br>
 
 # Prefs
 <table>
