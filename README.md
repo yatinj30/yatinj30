@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | इत्यर्जुनं वासुदेवस्तथोक्त्वा स्वकं रूपं दर्शयामास भूयः | आश्वासयामास च भीतमेनं भूत्वा पुनः सौम्यवपुर्महात्मा ||११-५०||" </br>
-Translate: "11.50 Sanjaya continued: "Having thus spoken to Arjuna, Lord Shri Krishna showed Himself again in His accustomed form; and the Mighty Lord, in gentle tones, softly consoled him who lately trembled with fear." </br>
+"य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् | उभौ तौ न विजानीतो नायं हन्ति न हन्यते ||२-१९||" </br>
+Translate: "2.19 He who thinks that the Spirit kills, and he who thinks of It as killed, are both ignorant. The Spirit kills not, nor is It killed." </br>
 
 # Prefs
 <table>
