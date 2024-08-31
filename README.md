@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||४-११||" </br>
-Translate: "4.11 Howsoever men try to worship Me, so do I welcome them. By whatever path they travel, it leads to Me at last." </br>
+"सर्वभूतेषु येनैकं भावमव्ययमीक्षते | अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||१८-२०||" </br>
+Translate: "18.20 That knowledge which sees the One Indestructible in all beings, the One Indivisible in all separate lives, may be truly called Pure Knowledge." </br>
 
 # Prefs
 <table>
