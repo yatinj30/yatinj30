@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तमुवाच हृषीकेशः प्रहसन्निव भारत | सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ||२-१०||" </br>
-Translate: "2.10 Thereupon the Lord, with a gracious smile, addressed him who was so much depressed in the midst of the two armies." </br>
+"विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि | शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ||५-१८||" </br>
+Translate: "5.18 Sages look equally upon all, whether he be a minister of learning and humility, or an infidel, or whether it be a cow, an elephant or a dog." </br>
 
 # Prefs
 <table>
