@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"किरीटिनं गदिनं चक्रहस्तं इच्छामि त्वां द्रष्टुमहं तथैव | तेनैव रूपेण चतुर्भुजेन सहस्रबाहो भव विश्वमूर्ते ||११-४६||" </br>
-Translate: "11.46 I long to see Thee as thou wert before, with the crown, the sceptre and the discus in Thy hands; in Thy other Form, with Thy four hands, O Thou Whose arms are countless and Whose forms are infinite." </br>
+"गामाविश्य च भूतानि धारयाम्यहमोजसा | पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ||१५-१३||" </br>
+Translate: "15.13 1	enter this world and animate all My creatures with My vitality; and by My cool moonbeams I nourish the plants." </br>
 
 # Prefs
 <table>
