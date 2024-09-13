@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति | भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ||१८-६१||" </br>
-Translate: "18.61 God dwells in the hearts of all beings, O Arjuna! He causes them to revolve as it were on a wheel by His mystic power." </br>
+"द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे | स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ||४-२८||" </br>
+Translate: "4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers." </br>
 
 # Prefs
 <table>
