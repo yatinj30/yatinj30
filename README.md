@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम | नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ||१-७||" </br>
-Translate: "1.7 Further, take note of all those captains who have ranged themselves on our side, O best of Spiritual Guides! The leaders of my army. I will name them for you." </br>
+"कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः | अकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ||४-१७||" </br>
+Translate: "4.17 It is necessary to consider what is right action, what is wrong action, and what is inaction, for mysterious is the law of action." </br>
 
 # Prefs
 <table>
