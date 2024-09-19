@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः | तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ||४-१६||" </br>
-Translate: "4.16 What is action and what is inaction? It is a question which has bewildered the wise. But I will declare unto thee the philosophy of action, and knowing it, thou shalt be free from evil." </br>
+"प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः | न शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||" </br>
+Translate: "16.7 The godless do not know how to act or how to renounce. They have neither purity nor truth. They do not understand the right principles of conduct." </br>
 
 # Prefs
 <table>
