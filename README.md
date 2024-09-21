@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् | तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी ||२-७०||" </br>
-Translate: "2.70 He attains Peace, into whom desires flow as rivers into the ocean, which though brimming with water remains ever the same; not he whom desire carries away." </br>
+"अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः | सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ||१२-१६||" </br>
+Translate: "12.16 He who expects nothing, who is pure, watchful, indifferent, unruffled, and who renounces all initiative, such a one is My beloved." </br>
 
 # Prefs
 <table>
