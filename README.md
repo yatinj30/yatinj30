@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् | कामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः ||५-२३||" </br>
-Translate: "5.23 He who, before he leaves his body, learns to surmount the promptings of desire and anger is a saint and is happy." </br>
+"मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा | निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ||३-३०||" </br>
+Translate: "3.30 Therefore, surrendering thy actions unto Me, thy thoughts concentrated on the Absolute, free from selfishness and without anticipation of reward, with mind devoid of excitement, begin thou to fight." </br>
 
 # Prefs
 <table>
