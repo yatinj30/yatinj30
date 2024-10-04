@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः | परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ||१३-२३||" </br>
-Translate: "13.23 Thus in the body of man dwells the Supreme God; He who sees and permits, upholds and enjoys, the Highest God and the Highest Self." </br>
+"अथवा योगिनामेव कुले भवति धीमताम् | एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ||६-४२||" </br>
+Translate: "6.42 Or, he may be born in the family of the wise sages, though a birth like this is, indeed, very difficult to obtain." </br>
 
 # Prefs
 <table>
