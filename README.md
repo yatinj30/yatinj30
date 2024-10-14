@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् | स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ||१८-४६||" </br>
-Translate: "18.46 Man reaches perfection by dedicating his actions to God, Who is the source of all being, and fills everything." </br>
+"प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः | यः पश्यति तथात्मानमकर्तारं स पश्यति ||१३-३०||" </br>
+Translate: "13.30 He who understands that it is only the Law of Nature that brings action to fruition, and that the Self never acts, alone knows the Truth." </br>
 
 # Prefs
 <table>
