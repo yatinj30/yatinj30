@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् | स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||१७-१५||" </br>
-Translate: "17.15 Speech that hurts no one, that is true, is pleasant to listen to and beneficial, and the constant study of the scriptures - this is austerity in speech." </br>
+"नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः | अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ||५-१५||" </br>
+Translate: "5.15 The Lord does not accept responsibility for any man's sin or merit. Men are deluded because in them wisdom is submerged in ignorance." </br>
 
 # Prefs
 <table>
