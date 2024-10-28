@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ | ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ||३-३||" </br>
-Translate: "3.3 Lord Shri Krishna replied: In this world, as I have said, there is a twofold path, O Sinless One! There is the Path of Wisdom for those who meditate, and the Path of Action for those who work." </br>
+"न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् | भूतभृन्न च भूतस्थो ममात्मा भूतभावनः ||९-५||" </br>
+Translate: "9.5 Nevertheless, they do not consciously abide in Me. Such is My Divine Sovereignty that though I, the Supreme Self, am the cause and upholder of all, yet I remain outside." </br>
 
 # Prefs
 <table>
