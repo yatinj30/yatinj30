@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः | भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ||३-१३||" </br>
-Translate: "3.13 The sages who enjoy the food that remains after the sacrifice is made are freed from all sin; but the selfish who spread their feast only for themselves feed on sin only." </br>
+"अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः | सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ||४-३६||" </br>
+Translate: "4.36 Be thou the greatest of sinners, yet thou shalt cross over all sin by the ferryboat of wisdom." </br>
 
 # Prefs
 <table>
