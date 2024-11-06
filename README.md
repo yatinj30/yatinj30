@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपि चेत्सुदुराचारो भजते मामनन्यभाक् | साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ||९-३०||" </br>
-Translate: "9.30 Even the most sinful, if he worship Me with his whole heart, shalt be considered righteous, for he is treading the right path." </br>
+"देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् | ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||" </br>
+Translate: "17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity." </br>
 
 # Prefs
 <table>
