@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः | मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ||३-४२||" </br>
-Translate: "3.42 It is said that the senses are powerful. But beyond the senses is the mind, beyond the mind is the intellect, and beyond and greater than intellect is He." </br>
+"दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता | यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||" </br>
+Translate: "11.12 Could a thousand suns blaze forth together it would be but a faint reflection of the radiance of the Lord God." </br>
 
 # Prefs
 <table>
