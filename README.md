@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् | प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ||९-२||" </br>
-Translate: "9.2 This is the Premier Science, the Sovereign Secret, the Purest and Best; intuitional, righteous; and to him who practiseth it pleasant beyond measure." </br>
+"भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया | त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||" </br>
+Translate: "11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty." </br>
 
 # Prefs
 <table>
