@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न मे विदुः सुरगणाः प्रभवं न महर्षयः | अहमादिर्हि देवानां महर्षीणां च सर्वशः ||१०-२||" </br>
-Translate: "10.2 Neither the professors of divinity nor the great ascetics know My origin, for I am the source of them all." </br>
+"यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति | तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ||२-५२||" </br>
+Translate: "2.52 When thy reason has crossed the entanglements of illusion, then shalt thou become indifferent both to the philosophies thou hast heard and to those thou mayest yet hear." </br>
 
 # Prefs
 <table>
