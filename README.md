@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् | ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ||१३-५||" </br>
-Translate: "13.5 Seers have sung of It in various ways, in many hymns and sacred Vedic songs, weighty in thought and convincing in argument." </br>
+"अर्जुन उवाच | कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन | इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ||२-४||" </br>
+Translate: "2.4 Arjuna argued: My Lord! How can I, when the battle rages, send an arrow through Bheeshma and Drona, who should receive my reverence?" </br>
 
 # Prefs
 <table>
