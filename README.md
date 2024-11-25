@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् | सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ||३-३२||" </br>
-Translate: "3.32 But they who ridicule My word and do not keep it, are ignorant, devoid of wisdom and blind. They seek but their own destruction." </br>
+"द्यावापृथिव्योरिदमन्तरं हि व्याप्तं त्वयैकेन दिशश्च सर्वाः | दृष्ट्वाद्भुतं रूपमुग्रं तवेदं लोकत्रयं प्रव्यथितं महात्मन् ||११-२०||" </br>
+Translate: "11.20 Alone thou fillest all the quarters of the sky, earth and heaven, and the regions between. O Almighty Lord! Seeing Thy marvellous and awe-inspiring Form, the spheres tremble with fear." </br>
 
 # Prefs
 <table>
