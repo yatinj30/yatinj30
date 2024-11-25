@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"द्यावापृथिव्योरिदमन्तरं हि व्याप्तं त्वयैकेन दिशश्च सर्वाः | दृष्ट्वाद्भुतं रूपमुग्रं तवेदं लोकत्रयं प्रव्यथितं महात्मन् ||११-२०||" </br>
-Translate: "11.20 Alone thou fillest all the quarters of the sky, earth and heaven, and the regions between. O Almighty Lord! Seeing Thy marvellous and awe-inspiring Form, the spheres tremble with fear." </br>
+"न हि ज्ञानेन सदृशं पवित्रमिह विद्यते | तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ||४-३८||" </br>
+Translate: "4.38 There is nothing in the world so purifying as wisdom; and he who is a perfect saint finds that at last in his own Self." </br>
 
 # Prefs
 <table>
