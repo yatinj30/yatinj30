@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||१८-६६||" </br>
-Translate: "18.66 Give up then thy earthly duties, surrender thyself to Me only. Do not be anxious; I will absolve thee from all thy sin." </br>
+"रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् | वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ||१०-२३||" </br>
+Translate: "10.23 Among Forces of Vitality I am the life, I am Mammon to the heathen and the godless; I am the Energy in fire, earth, wind, sky, heaven, sun, moon and planets; and among mountains am the Mount Meru." </br>
 
 # Prefs
 <table>
