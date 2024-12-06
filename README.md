@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् | मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||" </br>
-Translate: "10.38 I am the Sceptre of rulers, the Strategy of the conquerors, the Silence of mystery, the Wisdom of the wise." </br>
+"चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन | आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ||७-१६||" </br>
+Translate: "7.16 O Arjuna! The righteous who worship Me are grouped by stages: first, they who suffer, next they who desire knowledge, then they who thirst after truth, and lastly they who attain wisdom." </br>
 
 # Prefs
 <table>
