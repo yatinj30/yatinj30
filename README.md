@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् | अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ||२-८||" </br>
-Translate: "2.8 For should I attain the monarchy of the visible world, or over the invisible world, it would not drive away the anguish which is now paralysing my senses."" </br>
+"अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् | असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ||१७-२८||" </br>
+Translate: "17.28 Whatsoever is done without faith, whether it be sacrifice, austerity or gift or anything else, as called Asat' (meaning Unreal') for it is the negation of Sat,' O Arjuna! Such an act has no significance, here or hereafter."" </br>
 
 # Prefs
 <table>
