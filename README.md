@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"विविक्तसेवी लघ्वाशी यतवाक्कायमानसः | ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ||१८-५२||" </br>
-Translate: "18.52 Enjoying solitude, abstemiousness, his body, mind and speech under perfect control, absorbed in meditation, he becomes free - always filled with the spirit of renunciation." </br>
+"श्रीभगवानुवाच | ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् | छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ||१५-१||" </br>
+Translate: "15.1 "Lord Shri Krishna continued: This phenomenal creation, which is both ephemeral and eternal, is like a tree, but having its seed above in the Highest and its ramifications on this earth below. The scriptures are its leaves, and he who understands this, knows." </br>
 
 # Prefs
 <table>
