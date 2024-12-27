@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ | ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||१६-२४||" </br>
-Translate: "16.24 Therefore whenever there is doubt whether thou shouldst do a thing or not, let the scriptures guide thy conduct. In the light of the scriptures shouldst thou labour the whole of thy life."" </br>
+"स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् | नभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् (or लोव्यनु) ||१-१९||" </br>
+Translate: "1.19 The tumult rent the hearts of the sons of Dhritarashtra, and violently shook heaven and earth with its echo." </br>
 
 # Prefs
 <table>
