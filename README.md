@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि | यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ||५-१||" </br>
-Translate: "5.1 "Arjuna said: My Lord! At one moment Thou praisest renunciation of action; at another, right action. Tell me truly, I pray, which of these is the more conducive to my highest welfare?" </br>
+"यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव | न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ||६-२||" </br>
+Translate: "6.2 O Arjuna! Renunciation is in fact what is called Right Action. No one can become spiritual who has not renounced all desire." </br>
 
 # Prefs
 <table>
