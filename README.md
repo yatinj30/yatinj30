@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् | जीवभूतां महाबाहो ययेदं धार्यते जगत् ||७-५||" </br>
-Translate: "7.5 This is My inferior Nature; but distinct from this, O Valiant One, know thou that my Superior Nature is the very Life which sustains the universe." </br>
+"बहिरन्तश्च भूतानामचरं चरमेव च | सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ||१३-१६||" </br>
+Translate: "13.16 It is within all beings, yet outside; motionless yet moving; too subtle to be perceived; far away yet always near." </br>
 
 # Prefs
 <table>
