@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति | कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ||९-३१||" </br>
-Translate: "9.31 He shall attain spirituality ere long, and Eternal Peace shall be his. O Arjuna! Believe me, My devotee is never lost." </br>
+"लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा | रजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||१४-१२||" </br>
+Translate: "14.12 O best of Indians! Avarice, the impulse to act and the beginning of action itself are all due to the dominance of Passion." </br>
 
 # Prefs
 <table>
