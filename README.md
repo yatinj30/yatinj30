@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि | ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ||६-२९||" </br>
-Translate: "6.29 He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye;" </br>
+"तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च | अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ||९-१९||" </br>
+Translate: "9.19 I am the Heat of the Sun, I release and hold back the Rains. I am Death and Immortality; I am Being and Not-Being." </br>
 
 # Prefs
 <table>
