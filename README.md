@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा | तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ||१०-४१||" </br>
-Translate: "10.41 Whatever is glorious, excellent, beautiful and mighty, be assured that it comes from a fragment of My splendour." </br>
+"अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः | गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||" </br>
+Translate: "10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada, of the heavenly singers I am Chitraratha, their Leader, and of sages I am Kapila." </br>
 
 # Prefs
 <table>
