@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः | गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ||१०-२६||" </br>
-Translate: "10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada, of the heavenly singers I am Chitraratha, their Leader, and of sages I am Kapila." </br>
+"एवमेतद्यथात्थ त्वमात्मानं परमेश्वर | द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम ||११-३||" </br>
+Translate: "11.3 I believe all as Thou hast declared it. I long now to have a vision of thy Divine Form, O Thou Most High!" </br>
 
 # Prefs
 <table>
