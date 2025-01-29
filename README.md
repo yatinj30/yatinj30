@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः | गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ||३-२८||" </br>
-Translate: "3.28 But he, O Mighty One, who understands correctly the relation of the Qualities to action, is not attached to the act for he perceives that it is merely the action and reaction of the Qualities among themselves." </br>
+"उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः | परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ||१३-२३||" </br>
+Translate: "13.23 Thus in the body of man dwells the Supreme God; He who sees and permits, upholds and enjoys, the Highest God and the Highest Self." </br>
 
 # Prefs
 <table>
