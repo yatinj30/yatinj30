@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः | परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः ||१३-२३||" </br>
-Translate: "13.23 Thus in the body of man dwells the Supreme God; He who sees and permits, upholds and enjoys, the Highest God and the Highest Self." </br>
+"प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि | विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ||१३-२०||" </br>
+Translate: "13.20 Know thou further that Nature and God have no beginning; and that differences of character and quality have their origin in Nature only." </br>
 
 # Prefs
 <table>
