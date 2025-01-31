@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना | करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ||१८-१८||" </br>
-Translate: "18.18 Knowledge, the knower and the object of knowledge, these are the three incentives to action; and the act, the actor and the instrument are the threefold constituents." </br>
+"अयनेषु च सर्वेषु यथाभागमवस्थिताः | भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ||१-११||" </br>
+Translate: "1.11 Therefore in the rank and file, let stand firm in their posts, according to battalions; and all you generals about Bheeshma." </br>
 
 # Prefs
 <table>
