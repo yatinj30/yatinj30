@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः | प्रणम्य शिरसा देवं कृताञ्जलिरभाषत ||११-१४||" </br>
-Translate: "11.14 Thereupon Arjuna, dumb with awe, his hair on end, his head bowed, his hands clasped in salutation, addressed the Lord thus:" </br>
+"सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः | सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ||६-३१||" </br>
+Translate: "6.31 The sage who realises the unity of life and who worships Me in all beings, lives in Me, whatever may be his lot." </br>
 
 # Prefs
 <table>
