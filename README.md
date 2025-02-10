@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः | आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ||३-१७||" </br>
-Translate: "3.17 On the other hand, the soul who meditates on the Self is content to serve the Self and rests satisfied within the Self; there remains nothing more for him to accomplish." </br>
+"नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना | न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||२-६६||" </br>
+Translate: "2.66 Right discrimination is not for him who cannot concentrate. Without concentration, there cannot be meditation; he who cannot meditate must not expect peace; and without peace, how can anyone expect happiness?" </br>
 
 # Prefs
 <table>
