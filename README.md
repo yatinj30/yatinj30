@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना | न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||२-६६||" </br>
-Translate: "2.66 Right discrimination is not for him who cannot concentrate. Without concentration, there cannot be meditation; he who cannot meditate must not expect peace; and without peace, how can anyone expect happiness?" </br>
+"न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः | सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||१८-४०||" </br>
+Translate: "18.40 There is nothing anywhere on earth or in the higher worlds which is free from the three Qualities - for they are born of Nature." </br>
 
 # Prefs
 <table>
