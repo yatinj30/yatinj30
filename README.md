@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः | सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ||१८-४०||" </br>
-Translate: "18.40 There is nothing anywhere on earth or in the higher worlds which is free from the three Qualities - for they are born of Nature." </br>
+"दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता | यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः ||११-१२||" </br>
+Translate: "11.12 Could a thousand suns blaze forth together it would be but a faint reflection of the radiance of the Lord God." </br>
 
 # Prefs
 <table>
