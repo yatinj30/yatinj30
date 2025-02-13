@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः | सोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||" </br>
-Translate: "10.7 He who rightly understands My manifested glory and My Creative Power, beyond doubt attains perfect peace." </br>
+"यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति | तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ||७-२१||" </br>
+Translate: "7.21 But whatever the form of worship, if the devotee have faith, then upon his faith in that worship do I set My own seal." </br>
 
 # Prefs
 <table>
