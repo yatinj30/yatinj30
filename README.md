@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन | सुखं वा यदि वा दुःखं स योगी परमो मतः ||६-३२||" </br>
-Translate: "6.32 O Arjuna! He is the perfect saint who, taught by the likeness within himself, sees the same Self everywhere, whether the outer form be pleasurable or painful." </br>
+"एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः | सोऽविकम्पेन योगेन युज्यते नात्र संशयः ||१०-७||" </br>
+Translate: "10.7 He who rightly understands My manifested glory and My Creative Power, beyond doubt attains perfect peace." </br>
 
 # Prefs
 <table>
