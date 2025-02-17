@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः | राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ||९-१२||" </br>
-Translate: "9.12 Their hopes are vain, their actions worthless, their knowledge futile; they are without sense, deceitful, barbarous and godless." </br>
+"नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः | अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ||५-१५||" </br>
+Translate: "5.15 The Lord does not accept responsibility for any man's sin or merit. Men are deluded because in them wisdom is submerged in ignorance." </br>
 
 # Prefs
 <table>
