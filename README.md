@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः | अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ||५-१५||" </br>
-Translate: "5.15 The Lord does not accept responsibility for any man's sin or merit. Men are deluded because in them wisdom is submerged in ignorance." </br>
+"वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः | मुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||" </br>
+Translate: "10.37 I am Shri Krishna among the Vishnu-clan and Arjuna among the Pandavas; of the saints I am Vyasa, and I am Shukracharya among the sages." </br>
 
 # Prefs
 <table>
