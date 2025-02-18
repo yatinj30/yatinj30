@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः | मुनीनामप्यहं व्यासः कवीनामुशना कविः ||१०-३७||" </br>
-Translate: "10.37 I am Shri Krishna among the Vishnu-clan and Arjuna among the Pandavas; of the saints I am Vyasa, and I am Shukracharya among the sages." </br>
+"अहो बत महत्पापं कर्तुं व्यवसिता वयम् | यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ||१-४५||" </br>
+Translate: "1.45 Alas, it is strange that we should be willing to kill our own countrymen and commit a great sin, in order to enjoy the pleasures of a kingdom." </br>
 
 # Prefs
 <table>
