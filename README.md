@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् | स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ||३-३५||" </br>
-Translate: "3.35 It is better to do thine own duty, however lacking in merit, than to do that of another, even though efficiently. It is better to die doing one's own duty, for to do the duty of another is fraught with danger." </br>
+"गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||" </br>
+Translate: "1.30 The bow Gandeeva slips from my hand, and my skin burns. I cannot keep quiet, for my mind is in tumult." </br>
 
 # Prefs
 <table>
