@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः | प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ||५-२७||" </br>
-Translate: "5.27 Excluding external objects, his gaze fixed between the eyebrows, the inward and outward breathings passing equally through his nostrils;" </br>
+"मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु | मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ||९-३४||" </br>
+Translate: "9.34 Fix thy mind on Me, devote thyself to Me, sacrifice for Me, surrender to Me, make Me the object of thy aspirations, and thou shalt assuredly become one with Me, Who am thine own Self."" </br>
 
 # Prefs
 <table>
