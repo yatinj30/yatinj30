@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः | अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||३-१०||" </br>
-Translate: "3.10 In the beginning, when God created all beings by the sacrifice of Himself, He said unto them: Through sacrifice you can procreate, and it shall satisfy all your desires." </br>
+"मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय | मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||७-७||" </br>
+Translate: "7.7 O Arjuna! There is nothing higher than Me; all is strung upon Me as rows of pearls upon a thread." </br>
 
 # Prefs
 <table>
