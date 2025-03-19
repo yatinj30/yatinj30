@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नभःस्पृशं दीप्तमनेकवर्णं व्यात्ताननं दीप्तविशालनेत्रम् | दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा धृतिं न विन्दामि शमं च विष्णो ||११-२४||" </br>
-Translate: "11.24 When I see Thee, touching the Heavens, glowing with colour, with open mouth and wide open fiery eyes, I am terrified. O My Lord! My courage and peace of mind desert me." </br>
+"प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः | मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ||६-१४||" </br>
+Translate: "6.14 With peace in his heart and nor fear, observing the vow of celibacy, with mind controlled and fixed on Me, let the student lose himself in contemplation of Me." </br>
 
 # Prefs
 <table>
