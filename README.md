@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः | मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ||६-१४||" </br>
-Translate: "6.14 With peace in his heart and nor fear, observing the vow of celibacy, with mind controlled and fixed on Me, let the student lose himself in contemplation of Me." </br>
+"सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् | सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ||१३-१४||" </br>
+Translate: "13.14 Everywhere are Its hands and Its feet; everywhere It has eyes that see, heads that think and mouths that speak; everywhere It listens; It dwells in all the worlds; It envelops them all." </br>
 
 # Prefs
 <table>
