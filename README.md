@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवं परम्पराप्राप्तमिमं राजर्षयो विदुः | स कालेनेह महता योगो नष्टः परन्तप ||४-२||" </br>
-Translate: "4.2 The Divine Kings knew it, for it was their tradition. Then, after a long time, at last it was forgotten." </br>
+"सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||१८-६६||" </br>
+Translate: "18.66 Give up then thy earthly duties, surrender thyself to Me only. Do not be anxious; I will absolve thee from all thy sin." </br>
 
 # Prefs
 <table>
