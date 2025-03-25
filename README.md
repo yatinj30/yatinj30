@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् | अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् ||११-१०||" </br>
-Translate: "11.10 There were countless eyes and mouths, and mystic forms innumerable, with shining ornaments and flaming celestial weapons." </br>
+"पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||" </br>
+Translate: "1.15 Lord Shri Krishna blew his Panchajanya and Arjuna his Devadatta, brave Bheema his renowned shell, Poundra." </br>
 
 # Prefs
 <table>
