@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि | विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ||१३-२०||" </br>
-Translate: "13.20 Know thou further that Nature and God have no beginning; and that differences of character and quality have their origin in Nature only." </br>
+"लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः | छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ||५-२५||" </br>
+Translate: "5.25 Sages whose sins have been washed away, whose sense of separateness has vanished, who have subdued themselves, and seek only the welfare of all, come to the Eternal Spirit." </br>
 
 # Prefs
 <table>
