@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||" </br>
-Translate: "1.36 My Lord! What happiness can come from the death of these sons of Dhritarashtra? We shall sin if we kill these desperate men." </br>
+"ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्परः | अनन्येनैव योगेन मां ध्यायन्त उपासते ||१२-६||" </br>
+Translate: "12.6 Verily, those who surrender their actions to Me, who muse on Me, worship Me and meditate on Me alone, with no thought save of Me," </br>
 
 # Prefs
 <table>
