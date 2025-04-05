@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
-Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
+"पवनः पवतामस्मि रामः शस्त्रभृतामहम् | झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||" </br>
+Translate: "10.31 I am the Wind among purifiers, the King Rama among warriors; I am the Crocodile among the fishes, and I am the Ganges among rivers." </br>
 
 # Prefs
 <table>
