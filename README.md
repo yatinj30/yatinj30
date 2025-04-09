@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बहिरन्तश्च भूतानामचरं चरमेव च | सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ||१३-१६||" </br>
-Translate: "13.16 It is within all beings, yet outside; motionless yet moving; too subtle to be perceived; far away yet always near." </br>
+"तानि सर्वाणि संयम्य युक्त आसीत मत्परः | वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||२-६१||" </br>
+Translate: "2.61 Restraining them all, let him meditate steadfastly on Me; for who thus conquers his senses achieves perfection." </br>
 
 # Prefs
 <table>
