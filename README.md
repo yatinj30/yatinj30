@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् | अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ||१२-९||" </br>
-Translate: "12.9 But if thou canst not fix thy mind firmly on Me, then, My beloved friend, try to do so by constant practice." </br>
+"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
+Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
 
 # Prefs
 <table>
