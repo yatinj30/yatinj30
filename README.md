@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः | तं तं नियममास्थाय प्रकृत्या नियताः स्वया ||७-२०||" </br>
-Translate: "7.20 They in whom wisdom is obscured by one desire or the other, worship the lesser Powers, practising many rites which vary according to their temperaments." </br>
+"यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः | हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ||१२-१५||" </br>
+Translate: "12.15 He who does not harm the world, and whom the world cannot harm, who is not carried away by any impulse of joy, anger or fear, such a one is My beloved." </br>
 
 # Prefs
 <table>
