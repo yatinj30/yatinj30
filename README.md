@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अधश्चोर्ध्वं प्रसृतास्तस्य शाखा गुणप्रवृद्धा विषयप्रवालाः | अधश्च मूलान्यनुसन्ततानि कर्मानुबन्धीनि मनुष्यलोके ||१५-२||" </br>
-Translate: "15.2 Its branches shoot upwards and downwards, deriving their nourishment from the Qualities; its buds are the objects of sense; and its roots, which follow the Law causing man's regeneration and degeneration, pierce downwards into the soil." </br>
+"द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते | सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ||१-१८||" </br>
+Translate: "1.18 And O King! Drupada, the sons of Droupadi and Soubhadra, the great soldier, blew their conches." </br>
 
 # Prefs
 <table>
