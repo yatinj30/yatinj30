@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः | श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ||३-३१||" </br>
-Translate: "3.31 Those who always act in accordance with My precepts, firm in faith and without cavilling, they too are freed from the bondage of action." </br>
+"अनेकचित्तविभ्रान्ता मोहजालसमावृताः | प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||१६-१६||" </br>
+Translate: "16.16 Perplexed by discordant thoughts, entangled in the snares of desire, infatuated by passion, they sink into the horrors of hell." </br>
 
 # Prefs
 <table>
