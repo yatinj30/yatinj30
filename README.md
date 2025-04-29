@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव | न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ||६-२||" </br>
-Translate: "6.2 O Arjuna! Renunciation is in fact what is called Right Action. No one can become spiritual who has not renounced all desire." </br>
+"अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः | स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ||१-४१||" </br>
+Translate: "1.41 When irreligion spreads, the women of the house begin to stray; when they lose their purity, adulteration of the stock follows." </br>
 
 # Prefs
 <table>
