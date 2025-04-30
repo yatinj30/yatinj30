@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः | छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ||५-२५||" </br>
-Translate: "5.25 Sages whose sins have been washed away, whose sense of separateness has vanished, who have subdued themselves, and seek only the welfare of all, come to the Eternal Spirit." </br>
+"अर्जुन उवाच | संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् | त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ||१८-१||" </br>
+Translate: "18.1 "Arjuna asked: O mighty One! I desire to know how relinquishment is distinguished from renunciation." </br>
 
 # Prefs
 <table>
