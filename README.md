@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"लेलिह्यसे ग्रसमानः समन्ताल्- लोकान्समग्रान्वदनैर्ज्वलद्भिः | तेजोभिरापूर्य जगत्समग्रं भासस्तवोग्राः प्रतपन्ति विष्णो ||११-३०||" </br>
-Translate: "11.30 Thou seemest to swallow up the worlds, to lap them in flame. Thy glory fills the universe. Thy fierce rays beat down upon it irresistibly." </br>
+"सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि | ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ||६-२९||" </br>
+Translate: "6.29 He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye;" </br>
 
 # Prefs
 <table>
