@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् | असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ||१३-१५||" </br>
-Translate: "13.15 Beyond the senses, It yet shines through every sense perception. Bound to nothing, It yet sustains everything. Unaffected by the Qualities, It still enjoys them all." </br>
+"न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा | इति मां योऽभिजानाति कर्मभिर्न स बध्यते ||४-१४||" </br>
+Translate: "4.14 My actions do not fetter Me, nor do I desire anything that they can bring. He who thus realises Me is not enslaved by action." </br>
 
 # Prefs
 <table>
