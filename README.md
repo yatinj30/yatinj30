@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | एवमुक्तो हृषीकेशो गुडाकेशेन भारत | सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ||१-२४||" </br>
-Translate: "1.24 Sanjaya said: "Having listened to the request of Arjuna, Lord Shri Krishna drew up His bright chariot exactly in the midst between the two armies," </br>
+"यच्चावहासार्थमसत्कृतोऽसि विहारशय्यासनभोजनेषु | एकोऽथवाप्यच्युत तत्समक्षं तत्क्षामये त्वामहमप्रमेयम् ||११-४२||" </br>
+Translate: "11.42 Whatever insult I have offered to Thee in jest, in sport or in repose, in conversation or at the banquet, alone or in a multitude, I ask Thy forgiveness for them all, O Thou Who art without an equal!" </br>
 
 # Prefs
 <table>
