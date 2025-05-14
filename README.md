@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उदासीनवदासीनो गुणैर्यो न विचाल्यते | गुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||" </br>
-Translate: "14.23 He who maintains an attitude of indifference, who is not disturbed by the Qualities, who realises that it is only they who act, and remains calm;" </br>
+"अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च | तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||१४-१३||" </br>
+Translate: "14.13 Darkness, stagnation, folly and infatuation are the result of the dominance of Ignorance, O joy of the Kuru-clan!" </br>
 
 # Prefs
 <table>
