@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सञ्जय उवाच | एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः | दर्शयामास पार्थाय परमं रूपमैश्वरम् ||११-९||" </br>
-Translate: "11.9 Sanjaya continued: "Having thus spoken, O King, the Lord Shri Krishna, the Almighty Prince of Wisdom, showed to Arjuna the Supreme Form of the Great God." </br>
+"समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् | विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ||१३-२८||" </br>
+Translate: "13.28 He who can see the Supreme Lord in all beings, the Imperishable amidst the perishable, he it is who really sees." </br>
 
 # Prefs
 <table>
