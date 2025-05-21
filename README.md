@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च | त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ||१-३३||" </br>
-Translate: "1.33 When those for whose sake I desire these things stand here about to sacrifice their property and their lives:" </br>
+"श्रीभगवानुवाच | काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः | सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ||१८-२||" </br>
+Translate: "18.2 Lord Shri Krishna replied: The sages say that renunciation means forgoing an action which springs from desire; and relinquishing means the surrender of its fruit." </br>
 
 # Prefs
 <table>
