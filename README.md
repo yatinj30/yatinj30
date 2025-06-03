@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अदेशकाले यद्दानमपात्रेभ्यश्च दीयते | असत्कृतमवज्ञातं तत्तामसमुदाहृतम् ||१७-२२||" </br>
-Translate: "17.22 And that which is given at an unsuitable place or time or to one who is unworthy, or with disrespect or contempt - such a gift is the result of Ignorance." </br>
+"अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत | अव्यक्तनिधनान्येव तत्र का परिदेवना ||२-२८||" </br>
+Translate: "2.28 The end and the beginning of beings are unknown. We see only the intervening formations. Then what cause is there for grief?" </br>
 
 # Prefs
 <table>
