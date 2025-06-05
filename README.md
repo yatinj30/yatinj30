@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मादसक्तः सततं कार्यं कर्म समाचर | असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ||३-१९||" </br>
-Translate: "3.19 Therefore do thy duty perfectly, without care for the results, for he who does his duty disinterestedly attains the Supreme." </br>
+"बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् | बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ||७-१०||" </br>
+Translate: "7.10 Know, O Arjuna, that I am the eternal Seed of being; I am the Intelligence of the intelligent, the Splendour of the resplendent." </br>
 
 # Prefs
 <table>
