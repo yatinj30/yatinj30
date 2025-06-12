@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||" </br>
-Translate: "18.31 The intellect which does not understand what is right and what is wrong, and what should be done and what not, is under the sway of Passion." </br>
+"समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् | न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ||१३-२९||" </br>
+Translate: "13.29 Beholding the Lord in all things equally, his actions do not mar his spiritual life but lead him to the height of Bliss." </br>
 
 # Prefs
 <table>
