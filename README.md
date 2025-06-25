@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"किरीटिनं गदिनं चक्रिणं च तेजोराशिं सर्वतो दीप्तिमन्तम् | पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद् दीप्तानलार्कद्युतिमप्रमेयम् ||११-१७||" </br>
-Translate: "11.17 I see thee with the crown, the sceptre and the discus; a blaze of splendour. Scarce can I gaze on thee, so radiant thou art, glowing like the blazing fire, brilliant as the sun, immeasurable." </br>
+"अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च | न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ||९-२४||" </br>
+Translate: "9.24 I am the willing recipient of sacrifice, and I am its true Lord. But these do not know me in truth, and so they sink back." </br>
 
 # Prefs
 <table>
