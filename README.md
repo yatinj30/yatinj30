@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"जरामरणमोक्षाय मामाश्रित्य यतन्ति ये | ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ||७-२९||" </br>
-Translate: "7.29 Those who make Me their refuge, who strive for liberation from decay and Death, they realise the Supreme Spirit, which is their own real Self, and in which all action finds its consummation." </br>
+"निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामाः | द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैर्- गच्छन्त्यमूढाः पदमव्ययं तत् ||१५-५||" </br>
+Translate: "15.5 The wise attain Eternity when, freed from pride and delusion, they have conquered their love for the things of sense; when, renouncing desire and fixing their gaze on the Self, they have ceased to be tossed to and fro by the opposing sensations, like pleasure and pain." </br>
 
 # Prefs
 <table>
