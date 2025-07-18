@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च | अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||१६-४||" </br>
-Translate: "16.4 Hypocrisy, pride, insolence, cruelty, ignorance belong to him who is born of the godless qualities." </br>
+"न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् | जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ||३-२६||" </br>
+Translate: "3.26 But a wise man should not perturb the minds of the ignorant, who are attached to action; let him perform his own actions in the right spirit, with concentration on Me, thus inspiring all to do the same." </br>
 
 # Prefs
 <table>
