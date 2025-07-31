@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् | स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ||५-२१||" </br>
-Translate: "5.21 He finds happiness in his own Self, and enjoys eternal bliss, whose heart does not yearn for the contacts of earth and whose Self is one with the Everlasting." </br>
+"इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ | एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ||१५-२०||" </br>
+Translate: "15.20 Thus, O Sinless One, I have revealed to thee this most mystic knowledge. He who understands gains wisdom and attains the consummation of life."" </br>
 
 # Prefs
 <table>
