@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः | आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||२-१४||" </br>
-Translate: "2.14 Those external relations which bring cold and heat, pain and happiness, they come and go; they are not permanent. Endure them bravely, O Prince!" </br>
+"देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् | ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||" </br>
+Translate: "17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity." </br>
 
 # Prefs
 <table>
