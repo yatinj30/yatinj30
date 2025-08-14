@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनन्तश्चास्मि नागानां वरुणो यादसामहम् | पितॄणामर्यमा चास्मि यमः संयमतामहम् ||१०-२९||" </br>
-Translate: "10.29 I am the King-python among snakes, I am the Aqueous Principle among those that live in water, I am the Father of fathers, and among rulers I am Death." </br>
+"क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा | भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ||१३-३५||" </br>
+Translate: "13.35 Those who with the eyes of wisdom thus see the difference between Matter and Spirit, and know how to liberate Life from the Law of Nature, they attain the Supreme."" </br>
 
 # Prefs
 <table>
