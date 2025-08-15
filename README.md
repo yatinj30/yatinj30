@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उदासीनवदासीनो गुणैर्यो न विचाल्यते | गुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||१४-२३||" </br>
-Translate: "14.23 He who maintains an attitude of indifference, who is not disturbed by the Qualities, who realises that it is only they who act, and remains calm;" </br>
+"योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः | धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ||१-२३||" </br>
+Translate: "1.23 And gaze over this array of soldiers, eager to please the sinful sons of Dhritarashtra."" </br>
 
 # Prefs
 <table>
