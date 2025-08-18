@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते | तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ||१३-२६||" </br>
-Translate: "13.26 Others again, having no direct knowledge but only hearing from others, nevertheless worship, and they, too, if true to the teachings, cross the sea of death." </br>
+"तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता | भवन्ति सम्पदं दैवीमभिजातस्य भारत ||१६-३||" </br>
+Translate: "16.3 Valour, forgiveness, fortitude, purity, freedom from hate and vanity; these are his who possesses the Godly Qualities, O Arjuna!" </br>
 
 # Prefs
 <table>
