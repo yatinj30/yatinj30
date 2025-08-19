@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते | एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ||१३-२||" </br>
-Translate: "13.2 Lord Shri Krishna replied: O Arjuna! The body of man is the playground of the Self; and That which knows the activities of Matter, sages call the Self." </br>
+"नियतस्य तु संन्यासः कर्मणो नोपपद्यते | मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ||१८-७||" </br>
+Translate: "18.7 It is not right to give up actions which are obligatory; and if they are misunderstood, it is the result of sheer ignorance." </br>
 
 # Prefs
 <table>
