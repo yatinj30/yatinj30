@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नियतस्य तु संन्यासः कर्मणो नोपपद्यते | मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ||१८-७||" </br>
-Translate: "18.7 It is not right to give up actions which are obligatory; and if they are misunderstood, it is the result of sheer ignorance." </br>
+"वेदानां सामवेदोऽस्मि देवानामस्मि वासवः | इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||" </br>
+Translate: "10.22 Of the Vedas I am the Hymns, I am the Electric Force in the Powers of Nature; of the senses I am the Mind; and I am the Intelligence in all that lives." </br>
 
 # Prefs
 <table>
