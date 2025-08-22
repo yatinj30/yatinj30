@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च | न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ||९-२४||" </br>
-Translate: "9.24 I am the willing recipient of sacrifice, and I am its true Lord. But these do not know me in truth, and so they sink back." </br>
+"इन्द्रियार्थेषु वैराग्यमनहंकार एव च | जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ||१३-९||" </br>
+Translate: "13.9 Renunciation of the delights of sense, absence of pride, right understanding of the painful problem of birth and death, of age and sickness;" </br>
 
 # Prefs
 <table>
