@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मां च योऽव्यभिचारेण भक्तियोगेन सेवते | स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||१४-२६||" </br>
-Translate: "14.26 And he who serves Me and only Me, with unfaltering devotion, shall overcome the Qualities, and become One with the Eternal." </br>
+"निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन | पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ||१-३६||" </br>
+Translate: "1.36 My Lord! What happiness can come from the death of these sons of Dhritarashtra? We shall sin if we kill these desperate men." </br>
 
 # Prefs
 <table>
