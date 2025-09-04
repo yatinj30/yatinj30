@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते | कर्म चैव तदर्थीयं सदित्येवाभिधीयते ||१७-२७||" </br>
-Translate: "17.27 Conviction in sacrifice, in austerity and in giving is also called Sat.' So too an action done only for the Lord's sake." </br>
+"नैते सृती पार्थ जानन्योगी मुह्यति कश्चन | तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ||८-२७||" </br>
+Translate: "8.27 O Arjuna! The saint knowing these paths is not confused. Therefore meditate perpetually." </br>
 
 # Prefs
 <table>
