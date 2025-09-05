@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत् | तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी ||२-७०||" </br>
-Translate: "2.70 He attains Peace, into whom desires flow as rivers into the ocean, which though brimming with water remains ever the same; not he whom desire carries away." </br>
+"पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः | पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ||१-१५||" </br>
+Translate: "1.15 Lord Shri Krishna blew his Panchajanya and Arjuna his Devadatta, brave Bheema his renowned shell, Poundra." </br>
 
 # Prefs
 <table>
