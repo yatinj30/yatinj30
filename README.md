@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः | तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ||३-१२||" </br>
-Translate: "3.12 For, fed, on sacrifice, nature will give you all the enjoyment you can desire. But he who enjoys what she gives without returning is, indeed, a robber.'" </br>
+"स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा | कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोपि तत् ||१८-६०||" </br>
+Translate: "18.60 O Arjuna! Thy duty binds thee. From thine own nature has it arisen, and that which in thy delusion thou desire not to do, that very thing thou shalt do. Thou art helpless." </br>
 
 # Prefs
 <table>
