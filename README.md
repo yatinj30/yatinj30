@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ | ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ||३-३||" </br>
-Translate: "3.3 Lord Shri Krishna replied: In this world, as I have said, there is a twofold path, O Sinless One! There is the Path of Wisdom for those who meditate, and the Path of Action for those who work." </br>
+"अनादिमध्यान्तमनन्तवीर्य- मनन्तबाहुं शशिसूर्यनेत्रम् | पश्यामि त्वां दीप्तहुताशवक्त्रं स्वतेजसा विश्वमिदं तपन्तम् ||११-१९||" </br>
+Translate: "11.19 Without beginning, without middle and without end, infinite in power, Thine arms all-embracing, the sun and moon Thine eyes, Thy face beaming with the fire of sacrifice, flooding the whole universe with light." </br>
 
 # Prefs
 <table>
