@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा | कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोपि तत् ||१८-६०||" </br>
-Translate: "18.60 O Arjuna! Thy duty binds thee. From thine own nature has it arisen, and that which in thy delusion thou desire not to do, that very thing thou shalt do. Thou art helpless." </br>
+"श्रीभगवानुवाच | लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ | ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ||३-३||" </br>
+Translate: "3.3 Lord Shri Krishna replied: In this world, as I have said, there is a twofold path, O Sinless One! There is the Path of Wisdom for those who meditate, and the Path of Action for those who work." </br>
 
 # Prefs
 <table>
