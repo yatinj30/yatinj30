@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||" </br>
-Translate: "1.43 By the destruction of our lineage and the pollution of blood, ancient class traditions and family purity alike perish." </br>
+"सञ्जय उवाच | एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् | विसृज्य सशरं चापं शोकसंविग्नमानसः ||१-४७||" </br>
+Translate: "1.47 Sanjaya said: "Having spoken thus, in the midst of the armies, Arjuna sank on the seat of the chariot, casting away his bow and arrow; heartbroken with grief."" </br>
 
 # Prefs
 <table>
