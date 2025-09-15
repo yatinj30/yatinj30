@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ते तं भुक्त्वा स्वर्गलोकं विशालं क्षीणे पुण्ये मर्त्यलोकं विशन्ति | एवं त्रयीधर्ममनुप्रपन्ना गतागतं कामकामा लभन्ते ||९-२१||" </br>
-Translate: "9.21 Yet although they enjoy the spacious glories of Paradise, nevertheless, when their merit is exhausted, they are born again into this world of mortals. They have followed the letter of the scriptures, yet because they have sought but to fulfill their own desires, they must depart and return again and again." </br>
+"सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज | अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ||१८-६६||" </br>
+Translate: "18.66 Give up then thy earthly duties, surrender thyself to Me only. Do not be anxious; I will absolve thee from all thy sin." </br>
 
 # Prefs
 <table>
