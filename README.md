@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा | भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम् ||१३-३५||" </br>
-Translate: "13.35 Those who with the eyes of wisdom thus see the difference between Matter and Spirit, and know how to liberate Life from the Law of Nature, they attain the Supreme."" </br>
+"पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् | व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ||१-३||" </br>
+Translate: "1.3 Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple." </br>
 
 # Prefs
 <table>
