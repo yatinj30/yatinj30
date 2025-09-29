@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च | तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||१४-१३||" </br>
-Translate: "14.13 Darkness, stagnation, folly and infatuation are the result of the dominance of Ignorance, O joy of the Kuru-clan!" </br>
+"सखेति मत्वा प्रसभं यदुक्तं हे कृष्ण हे यादव हे सखेति | अजानता महिमानं तवेदं मया प्रमादात्प्रणयेन वापि ||११-४१||" </br>
+Translate: "11.41 Whatever I have said unto Thee in rashness, taking Thee only for a friend and addressing Thee as O Krishna! O Yadava! O Friend!' in thoughtless familiarity, no understanding Thy greatness;" </br>
 
 # Prefs
 <table>
