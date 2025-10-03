@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा | अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा ||११-१३||" </br>
-Translate: "11.13 In that vision Arjuna saw the universe, with its manifold shapes, all embraced in One, its Supreme Lord." </br>
+"श्रीभगवानुवाच | भूय एव महाबाहो शृणु मे परमं वचः | यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ||१०-१||" </br>
+Translate: "10.1 "Lord Shri Krishna said: Now, O Prince! Listen to My supreme advice, which I give thee for the sake of thy welfare, for thou art My beloved." </br>
 
 # Prefs
 <table>
