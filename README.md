@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः | योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ||१८-३३||" </br>
-Translate: "18.33 The conviction and steady concentration by which the mind, the vitality and the senses are controlled - O Arjuna! They are the product of Purity." </br>
+"न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते | न च संन्यसनादेव सिद्धिं समधिगच्छति ||३-४||" </br>
+Translate: "3.4 No man can attain freedom from activity by refraining from action; nor can he reach perfection by merely refusing to act." </br>
 
 # Prefs
 <table>
