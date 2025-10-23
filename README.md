@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||" </br>
-Translate: "1.14 Then seated in their spacious war chariot, yoked with white horses, Lord Shri Krishna and Arjuna sounded their divine shells." </br>
+"बहिरन्तश्च भूतानामचरं चरमेव च | सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ||१३-१६||" </br>
+Translate: "13.16 It is within all beings, yet outside; motionless yet moving; too subtle to be perceived; far away yet always near." </br>
 
 # Prefs
 <table>
