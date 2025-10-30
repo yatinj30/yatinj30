@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||१८-५||" </br>
-Translate: "18.5 Acts of sacrifice, benevolence and austerity should not be given up but should be performed, for they purify the aspiring soul." </br>
+"न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् | अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ||२-८||" </br>
+Translate: "2.8 For should I attain the monarchy of the visible world, or over the invisible world, it would not drive away the anguish which is now paralysing my senses."" </br>
 
 # Prefs
 <table>
