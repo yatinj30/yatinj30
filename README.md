@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि | प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||३-३३||" </br>
-Translate: "3.33 Even the wise man acts in character with his nature; indeed, all creatures act according to their natures. What is the use of compulsion then?" </br>
+"गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||" </br>
+Translate: "1.30 The bow Gandeeva slips from my hand, and my skin burns. I cannot keep quiet, for my mind is in tumult." </br>
 
 # Prefs
 <table>
