@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||" </br>
-Translate: "18.53 Having abandoned selfishness, power, arrogance, anger and desire, possessing nothing of his own and having attained peace, he is fit to join the Eternal Spirit." </br>
+"यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति | शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ||१२-१७||" </br>
+Translate: "12.17 He who is beyond joy and hate, who neither laments nor desires, to whom good and evil fortunes are the same, such a one is My beloved." </br>
 
 # Prefs
 <table>
