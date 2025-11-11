@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् | क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||२-४३||" </br>
-Translate: "2.43 Consulting only their own desires, they construct their own heaven, devising arduous and complex rites to secure their own pleasure and their own power; and the only result is rebirth." </br>
+"एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः | प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||" </br>
+Translate: "16.9 Thinking thus, these degraded souls, these enemies of mankind - whose intelligence is negligible and whose deeds are monstrous - come into the world only to destroy." </br>
 
 # Prefs
 <table>
