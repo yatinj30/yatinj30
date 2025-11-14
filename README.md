@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः | दम्भाहंकारसंयुक्ताः कामरागबलान्विताः ||१७-५||" </br>
-Translate: "17.5 Those who practise austerities not commanded by scripture, who are slaves to hypocrisy and egotism, who are carried away by the fury of desire and passion," </br>
+"प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः | शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ||६-४१||" </br>
+Translate: "6.41 Having reached the worlds where the righteous dwell, and having remained there for many years, he who has slipped from the path of spirituality will be born again in the family of the pure, benevolent and prosperous." </br>
 
 # Prefs
 <table>
