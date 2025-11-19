@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः | सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||" </br>
-Translate: "14.2 Dwelling in Wisdom and realising My Divinity, they are not born again when the universe is re-created at the beginning of every cycle, nor are they affected when it is dissolved." </br>
+"क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||२-३||" </br>
+Translate: "2.3 O Arjuna! Why give way to unmanliness? O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!" </br>
 
 # Prefs
 <table>
