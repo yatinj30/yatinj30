@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः | मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ||३-४२||" </br>
-Translate: "3.42 It is said that the senses are powerful. But beyond the senses is the mind, beyond the mind is the intellect, and beyond and greater than intellect is He." </br>
+"पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् | कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ||१३-२२||" </br>
+Translate: "13.22 God dwelling in the heart of Nature experiences the Qualities which nature brings forth; and His affinity towards the Qualities is the reason for His living in a good or evil body." </br>
 
 # Prefs
 <table>
