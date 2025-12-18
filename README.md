@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् | कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ||१३-२२||" </br>
-Translate: "13.22 God dwelling in the heart of Nature experiences the Qualities which nature brings forth; and His affinity towards the Qualities is the reason for His living in a good or evil body." </br>
+"श्रीभगवानुवाच | असंशयं महाबाहो मनो दुर्निग्रहं चलम् | अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ||६-३५||" </br>
+Translate: "6.35 Lord Shri Krishna replied: Doubtless, O Mighty One, the mind is fickle and exceedingly difficult to restrain, but, O Son of Kunti, with practice and renunciation it can be done." </br>
 
 # Prefs
 <table>
