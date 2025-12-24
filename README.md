@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् | अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||" </br>
-Translate: "12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved." </br>
+"महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च | इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः ||१३-६||" </br>
+Translate: "13.6 The five great fundamentals (earth, fire, air, water and ether), personality, intellect, the mysterious life force, the ten organs of perception and action, the mind and the five domains of sensation;" </br>
 
 # Prefs
 <table>
