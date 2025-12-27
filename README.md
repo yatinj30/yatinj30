@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन | इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः ||११-५१||" </br>
-Translate: "11.51 Arjuna said: Seeing Thee in Thy gentle human form, my Lord, I am myself again, calm once more." </br>
+"शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः | न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ||१८-१५||" </br>
+Translate: "18.15 Whatever action a man performs, whether by muscular effort or by speech or by thought, and whether it be right or wrong, these five are the essential causes." </br>
 
 # Prefs
 <table>
