@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् | नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ||८-१५||" </br>
-Translate: "8.15 Coming thus unto Me, these great souls go no more to the misery and death of earthly life, for they have gained perfection." </br>
+"दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् | मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||" </br>
+Translate: "10.38 I am the Sceptre of rulers, the Strategy of the conquerors, the Silence of mystery, the Wisdom of the wise." </br>
 
 # Prefs
 <table>
