@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् | यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||" </br>
-Translate: "15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds." </br>
+"बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च | शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ||१८-५१||" </br>
+Translate: "18.51 Guided always by pure reason, bravely restraining himself, renouncing the objects of sense and giving up attachment and hatred;" </br>
 
 # Prefs
 <table>
