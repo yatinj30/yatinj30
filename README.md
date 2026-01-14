@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि | धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ||२-३१||" </br>
-Translate: "2.31 Thou must look at thy duty. Nothing can be more welcome to a soldier than a righteous war. Therefore to waver in this resolve is unworthy, O Arjuna!" </br>
+"श्रीभगवानुवाच | पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः | नानाविधानि दिव्यानि नानावर्णाकृतीनि च ||११-५||" </br>
+Translate: "11.5 Lord Shri Krishna replied: Behold, O Arjuna! My celestial forms, by hundred and thousands, various in kind, in colour and in shape." </br>
 
 # Prefs
 <table>
