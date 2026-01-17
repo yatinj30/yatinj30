@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् | स च यो यत्प्रभावश्च तत्समासेन मे शृणु ||१३-४||" </br>
-Translate: "13.4 What is called Matter, of what it is composed, whence it came, and why it changes, what the Self is, and what Its power - this I will now briefly set forth." </br>
+"यद्यप्येते न पश्यन्ति लोभोपहतचेतसः | कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ||१-३८||" </br>
+Translate: "1.38 Although these men, blinded by greed, see no guilt in destroying their kin, or fighting against their friends," </br>
 
 # Prefs
 <table>
