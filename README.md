@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः | वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||२-५६||" </br>
-Translate: "2.56 The sage, whose mind is unruffled in suffering, whose desire is not roused by enjoyment, who is without attachment, anger or fear - take him to be one who stands at that lofty level." </br>
+"तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् | स च यो यत्प्रभावश्च तत्समासेन मे शृणु ||१३-४||" </br>
+Translate: "13.4 What is called Matter, of what it is composed, whence it came, and why it changes, what the Self is, and what Its power - this I will now briefly set forth." </br>
 
 # Prefs
 <table>
