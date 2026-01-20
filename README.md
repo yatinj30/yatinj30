@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः | आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||२-१४||" </br>
-Translate: "2.14 Those external relations which bring cold and heat, pain and happiness, they come and go; they are not permanent. Endure them bravely, O Prince!" </br>
+"यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव | न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ||६-२||" </br>
+Translate: "6.2 O Arjuna! Renunciation is in fact what is called Right Action. No one can become spiritual who has not renounced all desire." </br>
 
 # Prefs
 <table>
