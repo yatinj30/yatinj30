@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः | नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ||६-११||" </br>
-Translate: "6.11 Having chosen a holy place, let him sit in a firm posture on a seat, neither too high nor too low, and covered with a grass mat, a deer skin and a cloth." </br>
+"प्रसादे सर्वदुःखानां हानिरस्योपजायते | प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ||२-६५||" </br>
+Translate: "2.65 Having attained Peace, he becomes free from misery; for when the mind gains peace, right discrimination follows." </br>
 
 # Prefs
 <table>
