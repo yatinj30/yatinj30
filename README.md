@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् | अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||" </br>
-Translate: "12.5 But they who thus fix their attention on the Absolute and Impersonal encounter greater hardships, for it is difficult for those who possess a body to realise Me as without one." </br>
+"काश्यश्च परमेष्वासः शिखण्डी च महारथः | धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ||१-१७||" </br>
+Translate: "1.17 And the Maharaja of Benares, the great archer, Shikhandi, the great soldier, Dhrishtayumna, Virata and Satyaki, the invincible," </br>
 
 # Prefs
 <table>
