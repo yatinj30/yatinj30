@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवं परम्पराप्राप्तमिमं राजर्षयो विदुः | स कालेनेह महता योगो नष्टः परन्तप ||४-२||" </br>
-Translate: "4.2 The Divine Kings knew it, for it was their tradition. Then, after a long time, at last it was forgotten." </br>
+"मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय | मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||७-७||" </br>
+Translate: "7.7 O Arjuna! There is nothing higher than Me; all is strung upon Me as rows of pearls upon a thread." </br>
 
 # Prefs
 <table>
