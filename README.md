@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् | विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ||१८-५३||" </br>
-Translate: "18.53 Having abandoned selfishness, power, arrogance, anger and desire, possessing nothing of his own and having attained peace, he is fit to join the Eternal Spirit." </br>
+"नियतं सङ्गरहितमरागद्वेषतः कृतम् | अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ||१८-२३||" </br>
+Translate: "18.23 An obligatory action done by one who is disinterested, who neither likes nor dislikes it, and gives no thought to the consequences that follow, such an action is Pure." </br>
 
 # Prefs
 <table>
