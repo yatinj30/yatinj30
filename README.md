@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप | कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ||१८-४१||" </br>
-Translate: "18.41 O Arjuna! The duties of spiritual teachers, the soldiers, the traders and the servants have all been fixed according to the dominant Quality in their nature." </br>
+"कर्षयन्तः शरीरस्थं भूतग्राममचेतसः | मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ||१७-६||" </br>
+Translate: "17.6 They are ignorant. They torment the organs of the body; and they harass Me also, Who lives within. Know that they are devoted to evil." </br>
 
 # Prefs
 <table>
