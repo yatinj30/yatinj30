@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आख्याहि मे को भवानुग्ररूपो नमोऽस्तु ते देववर प्रसीद | विज्ञातुमिच्छामि भवन्तमाद्यं न हि प्रजानामि तव प्रवृत्तिम् ||११-३१||" </br>
-Translate: "11.31 Tell me then who Thou art, that wearest this dreadful Form? I bow before Thee, O Mighty One! Have mercy, I pray, and let me see Thee as Thou wert at first. I do not know what Thou intendest." </br>
+"चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः | तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ||४-१३||" </br>
+Translate: "4.13 The four divisions of society (the wise, the soldier, the merchant, the labourer) were created by Me, according to the natural distribution of Qualities and instincts. I am the author of them, though I Myself do no action, and am changeless." </br>
 
 # Prefs
 <table>
