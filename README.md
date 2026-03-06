@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि | मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||१६-२०||" </br>
-Translate: "16.20 So reborn, they spend life after life, enveloped in delusion. And they never reach Me, O Prince, but degenerate into still lower forms of life." </br>
+"सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी | नवद्वारे पुरे देही नैव कुर्वन्न कारयन् ||५-१३||" </br>
+Translate: "5.13 Mentally renouncing all actions, the self-controlled soul enjoys bliss in this body, the city of the nine gates, neither doing anything himself nor causing anything to be done." </br>
 
 # Prefs
 <table>
