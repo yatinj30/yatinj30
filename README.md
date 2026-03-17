@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः | स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ||१८-४५||" </br>
-Translate: "5.10 He who dedicates his actions to the Spirit, without any personal attachment to them, he is no more tainted by sin than the water lily is wetted by water." </br>
+"यदक्षरं वेदविदो वदन्ति विशन्ति यद्यतयो वीतरागाः | यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण प्रवक्ष्ये ||८-११||" </br>
+Translate: "8.11 Now I will speak briefly of the imperishable goal, proclaimed by those versed in the scriptures, which the mystic attains when free from passion, and for which he is content to undergo the vow of continence." </br>
 
 # Prefs
 <table>
