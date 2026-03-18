@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् | तदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||" </br>
-Translate: "14.14 When Purity prevails, the soul on quitting the body passes on to the pure regions where live those who know the Highest." </br>
+"संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः | योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ||५-६||" </br>
+Translate: "5.6 Without concentration, O Mighty Man, renunciation is difficult. But the sage who is always meditating on the Divine, before long shall attain the Absolute." </br>
 
 # Prefs
 <table>
