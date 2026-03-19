@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः | निबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||१४-५||" </br>
-Translate: "14.5 Purity, Passion and Ignorance are the Qualities which the Law of nature bringeth forth. They fetter the free Spirit in all beings." </br>
+"अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः | नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ||१-९||" </br>
+Translate: "1.9 And many others, all ready to die for my sake; all armed, all skilled in war." </br>
 
 # Prefs
 <table>
