@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अनेकबाहूदरवक्त्रनेत्रं पश्यामि त्वां सर्वतोऽनन्तरूपम् | नान्तं न मध्यं न पुनस्तवादिं पश्यामि विश्वेश्वर विश्वरूप ||११-१६||" </br>
-Translate: "11.16 I see Thee, infinite in form, with, as it were, faces, eyes and limbs everywhere; no beginning, no middle, no end; O Thou Lord of the Universe, Whose Form is universal!" </br>
+"न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते | न च संन्यसनादेव सिद्धिं समधिगच्छति ||३-४||" </br>
+Translate: "3.4 No man can attain freedom from activity by refraining from action; nor can he reach perfection by merely refusing to act." </br>
 
 # Prefs
 <table>
