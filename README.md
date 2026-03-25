@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः | अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ||६-६||" </br>
-Translate: "6.6 To him who has conquered his lower nature by Its help, the Self is a friend, but to him who has not done so, It is an enemy." </br>
+"देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् | ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ||१७-१४||" </br>
+Translate: "17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity." </br>
 
 # Prefs
 <table>
