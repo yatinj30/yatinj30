@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न वेदयज्ञाध्ययनैर्न दानैर्- न च क्रियाभिर्न तपोभिरुग्रैः | एवंरूपः शक्य अहं नृलोके द्रष्टुं त्वदन्येन कुरुप्रवीर ||११-४८||" </br>
-Translate: "11.48 Not by study of the scriptures, not by sacrifice or gift, not by ritual or rigorous austerity, is it possible for man on earth to see what thou hast seen, O thou foremost hero of the Kuru-clan!" </br>
+"किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः | तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ||४-१६||" </br>
+Translate: "4.16 What is action and what is inaction? It is a question which has bewildered the wise. But I will declare unto thee the philosophy of action, and knowing it, thou shalt be free from evil." </br>
 
 # Prefs
 <table>
