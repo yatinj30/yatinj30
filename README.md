@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् | यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||" </br>
-Translate: "15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds." </br>
+"न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् | जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ||३-२६||" </br>
+Translate: "3.26 But a wise man should not perturb the minds of the ignorant, who are attached to action; let him perform his own actions in the right spirit, with concentration on Me, thus inspiring all to do the same." </br>
 
 # Prefs
 <table>
