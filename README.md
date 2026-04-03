@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे | कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ||४-३२||" </br>
-Translate: "4.32 In this way other sacrifices too may be undergone for the Spirit's sake. Know thou that they all depend on action. Knowing this, thou shalt be free." </br>
+"ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते | ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ||१३-१८||" </br>
+Translate: "13.18 It is the Light of lights, beyond the reach of darkness; the Wisdom, the only thing that is worth knowing or that wisdom can teach; the Presence in the hearts of all." </br>
 
 # Prefs
 <table>
