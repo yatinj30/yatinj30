@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः | लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ||५-१०||" </br>
-Translate: "5.10 He who dedicates his actions to the Spirit, without any personal attachment to them, he is no more tainted by sin than the water lily is wetted by water." </br>
+"तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः | दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ||१७-२५||" </br>
+Translate: "17.25 Those who desire deliverance begin their acts of sacrifice, austerity or gift with the word Tat' (meaning That'), without thought of reward." </br>
 
 # Prefs
 <table>
