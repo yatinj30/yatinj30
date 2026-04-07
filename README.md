@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते | स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ||२-४०||" </br>
-Translate: "2.40 On this Path, endeavour is never wasted, nor can it ever be repressed. Even a very little of its practice protects one from great danger." </br>
+"अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः | निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ||२-३६||" </br>
+Translate: "2.36 Thine enemies will spread scandal and mock at thy courage. Can anything be more humiliating?" </br>
 
 # Prefs
 <table>
