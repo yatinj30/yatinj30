@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः | यस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ||६-२२||" </br>
-Translate: "6.22 Finding That, he will realise that there is no possession so precious. And when once established here, no calamity can disturb him." </br>
+"नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति | गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ||१४-१९||" </br>
+Translate: "14.19 As soon as man understands that it is only the Qualities which act and nothing else, and perceives That which is beyond, he attains My divine nature." </br>
 
 # Prefs
 <table>
