@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"त्वमादिदेवः पुरुषः पुराणस्- त्वमस्य विश्वस्य परं निधानम् | वेत्तासि वेद्यं च परं च धाम त्वया ततं विश्वमनन्तरूप ||११-३८||" </br>
-Translate: "11.38 Thou art the Primal God, the Ancient, the Supreme Abode of this universe, the Knower, the Knowledge and the Final Home. Thou fillest everything. Thy form is infinite." </br>
+"तानहं द्विषतः क्रुरान्संसारेषु नराधमान् | क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||" </br>
+Translate: "16.19 Those who thus hate Me, who are cruel, the dregs of mankind, I condemn them to a continuous, miserable and godless rebirth." </br>
 
 # Prefs
 <table>
