@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तानहं द्विषतः क्रुरान्संसारेषु नराधमान् | क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||१६-१९||" </br>
-Translate: "16.19 Those who thus hate Me, who are cruel, the dregs of mankind, I condemn them to a continuous, miserable and godless rebirth." </br>
+"बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते | वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||७-१९||" </br>
+Translate: "7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find." </br>
 
 # Prefs
 <table>
