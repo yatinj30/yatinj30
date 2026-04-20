@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन | ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ||४-३७||" </br>
-Translate: "4.37 As the kindled fire consumes the fuel, so, O Arjuna, in the flame of wisdom the embers of action are burnt to ashes." </br>
+"दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः | उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ||१-४३||" </br>
+Translate: "1.43 By the destruction of our lineage and the pollution of blood, ancient class traditions and family purity alike perish." </br>
 
 # Prefs
 <table>
