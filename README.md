@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् | तदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||" </br>
-Translate: "14.14 When Purity prevails, the soul on quitting the body passes on to the pure regions where live those who know the Highest." </br>
+"यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः | प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||" </br>
+Translate: "8.23 *Now I will tell thee, O Arjuna, of the times at which, if the mystics go forth, they do not return, and at which they go forth only to return." </br>
 
 # Prefs
 <table>
