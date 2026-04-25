@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् | विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ||१३-२८||" </br>
-Translate: "13.28 He who can see the Supreme Lord in all beings, the Imperishable amidst the perishable, he it is who really sees." </br>
+"अर्जुन उवाच | योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन | एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||" </br>
+Translate: "6.33 Arjuna said: I do not see how I can attain this state of equanimity which Thou has revealed, owing to the restlessness of my mind." </br>
 
 # Prefs
 <table>
