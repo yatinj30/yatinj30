@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अर्जुन उवाच | योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन | एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ||६-३३||" </br>
-Translate: "6.33 Arjuna said: I do not see how I can attain this state of equanimity which Thou has revealed, owing to the restlessness of my mind." </br>
+"अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् | भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ||१८-१२||" </br>
+Translate: "18.12 For those who cannot renounce all desire, the fruit of action hereafter is threefold - good, evil, and partly good and partly evil. But for him who has renounced, there is none." </br>
 
 # Prefs
 <table>
