@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् | यं प्राप्य न निवर्तन्ते तद्धाम परमं मम ||८-२१||" </br>
-Translate: "8.21 The wise say that the Unmanifest and Indestructible is the highest goal of all; when once That is reached, there is no return. That is My Blessed Home." </br>
+"समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः | ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||" </br>
+Translate: "9.29 I am the same to all beings. I favour none, and I hate none. But those who worship Me devotedly, they live in Me, and I in them." </br>
 
 # Prefs
 <table>
