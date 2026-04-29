@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः | ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ||१८-५५||" </br>
-Translate: "18.55 By such devotion, he sees Me, who I am and what I am; and thus realising the Truth, he enters My Kingdom." </br>
+"अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् | यं प्राप्य न निवर्तन्ते तद्धाम परमं मम ||८-२१||" </br>
+Translate: "8.21 The wise say that the Unmanifest and Indestructible is the highest goal of all; when once That is reached, there is no return. That is My Blessed Home." </br>
 
 # Prefs
 <table>
