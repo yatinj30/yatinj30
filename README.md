@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः | ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ||९-२९||" </br>
-Translate: "9.29 I am the same to all beings. I favour none, and I hate none. But those who worship Me devotedly, they live in Me, and I in them." </br>
+"इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत | सर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ||७-२७||" </br>
+Translate: "7.27 O brave Arjuna! Man lives in a fairy world, deceived by the glamour of opposite sensations, infatuated by desire and aversion." </br>
 
 # Prefs
 <table>
