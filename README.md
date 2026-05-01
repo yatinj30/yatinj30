@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् | योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ||१८-७५||" </br>
-Translate: "18.75 Through the blessing of the sage Vyasa, I listened to this secret and noble science from the lips of its Master, the Lord Shri Krishna." </br>
+"देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा | तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ||२-१३||" </br>
+Translate: "2.13 As the soul experiences in this body infancy, youth and old age, so finally it passes into another. The wise have no delusion about this." </br>
 
 # Prefs
 <table>
