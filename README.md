@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा | तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ||२-१३||" </br>
-Translate: "2.13 As the soul experiences in this body infancy, youth and old age, so finally it passes into another. The wise have no delusion about this." </br>
+"त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् | मोहितं नाभिजानाति मामेभ्यः परमव्ययम् ||७-१३||" </br>
+Translate: "7.13 The inhabitants of the world, misled by those natures which the Qualities have engendered, know not that I am higher than them all, and that I do not change." </br>
 
 # Prefs
 <table>
