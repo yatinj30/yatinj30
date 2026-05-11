@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः | सर्वारम्भपरित्यागी गुणातीतः स उच्यते ||१४-२५||" </br>
-Translate: "14.25 Who looks equally upon honour and dishonour, loves friends and foes alike, abandons all initiative, such is he who transcends the Qualities." </br>
+"समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् | विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ||१३-२८||" </br>
+Translate: "13.28 He who can see the Supreme Lord in all beings, the Imperishable amidst the perishable, he it is who really sees." </br>
 
 # Prefs
 <table>
