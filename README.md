@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते | पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ||१३-२१||" </br>
-Translate: "13.21 Nature is the Law which generates cause and effect; God is the source of the enjoyment of all pleasure and pain." </br>
+"सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि | ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ||६-२९||" </br>
+Translate: "6.29 He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye;" </br>
 
 # Prefs
 <table>
