@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् | कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ||९-७||" </br>
-Translate: "9.7 All beings, O Arjuna, return at the close of every cosmic cycle into the realm of Nature, which is a part of Me, and at the beginning of the next I send them forth again." </br>
+"कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते | पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ||१३-२१||" </br>
+Translate: "13.21 Nature is the Law which generates cause and effect; God is the source of the enjoyment of all pleasure and pain." </br>
 
 # Prefs
 <table>
