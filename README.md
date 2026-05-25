@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् | सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ||२-३४||" </br>
-Translate: "2.34 Men will talk forever of thy disgrace; and to the noble, dishonour is worse than death." </br>
+"अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् | परं भावमजानन्तो मम भूतमहेश्वरम् ||९-११||" </br>
+Translate: "9.11 Fools disregard Me, seeing Me clad in human form. They know not that in My higher nature I am the Lord-God of all." </br>
 
 # Prefs
 <table>
