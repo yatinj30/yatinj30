@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः | गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ||५-१७||" </br>
-Translate: "5.17 Meditating on the Divine, having faith in the Divine, concentrating on the Divine and losing themselves in the Divine, their sins dissolved in wisdom, they go whence there is no return." </br>
+"काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः | क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ||४-१२||" </br>
+Translate: "4.12 Those who look for success, worship the Powers; and in this world their actions bear immediate fruit." </br>
 
 # Prefs
 <table>
