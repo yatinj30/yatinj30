@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् | अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ||१८-२२||" </br>
-Translate: "18.22 But that which clings blindly to one idea as if it were all, without logic, truth or insight, that has its origin in Darkness." </br>
+"अनन्यचेताः सततं यो मां स्मरति नित्यशः | तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ||८-१४||" </br>
+Translate: "8.14 To him who thinks constantly of Me, and of nothing else, to such an ever-faithful devotee, O Arjuna, am I ever accessible." </br>
 
 # Prefs
 <table>
