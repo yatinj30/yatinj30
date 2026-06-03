@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् | रजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||१४-१६||" </br>
-Translate: "14.16 They say the fruit of a meritorious action is spotless and full of purity; the outcome of Passion is misery, and of Ignorance darkness." </br>
+"जरामरणमोक्षाय मामाश्रित्य यतन्ति ये | ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ||७-२९||" </br>
+Translate: "7.29 Those who make Me their refuge, who strive for liberation from decay and Death, they realise the Supreme Spirit, which is their own real Self, and in which all action finds its consummation." </br>
 
 # Prefs
 <table>
