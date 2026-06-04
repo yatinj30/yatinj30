@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अध्येष्यते च य इमं धर्म्यं संवादमावयोः | ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ||१८-७०||" </br>
-Translate: "18.70 He who will study this spiritual discourse of ours, I assure thee, he shall thereby worship Me at the altar of Wisdom." </br>
+"इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् | मम देहे गुडाकेश यच्चान्यद् द्रष्टुमिच्छसि ||११-७||" </br>
+Translate: "11.7 Here in Me living as one, O Arjuna, behold the whole universe, movable and immovable, and anything else that thou wouldst see!" </br>
 
 # Prefs
 <table>
