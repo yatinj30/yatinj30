@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् | अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ||१२-५||" </br>
-Translate: "12.5 But they who thus fix their attention on the Absolute and Impersonal encounter greater hardships, for it is difficult for those who possess a body to realise Me as without one." </br>
+"वेदानां सामवेदोऽस्मि देवानामस्मि वासवः | इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ||१०-२२||" </br>
+Translate: "10.22 Of the Vedas I am the Hymns, I am the Electric Force in the Powers of Nature; of the senses I am the Mind; and I am the Intelligence in all that lives." </br>
 
 # Prefs
 <table>
