@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया | त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम् ||११-२||" </br>
-Translate: "11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty." </br>
+"न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् | स्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः ||५-२०||" </br>
+Translate: "5.20 He who knows and lives in the Absolute remains unmoved and unperturbed; he is not elated by pleasure or depressed by pain." </br>
 
 # Prefs
 <table>
