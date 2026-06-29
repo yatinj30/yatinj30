@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तत्रैवं सति कर्तारमात्मानं केवलं तु यः | पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||१८-१६||" </br>
-Translate: "18.16 But the fool who supposes, because of his immature judgment, that it is his own Self alone that acts, he perverts the truth and does not see rightly." </br>
+"यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् | यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ||१५-११||" </br>
+Translate: "15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds." </br>
 
 # Prefs
 <table>
