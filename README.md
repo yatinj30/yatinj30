@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना | न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ||२-६६||" </br>
-Translate: "2.66 Right discrimination is not for him who cannot concentrate. Without concentration, there cannot be meditation; he who cannot meditate must not expect peace; and without peace, how can anyone expect happiness?" </br>
+"यथा नदीनां बहवोऽम्बुवेगाः समुद्रमेवाभिमुखा द्रवन्ति | तथा तवामी नरलोकवीरा विशन्ति वक्त्राण्यभिविज्वलन्ति ||११-२८||" </br>
+Translate: "11.28 As rivers in flood surge furiously to the ocean, so these heroes, the greatest among men, fling themselves into Thy flaming mouths." </br>
 
 # Prefs
 <table>
