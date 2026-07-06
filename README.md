@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् | अयुक्तः कामकारेण फले सक्तो निबध्यते ||५-१२||" </br>
-Translate: "5.12 Having abandoned the fruit of action, he wins eternal peace. Others unacquainted with spirituality, led by desire and clinging to the benefit which they think will follow their actions, become entangled in them." </br>
+"तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् | अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ||१२-१९||" </br>
+Translate: "12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved." </br>
 
 # Prefs
 <table>
