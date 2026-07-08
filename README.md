@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः | अनेकजन्मसंसिद्धस्ततो याति परां गतिम् ||६-४५||" </br>
-Translate: "6.45 Then after many lives, the student of spirituality, who earnestly strives, and whose sins are absolved, attains perfection and reaches the Supreme." </br>
+"गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते | न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ||१-३०||" </br>
+Translate: "1.30 The bow Gandeeva slips from my hand, and my skin burns. I cannot keep quiet, for my mind is in tumult." </br>
 
 # Prefs
 <table>
