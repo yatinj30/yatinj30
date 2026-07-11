@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"नाहं प्रकाशः सर्वस्य योगमायासमावृतः | मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||७-२५||" </br>
-Translate: "7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable." </br>
+"यथा नदीनां बहवोऽम्बुवेगाः समुद्रमेवाभिमुखा द्रवन्ति | तथा तवामी नरलोकवीरा विशन्ति वक्त्राण्यभिविज्वलन्ति ||११-२८||" </br>
+Translate: "11.28 As rivers in flood surge furiously to the ocean, so these heroes, the greatest among men, fling themselves into Thy flaming mouths." </br>
 
 # Prefs
 <table>
