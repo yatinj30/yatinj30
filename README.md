@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् | न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ||१३-२९||" </br>
-Translate: "13.29 Beholding the Lord in all things equally, his actions do not mar his spiritual life but lead him to the height of Bliss." </br>
+"प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये | बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ||१८-३०||" </br>
+Translate: "18.30 That intellect which understands the creation and dissolution of life, what actions should be done and what not, which discriminates between fear and fearlessness, bondage and deliverance, that is Pure." </br>
 
 # Prefs
 <table>
