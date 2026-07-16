@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"पवनः पवतामस्मि रामः शस्त्रभृतामहम् | झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ||१०-३१||" </br>
-Translate: "10.31 I am the Wind among purifiers, the King Rama among warriors; I am the Crocodile among the fishes, and I am the Ganges among rivers." </br>
+"अर्जुन उवाच | किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम | अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ||८-१||" </br>
+Translate: "-" </br>
 
 # Prefs
 <table>
