@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः | भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ||९-१३||" </br>
-Translate: "9.13 But the Great Souls, O Arjuna! Filled with My Divine Spirit, they worship Me, they fix their minds on Me and on Me alone, for they know that I am the imperishable Source of being." </br>
+"अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् | इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||" </br>
+Translate: "17.12 Sacrifice which is performed for the sake of its results, or for self-glorification - that, O best of Aryans, is the product of Passion." </br>
 
 # Prefs
 <table>
