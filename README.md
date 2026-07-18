@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् | इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ||१७-१२||" </br>
-Translate: "17.12 Sacrifice which is performed for the sake of its results, or for self-glorification - that, O best of Aryans, is the product of Passion." </br>
+"यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन | ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ||४-३७||" </br>
+Translate: "4.37 As the kindled fire consumes the fuel, so, O Arjuna, in the flame of wisdom the embers of action are burnt to ashes." </br>
 
 # Prefs
 <table>
