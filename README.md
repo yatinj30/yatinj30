@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः | प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ||१७-४||" </br>
-Translate: "17.4 The Pure worship the true God; the Passionate, the powers of wealth and magic; the Ignorant, the spirits of the dead and of the lower orders of nature." </br>
+"नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप | एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ||१०-४०||" </br>
+Translate: "10.40 O Arjuna! The aspects of My divine life are endless. I have mentioned but a few by way of illustration." </br>
 
 # Prefs
 <table>
