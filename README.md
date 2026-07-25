@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तानि सर्वाणि संयम्य युक्त आसीत मत्परः | वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ||२-६१||" </br>
-Translate: "2.61 Restraining them all, let him meditate steadfastly on Me; for who thus conquers his senses achieves perfection." </br>
+"असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् | अपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||" </br>
+Translate: "16.8 They say the universe is an accident with no purpose and no God. Life is created by sexual union, a product of lust and nothing else." </br>
 
 # Prefs
 <table>
