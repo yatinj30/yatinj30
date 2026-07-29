@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् | श्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||" </br>
-Translate: "17.13 Sacrifice that is contrary to scriptural command, that is unaccompanied by prayers or gifts of food or money, and is without faith - that is the product of Ignorance." </br>
+"श्रीभगवानुवाच | अनाश्रितः कर्मफलं कार्यं कर्म करोति यः | स संन्यासी च योगी च न निरग्निर्न चाक्रियः ||६-१||" </br>
+Translate: "6.1 "Lord Shri Krishna said: He who acts because it is his duty, not thinking of the consequences, is really spiritual and a true ascetic; and not he who merely observes rituals or who shuns all action." </br>
 
 # Prefs
 <table>
