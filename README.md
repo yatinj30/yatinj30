@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः | योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ||५-६||" </br>
-Translate: "5.6 Without concentration, O Mighty Man, renunciation is difficult. But the sage who is always meditating on the Divine, before long shall attain the Absolute." </br>
+"श्रीभगवानुवाच | संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ | तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ||५-२||" </br>
+Translate: "5.2 Lord Shri Krishna replied: Renunciation of action and the path of right action both lead to the highest; of the two, right action is the better." </br>
 
 # Prefs
 <table>
