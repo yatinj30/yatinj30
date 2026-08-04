@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः | प्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ||१७-२४||" </br>
-Translate: "17.24 Therefore all acts of sacrifice, gifts and austerities, prescribed by the scriptures, are always begun by those who understand the Spirit with the word Om." </br>
+"संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः | योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ||५-६||" </br>
+Translate: "5.6 Without concentration, O Mighty Man, renunciation is difficult. But the sage who is always meditating on the Divine, before long shall attain the Absolute." </br>
 
 # Prefs
 <table>
