@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"वीतरागभयक्रोधा मन्मया मामुपाश्रिताः | बहवो ज्ञानतपसा पूता मद्भावमागताः ||४-१०||" </br>
-Translate: "4.10 Many have merged their existences in Mine, being freed from desire, fear and anger, filled always with Me and purified by the illuminating flame of self-abnegation." </br>
+"निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||" </br>
+Translate: "1.31 The omens are adverse; what good can come from the slaughter of my people on this battlefield?" </br>
 
 # Prefs
 <table>
