@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"निमित्तानि च पश्यामि विपरीतानि केशव | न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ||१-३१||" </br>
-Translate: "1.31 The omens are adverse; what good can come from the slaughter of my people on this battlefield?" </br>
+"यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः | भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ||३-१३||" </br>
+Translate: "3.13 The sages who enjoy the food that remains after the sacrifice is made are freed from all sin; but the selfish who spread their feast only for themselves feed on sin only." </br>
 
 # Prefs
 <table>
