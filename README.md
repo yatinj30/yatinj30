@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||" </br>
-Translate: "18.71 Yea, he who listens to it with faith and without doubt, even he, freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds." </br>
+"यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् | यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ||१८-५||" </br>
+Translate: "18.5 Acts of sacrifice, benevolence and austerity should not be given up but should be performed, for they purify the aspiring soul." </br>
 
 # Prefs
 <table>
