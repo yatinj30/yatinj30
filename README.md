@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः | प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||१६-९||" </br>
-Translate: "16.9 Thinking thus, these degraded souls, these enemies of mankind - whose intelligence is negligible and whose deeds are monstrous - come into the world only to destroy." </br>
+"श्रद्धावाननसूयश्च शृणुयादपि यो नरः | सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ||१८-७१||" </br>
+Translate: "18.71 Yea, he who listens to it with faith and without doubt, even he, freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds." </br>
 
 # Prefs
 <table>
