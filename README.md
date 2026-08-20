@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः | प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः | हृषीकेशं तदा वाक्यमिदमाह महीपते ||१-२०||" </br>
-Translate: "1.20 Then beholding the sons of Dhritarashtra, drawn up on the battle- field, ready to fight, Arjuna, whose flag bore the Hanuman," </br>
+"तत्रैवं सति कर्तारमात्मानं केवलं तु यः | पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ||१८-१६||" </br>
+Translate: "18.16 But the fool who supposes, because of his immature judgment, that it is his own Self alone that acts, he perverts the truth and does not see rightly." </br>
 
 # Prefs
 <table>
