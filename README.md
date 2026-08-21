@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः | अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ||३-१६||" </br>
-Translate: "3.16 Thus he who does not help the revolving wheel of sacrifice, but instead leads a sinful life, rejoicing in the gratification of his senses, O Arjuna, he breathes in vain." </br>
+"यत्तदग्रे विषमिव परिणामेऽमृतोपमम् | तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ||१८-३७||" </br>
+Translate: "18.37 Which at first seems like poison but afterwards acts like nectar - that pleasure is Pure, for it is born of Wisdom." </br>
 
 # Prefs
 <table>
