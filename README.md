@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते | तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ||२-६७||" </br>
-Translate: "2.67 As a ship at sea is tossed by the tempest, so the reason is carried away by the mind when preyed upon by straying senses." </br>
+"श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः | अफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ||१७-१७||" </br>
+Translate: "17.17 These threefold austerities performed with faith, and without thought of reward, may truly be accounted Pure." </br>
 
 # Prefs
 <table>
