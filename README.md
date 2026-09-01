@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह | सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते ||१३-२४||" </br>
-Translate: "13.24 He who understands God and Nature along with her qualities, whatever be his condition in life, he comes not again to earth." </br>
+"कर्मणैव हि संसिद्धिमास्थिता जनकादयः | लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ||३-२०||" </br>
+Translate: "3.20 King Janaka and others attained perfection through action alone. Even for the sake of enlightening the world, it is thy duty to act;" </br>
 
 # Prefs
 <table>
