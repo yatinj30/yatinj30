@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः | मनसैवेन्द्रियग्रामं विनियम्य समन्ततः ||६-२४||" </br>
-Translate: "6.24 Renouncing every desire which imagination can conceive, controlling the senses at every point by the power of mind;" </br>
+"सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् | सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||१८-४८||" </br>
+Translate: "18.48 The duty that of itself falls to one's lot should not be abandoned, though it may have its defects. All acts are marred by defects, as fire is obscured by smoke." </br>
 
 # Prefs
 <table>
