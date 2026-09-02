@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् | सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ||१८-४८||" </br>
-Translate: "18.48 The duty that of itself falls to one's lot should not be abandoned, though it may have its defects. All acts are marred by defects, as fire is obscured by smoke." </br>
+"भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः | येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ||२-३५||" </br>
+Translate: "2.35 Great generals will think that thou hast fled from the battlefield through cowardice; though once honoured thou wilt seem despicable." </br>
 
 # Prefs
 <table>
