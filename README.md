@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"एवं परम्पराप्राप्तमिमं राजर्षयो विदुः | स कालेनेह महता योगो नष्टः परन्तप ||४-२||" </br>
-Translate: "4.2 The Divine Kings knew it, for it was their tradition. Then, after a long time, at last it was forgotten." </br>
+"अनादिमध्यान्तमनन्तवीर्य- मनन्तबाहुं शशिसूर्यनेत्रम् | पश्यामि त्वां दीप्तहुताशवक्त्रं स्वतेजसा विश्वमिदं तपन्तम् ||११-१९||" </br>
+Translate: "11.19 Without beginning, without middle and without end, infinite in power, Thine arms all-embracing, the sun and moon Thine eyes, Thy face beaming with the fire of sacrifice, flooding the whole universe with light." </br>
 
 # Prefs
 <table>
