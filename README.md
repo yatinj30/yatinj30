@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि | प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ||३-३३||" </br>
-Translate: "3.33 Even the wise man acts in character with his nature; indeed, all creatures act according to their natures. What is the use of compulsion then?" </br>
+"कृपया परयाविष्टो विषीदन्निदमब्रवीत् | अर्जुन उवाच | दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ||१-२८||" </br>
+Translate: "1.28 And his heart melted with pity and sadly he spoke: O my Lord! When I see all these, my own people, thirsting for battle," </br>
 
 # Prefs
 <table>
