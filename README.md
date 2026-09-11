@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् | ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ||७-२८||" </br>
-Translate: "7.28 But those who act righteously, in whom sin has been destroyed, who are free from the infatuation of the conflicting emotions, they worship Me with firm resolution." </br>
+"ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ | माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ||१-१४||" </br>
+Translate: "1.14 Then seated in their spacious war chariot, yoked with white horses, Lord Shri Krishna and Arjuna sounded their divine shells." </br>
 
 # Prefs
 <table>
