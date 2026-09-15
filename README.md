@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे | प्राणापानगती रुद्ध्वा प्राणायामपरायणाः ||४-२९||" </br>
-Translate: "4.29 There are some who practise control of the Vital Energy and govern the subtle forces of Prana and Apana, thereby sacrificing their Prana unto Apana, or their Apana unto Prana." </br>
+"एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः | आचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||१६-२२||" </br>
+Translate: "16.22 These are the gates which lead to darkness; if a man avoid them he will ensure his own welfare, and in the end will attain his liberation." </br>
 
 # Prefs
 <table>
