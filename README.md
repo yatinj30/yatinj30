@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः | न शौचं नापि चाचारो न सत्यं तेषु विद्यते ||१६-७||" </br>
-Translate: "16.7 The godless do not know how to act or how to renounce. They have neither purity nor truth. They do not understand the right principles of conduct." </br>
+"असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् | अपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||१६-८||" </br>
+Translate: "16.8 They say the universe is an accident with no purpose and no God. Life is created by sexual union, a product of lust and nothing else." </br>
 
 # Prefs
 <table>
