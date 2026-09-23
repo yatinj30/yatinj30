@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"न च मां तानि कर्माणि निबध्नन्ति धनञ्जय | उदासीनवदासीनमसक्तं तेषु कर्मसु ||९-९||" </br>
-Translate: "9.9 But these acts of mine do not bind Me. I remain outside and unattached." </br>
+"श्रीभगवानुवाच | अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे | गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ||२-११||" </br>
+Translate: "2.11 Lord Shri Krishna said: Why grieve for those for whom no grief is due, and yet profess wisdom? The wise grieve neither for the dead nor the living." </br>
 
 # Prefs
 <table>
