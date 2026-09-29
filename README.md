@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् | आस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ||७-१८||" </br>
-Translate: "7.18 Noble-minded are they all, but the wise man I hold as my own Self; for he, remaining always at peace with Me, makes me his final goal." </br>
+"अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||" </br>
+Translate: "1.4 In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;" </br>
 
 # Prefs
 <table>
