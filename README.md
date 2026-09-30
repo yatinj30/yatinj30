@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः | भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ||९-२५||" </br>
-Translate: "9.25 The votaries of the lesser Powers go to them; the devotees of spirits go to them; they who worship the Powers of Darkness, to such Powers shall they go; and so, too, those who worship Me shall come to Me." </br>
+"मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः | निर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ||११-५५||" </br>
+Translate: "11.55 He whose every action is done for My sake, to whom I am the final goal, who loves Me only and hates no one - O My dearest son, only he can realize Me!"" </br>
 
 # Prefs
 <table>
