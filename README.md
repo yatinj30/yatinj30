@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन | नरके नियतं वासो भवतीत्यनुशुश्रुम (or नरकेऽनियतं) ||१-४४||" </br>
-Translate: "1.44 The wise say, my Lord, that they are forever lost, whose ancient traditions are lost." </br>
+"न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा | दिव्यं ददामि ते चक्षुः पश्य मे योगमैश्वरम् ||११-८||" </br>
+Translate: "11.8 Yet since with mortal eyes thou canst not see Me, lo! I give thee the Divine Sight. See now the glory of My Sovereignty."" </br>
 
 # Prefs
 <table>
