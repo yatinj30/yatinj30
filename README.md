@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः | रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ||८-१७||" </br>
-Translate: "8.17 Those who understand the cosmic day and cosmic night know that one day of creation is a thousand cycles, and that the night is of equal length." </br>
+"सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत | ज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||१४-९||" </br>
+Translate: "14.9 Purity brings happiness, Passion commotion, and Ignorance, which obscures wisdom, leads to a life of failure." </br>
 
 # Prefs
 <table>
