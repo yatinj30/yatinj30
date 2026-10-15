@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"श्रीभगवानुवाच | काम एष क्रोध एष रजोगुणसमुद्भवः | महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||३-३७||" </br>
-Translate: "3.37 Lord Shri Krishna: It is desire, it is aversion, born of passion. Desire consumes and corrupts everything. It is man's greatest enemy." </br>
+"दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः | वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ||२-५६||" </br>
+Translate: "2.56 The sage, whose mind is unruffled in suffering, whose desire is not roused by enjoyment, who is without attachment, anger or fear - take him to be one who stands at that lofty level." </br>
 
 # Prefs
 <table>
