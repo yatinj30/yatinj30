@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः | मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ||३-२३||" </br>
-Translate: "3.23 For were I not to act without ceasing, O prince, people would be glad to do likewise." </br>
+"अर्जुन उवाच | कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो | किमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ||१४-२१||" </br>
+Translate: "14.21 Arjuna asked: My Lord! By what signs can he who has transcended the Qualities be recognized? How does he act? How does he live beyond them?" </br>
 
 # Prefs
 <table>
