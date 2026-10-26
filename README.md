@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् | मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ||१०-३८||" </br>
-Translate: "10.38 I am the Sceptre of rulers, the Strategy of the conquerors, the Silence of mystery, the Wisdom of the wise." </br>
+"अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति | सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ||४-३०||" </br>
+Translate: "4.30 Others, controlling their diet, sacrifice their worldly life to the spiritual fire. All understand the principal of sacrifice, and by its means their sins are washed away." </br>
 
 # Prefs
 <table>
