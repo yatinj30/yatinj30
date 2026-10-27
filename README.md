@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति | सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः ||४-३०||" </br>
-Translate: "4.30 Others, controlling their diet, sacrifice their worldly life to the spiritual fire. All understand the principal of sacrifice, and by its means their sins are washed away." </br>
+"सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते | ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||१४-११||" </br>
+Translate: "14.11 When the light of knowledge gleams forth from all the gates of the body, then be sure that Purity prevails." </br>
 
 # Prefs
 <table>
