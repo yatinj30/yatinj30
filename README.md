@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् | सम्भवः सर्वभूतानां ततो भवति भारत ||१४-३||" </br>
-Translate: "14.3 The eternal Cosmos is My womb, in which I plant the seed, from which all beings are born, O Prince!" </br>
+"मूढग्राहेणात्मनो यत्पीडया क्रियते तपः | परस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ||१७-१९||" </br>
+Translate: "17.19 Austerity done under delusion, and accompanied with sorcery or torture to oneself or another, may be assumed to spring from Ignorance." </br>
 
 # Prefs
 <table>
