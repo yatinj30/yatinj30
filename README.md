@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति | नायं लोकोऽस्ति न परो न सुखं संशयात्मनः ||४-४०||" </br>
-Translate: "4.40 But the ignorant man, and he who has no faith, and the sceptic are lost. Neither in this world nor elsewhere is there any happiness in store for him who always doubts." </br>
+"मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः | सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ||१८-२६||" </br>
+Translate: "18.26 But when a man has no sentiment and no personal vanity, when he possesses courage and confidence, cares not whether he succeeds or fails, then his action arises from Purity." </br>
 
 # Prefs
 <table>
