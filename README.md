@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"अथवा योगिनामेव कुले भवति धीमताम् | एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ||६-४२||" </br>
-Translate: "6.42 Or, he may be born in the family of the wise sages, though a birth like this is, indeed, very difficult to obtain." </br>
+"यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् | तदोत्तमविदां लोकानमलान्प्रतिपद्यते ||१४-१४||" </br>
+Translate: "14.14 When Purity prevails, the soul on quitting the body passes on to the pure regions where live those who know the Highest." </br>
 
 # Prefs
 <table>
