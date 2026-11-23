@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् | श्रद्धाविरहितं यज्ञं तामसं परिचक्षते ||१७-१३||" </br>
-Translate: "17.13 Sacrifice that is contrary to scriptural command, that is unaccompanied by prayers or gifts of food or money, and is without faith - that is the product of Ignorance." </br>
+"इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः | सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||१४-२||" </br>
+Translate: "14.2 Dwelling in Wisdom and realising My Divinity, they are not born again when the universe is re-created at the beginning of every cycle, nor are they affected when it is dissolved." </br>
 
 # Prefs
 <table>
