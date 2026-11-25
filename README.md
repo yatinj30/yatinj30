@@ -15,8 +15,8 @@
 </br>
 
 ## Shlok of the day 🌞
-"यया धर्ममधर्मं च कार्यं चाकार्यमेव च | अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ||१८-३१||" </br>
-Translate: "18.31 The intellect which does not understand what is right and what is wrong, and what should be done and what not, is under the sway of Passion." </br>
+"त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः | यज्ञदानतपःकर्म न त्याज्यमिति चापरे ||१८-३||" </br>
+Translate: "18.3 Some philosophers say that all action is evil and should be abandoned. Others that acts of sacrifice, benevolence and austerity should not be given up." </br>
 
 # Prefs
 <table>
